@@ -1,0 +1,28 @@
+STRICT SINGLE 2D GAME PROP SPRITE.
+
+Subject:
+- One compact cluster of Hearthvale supply crates and sacks.
+- Dark wooden crates, tied burlap sacks, iron bands, muted earthy colors.
+- No cart, no house, no ground tile, no grass, no cast shadow, no characters, no text, no labels.
+
+Composition:
+- One isolated low supply pile only.
+- Front three-quarter view.
+- Bottom-center anchored.
+- Full object fits inside roughly 65% of canvas width and 45% of canvas height.
+- Keep generous empty magenta margin on every side.
+
+Chroma-key rule:
+- Perfectly flat solid #FF00FF magenta background only.
+
+Accepted postprocess:
+- Source preserved as raw-source.webp.
+- Despill cleanup: remove_chroma_key.py --auto-key border --soft-matte --transparent-threshold 54 --opaque-threshold 132 --edge-contract 1 --edge-feather 0.2 --despill.
+- Sprite processor: generate2dsprite.py process --target asset --mode supply_crates --single-size 512 --threshold 120 --edge-threshold 190.
+- Final local cleanup removed one remaining purple-like key pixel.
+- Runtime file: sprite-transparent.webp.
+
+QC result:
+- 512x512 transparent prop.
+- Zero hot-magenta, pinkish, purpleish, or green-key residue by pixel scan.
+- Zero visible pixels on image edges.

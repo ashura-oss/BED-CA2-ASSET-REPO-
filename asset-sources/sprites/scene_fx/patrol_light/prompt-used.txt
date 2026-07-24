@@ -1,0 +1,29 @@
+STRICT 2x2 looping sprite sheet for a warm gold patrol lantern/searchlight glow in a dark fantasy strategy game.
+
+Canvas and layout:
+- Exactly four animation frames arranged in a 2 columns by 2 rows grid.
+- Each cell is one centered horizontal oval glow, no visible grid lines, no labels, no text.
+- The glow should pulse from narrow to wider and back so it loops cleanly.
+- Keep large empty margins around each glow so runtime scaling never clips on phone, laptop, or desktop canvases.
+
+Art direction:
+- Warm white core with amber and muted orange falloff.
+- Soft smoky edge, readable on a dark Hearthvale night backdrop.
+- No object body, no lantern hardware, no character, no scenery.
+
+Chroma-key rule:
+- Background must be solid flat #FF00FF magenta only, with no texture, no vignette, and no shadow.
+- The glow must not touch the outer image edge or any cell edge.
+
+Accepted postprocess:
+- Original generated source preserved as raw-sheet-generated-original.webp.
+- Normalized to a 1024x1024 2x2 source grid as raw-sheet.webp.
+- Chroma cleanup used border-sampled soft matte and despill:
+  remove_chroma_key.py --auto-key border --soft-matte --transparent-threshold 24 --opaque-threshold 118 --edge-feather 0.3 --despill
+- Sprite processor:
+  generate2dsprite.py process --target asset --mode patrol_light --rows 2 --cols 2 --cell-size 512 --label-prefix scene-patrol-light --fit-scale 0.86 --component-mode all --duration 150 --threshold 120 --edge-threshold 190
+
+QC result:
+- 4 frames, 512x512 each, composed into sheet-transparent.webp.
+- Zero hot-magenta, pinkish, or purpleish residue by pixel scan.
+- Zero opaque or partial-alpha pixels on frame edges.

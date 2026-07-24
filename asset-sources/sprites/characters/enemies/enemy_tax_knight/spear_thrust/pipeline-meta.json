@@ -1,0 +1,323 @@
+{
+  "target": "asset",
+  "mode": "attack",
+  "prompt": "Calenor close spear jab enemy body sheet, 8 frames, 2x4, clean HD, no horizontal spear, full body, facing left, stable feet, solid #FF00FF background, no text.",
+  "role": "",
+  "input": "public\\assets\\sprites\\characters\\enemies\\enemy_tax_knight\\spear_thrust\\raw-sheet.webp",
+  "threshold": 160,
+  "edge_threshold": 230,
+  "duration": 95,
+  "rows": 2,
+  "cols": 4,
+  "cell_size": 512,
+  "fit_scale": 0.82,
+  "trim_border": 4,
+  "edge_clean_depth": 3,
+  "align": "feet",
+  "shared_scale": true,
+  "component_mode": "largest",
+  "component_padding": 0,
+  "min_component_area": 1,
+  "edge_touch_margin": 8,
+  "frame_labels": [
+    "thrust-1",
+    "thrust-2",
+    "thrust-3",
+    "thrust-4",
+    "thrust-5",
+    "thrust-6",
+    "thrust-7",
+    "thrust-8"
+  ],
+  "frames": [
+    {
+      "grid": [
+        0,
+        0
+      ],
+      "source_box": [
+        0,
+        0,
+        443,
+        443
+      ],
+      "component_mode": "largest",
+      "component_count": 5,
+      "selected_component_area": 42622,
+      "selected_component_bbox": [
+        140,
+        95,
+        362,
+        426
+      ],
+      "crop_bbox": [
+        140,
+        95,
+        362,
+        426
+      ],
+      "edge_touch": false,
+      "output_size": [
+        281,
+        419
+      ],
+      "paste_position": [
+        115,
+        47
+      ]
+    },
+    {
+      "grid": [
+        0,
+        1
+      ],
+      "source_box": [
+        443,
+        0,
+        886,
+        443
+      ],
+      "component_mode": "largest",
+      "component_count": 12,
+      "selected_component_area": 42449,
+      "selected_component_bbox": [
+        94,
+        95,
+        334,
+        426
+      ],
+      "crop_bbox": [
+        94,
+        95,
+        334,
+        426
+      ],
+      "edge_touch": false,
+      "output_size": [
+        304,
+        419
+      ],
+      "paste_position": [
+        104,
+        47
+      ]
+    },
+    {
+      "grid": [
+        0,
+        2
+      ],
+      "source_box": [
+        886,
+        0,
+        1329,
+        443
+      ],
+      "component_mode": "largest",
+      "component_count": 10,
+      "selected_component_area": 41459,
+      "selected_component_bbox": [
+        68,
+        95,
+        306,
+        426
+      ],
+      "crop_bbox": [
+        68,
+        95,
+        306,
+        426
+      ],
+      "edge_touch": false,
+      "output_size": [
+        301,
+        419
+      ],
+      "paste_position": [
+        105,
+        47
+      ]
+    },
+    {
+      "grid": [
+        0,
+        3
+      ],
+      "source_box": [
+        1329,
+        0,
+        1772,
+        443
+      ],
+      "component_mode": "largest",
+      "component_count": 10,
+      "selected_component_area": 40044,
+      "selected_component_bbox": [
+        39,
+        127,
+        310,
+        424
+      ],
+      "crop_bbox": [
+        39,
+        127,
+        310,
+        424
+      ],
+      "edge_touch": false,
+      "output_size": [
+        343,
+        376
+      ],
+      "paste_position": [
+        84,
+        90
+      ]
+    },
+    {
+      "grid": [
+        1,
+        0
+      ],
+      "source_box": [
+        0,
+        443,
+        443,
+        886
+      ],
+      "component_mode": "largest",
+      "component_count": 17,
+      "selected_component_area": 39470,
+      "selected_component_bbox": [
+        133,
+        81,
+        398,
+        375
+      ],
+      "crop_bbox": [
+        133,
+        81,
+        398,
+        375
+      ],
+      "edge_touch": false,
+      "output_size": [
+        336,
+        372
+      ],
+      "paste_position": [
+        88,
+        94
+      ]
+    },
+    {
+      "grid": [
+        1,
+        1
+      ],
+      "source_box": [
+        443,
+        443,
+        886,
+        886
+      ],
+      "component_mode": "largest",
+      "component_count": 7,
+      "selected_component_area": 42408,
+      "selected_component_bbox": [
+        106,
+        50,
+        335,
+        381
+      ],
+      "crop_bbox": [
+        106,
+        50,
+        335,
+        381
+      ],
+      "edge_touch": false,
+      "output_size": [
+        290,
+        419
+      ],
+      "paste_position": [
+        111,
+        47
+      ]
+    },
+    {
+      "grid": [
+        1,
+        2
+      ],
+      "source_box": [
+        886,
+        443,
+        1329,
+        886
+      ],
+      "component_mode": "largest",
+      "component_count": 7,
+      "selected_component_area": 41953,
+      "selected_component_bbox": [
+        86,
+        50,
+        304,
+        381
+      ],
+      "crop_bbox": [
+        86,
+        50,
+        304,
+        381
+      ],
+      "edge_touch": false,
+      "output_size": [
+        276,
+        419
+      ],
+      "paste_position": [
+        118,
+        47
+      ]
+    },
+    {
+      "grid": [
+        1,
+        3
+      ],
+      "source_box": [
+        1329,
+        443,
+        1772,
+        886
+      ],
+      "component_mode": "largest",
+      "component_count": 9,
+      "selected_component_area": 42102,
+      "selected_component_bbox": [
+        71,
+        50,
+        290,
+        381
+      ],
+      "crop_bbox": [
+        71,
+        50,
+        290,
+        381
+      ],
+      "edge_touch": false,
+      "output_size": [
+        277,
+        419
+      ],
+      "paste_position": [
+        117,
+        47
+      ]
+    }
+  ],
+  "edge_touch_frames": []
+}

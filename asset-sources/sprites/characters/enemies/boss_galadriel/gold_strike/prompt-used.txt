@@ -1,0 +1,40 @@
+Create one production-ready 2D game sprite sheet for boss Galadriel, action: GOLD_STRIKE, body-only attack animation.
+
+Canvas and grid:
+- Single image, exact 3 rows x 4 columns = 12 animation frames.
+- Solid flat chroma background: #FF00FF only, perfectly uniform. No gradients, texture, shadows, transparency, or anti-aliased magenta edges.
+- Each frame must be clearly separated by the grid layout, reading left to right, top to bottom.
+- Each frame contains one full-body character centered in its own cell, with at least 12% empty safe padding on every side.
+- Stable foot/bottom anchor across all frames; feet remain near the same baseline.
+- Character occupies about 55-62% of cell height, never cropped, no hair, robe, hands, glow, or sparks touching cell borders.
+
+Character identity and style:
+- Same identity as the accepted Galadriel idle boss sheet: regal elven queen, pale gold flowing hair, delicate gold crown, gold-and-white armor, long white-gold embroidered robes/cloak, elegant fantasy RPG boss sprite, clean painted high-detail game art.
+- Three-quarter facing left, consistent body proportions and face across frames.
+- No weapon, no staff, no banner, no sword, no shield, no ring prop, no floating object.
+- Do not use magenta, pink, purple, violet, or rose colors anywhere on the character or effects.
+
+Animation sequence, 12 frames:
+1 ready stance, right hand close to chest, calm stern face.
+2 hand draws back slightly, shoulders prepare.
+3 torso turns left, cloak follows subtly.
+4 compact golden energy gathers tightly around forearm and palm, close to body only.
+5 strike wind-up, elbow forward, gold light still attached to hand.
+6 peak open-palm gold strike, body leans forward, strongest glow limited to hand/forearm.
+7 follow-through with robe motion, glow fading, still attached to hand.
+8 hand retracts, shoulders settle.
+9 cloak and hair recover, feet unchanged.
+10 returns toward ready pose.
+11 quiet golden residue on palm only.
+12 ready pose matching frame 1 for a smooth loop.
+
+Strict body-only constraints:
+- No detached slash arc, no projectile, no impact burst, no wide aura, no beam, no circular spell ring, no ground effect.
+- Gold light must stay compact and attached to palm/forearm, not extending outside the character silhouette by more than a small hand glow.
+- Avoid excessive hair or cloak spread; keep the whole body compact for mobile screens.
+- No text, labels, numbers, watermark, borders, guides, UI, or extra characters.
+
+Make the result clean enough for chroma-key extraction into transparent WebP sprite variants.
+
+Result:
+- Candidate 1 accepted as source art. Source file preserved as raw-sheet-generated.webp.

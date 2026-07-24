@@ -1,0 +1,175 @@
+{
+  "target": "npc",
+  "mode": "idle",
+  "prompt": "",
+  "role": "",
+  "input": "public\\assets\\sprites\\characters\\npcs\\captain_edran\\idle\\raw-sheet.webp",
+  "threshold": 130,
+  "edge_threshold": 190,
+  "duration": 135,
+  "rows": 2,
+  "cols": 2,
+  "cell_size": 512,
+  "fit_scale": 0.82,
+  "trim_border": 4,
+  "edge_clean_depth": 4,
+  "align": "bottom",
+  "shared_scale": true,
+  "component_mode": "largest",
+  "component_padding": 8,
+  "min_component_area": 12,
+  "edge_touch_margin": 0,
+  "frame_labels": [
+    "captain-edran-idle-1",
+    "captain-edran-idle-2",
+    "captain-edran-idle-3",
+    "captain-edran-idle-4"
+  ],
+  "frames": [
+    {
+      "grid": [
+        0,
+        0
+      ],
+      "source_box": [
+        0,
+        0,
+        627,
+        627
+      ],
+      "component_mode": "largest",
+      "component_count": 1,
+      "selected_component_area": 84286,
+      "selected_component_bbox": [
+        188,
+        41,
+        428,
+        577
+      ],
+      "crop_bbox": [
+        180,
+        33,
+        436,
+        585
+      ],
+      "edge_touch": false,
+      "output_size": [
+        194,
+        419
+      ],
+      "paste_position": [
+        159,
+        47
+      ]
+    },
+    {
+      "grid": [
+        0,
+        1
+      ],
+      "source_box": [
+        627,
+        0,
+        1254,
+        627
+      ],
+      "component_mode": "largest",
+      "component_count": 1,
+      "selected_component_area": 87956,
+      "selected_component_bbox": [
+        162,
+        41,
+        417,
+        577
+      ],
+      "crop_bbox": [
+        154,
+        33,
+        425,
+        585
+      ],
+      "edge_touch": false,
+      "output_size": [
+        205,
+        419
+      ],
+      "paste_position": [
+        153,
+        47
+      ]
+    },
+    {
+      "grid": [
+        1,
+        0
+      ],
+      "source_box": [
+        0,
+        627,
+        627,
+        1254
+      ],
+      "component_mode": "largest",
+      "component_count": 1,
+      "selected_component_area": 86196,
+      "selected_component_bbox": [
+        193,
+        35,
+        448,
+        572
+      ],
+      "crop_bbox": [
+        185,
+        27,
+        456,
+        580
+      ],
+      "edge_touch": false,
+      "output_size": [
+        205,
+        419
+      ],
+      "paste_position": [
+        153,
+        47
+      ]
+    },
+    {
+      "grid": [
+        1,
+        1
+      ],
+      "source_box": [
+        627,
+        627,
+        1254,
+        1254
+      ],
+      "component_mode": "largest",
+      "component_count": 1,
+      "selected_component_area": 83553,
+      "selected_component_bbox": [
+        159,
+        35,
+        398,
+        572
+      ],
+      "crop_bbox": [
+        151,
+        27,
+        406,
+        580
+      ],
+      "edge_touch": false,
+      "output_size": [
+        193,
+        419
+      ],
+      "paste_position": [
+        159,
+        47
+      ]
+    }
+  ],
+  "edge_touch_frames": []
+}

@@ -1,0 +1,37 @@
+Create a clean HD 2D game character spritesheet for Aren performing a command/cast gesture.
+
+OUTPUT FORMAT
+- Exactly 8 animation frames in a 2 rows x 4 columns grid.
+- Each cell is exactly 512 x 512 px, total sheet exactly 2048 x 1024 px.
+- Use a solid flat #FF00FF background in every cell.
+- Keep every part of the character at least 60 px inside each cell edge, including cloak, sword, boots, hands, and hair.
+- No labels, no text, no frame numbers, no borders, no UI.
+
+CHARACTER IDENTITY LOCK
+- Same character in every frame: Aren, human village soldier from Hearthvale, early rebel era.
+- Dark messy hair, scarred serious human face, no helmet.
+- Practical dark leather over worn mail, ash-stained and road-worn.
+- Torn grey march cloak with ragged holes and heavy cloth folds.
+- Blackened Hearthvale sword stays attached to the body silhouette, held low or close to the side.
+- Leather belts, boots, bracers, grounded soldier proportions.
+- Clean HD 2D game sprite style, painterly but readable in gameplay, not pixel art.
+- 3/4 side battle view, facing toward screen-right.
+
+ACTION SEQUENCE
+- Body-only command/cast gesture for rally, medicine, forge temper, crown command, recovery, and support abilities.
+- Frame 1: stable guarded stance, sword low and close.
+- Frame 2: Aren plants his feet and starts lifting his off hand.
+- Frame 3: off hand rises to chest height, head turns toward allies.
+- Frame 4: commanding arm extends forward/upward, cloak shifts slightly.
+- Frame 5: strongest command pose, palm open, sword still controlled and close.
+- Frame 6: arm begins to lower, shoulders settle.
+- Frame 7: breath and cloak settle back toward idle.
+- Frame 8: returns to guarded stance, loop-safe with frame 1.
+
+STRICT BODY-ONLY RULES
+- Do not include magic circles, ring pulses, crown rings, glowing icons, healing symbols, fire, smoke, slash arcs, projectiles, hit sparks, speed lines, or detached light trails.
+- Do not crop any body part.
+- Keep feet anchored to the same baseline in all frames.
+- Keep character height and scale consistent across all frames.
+- Keep the extended hand inside the central safe zone; do not let the arm reach the cell edge.
+- Do not change outfit, face, hair, weapon, color palette, or art style between frames.

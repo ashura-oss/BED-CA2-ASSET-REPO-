@@ -1,0 +1,9 @@
+Use case: stylized-concept
+Asset type: baked raster UI local-map background for a Phaser navigation screen
+Primary request: Create the local parchment map base for Dawn of Man, replacing a procedural/SVG local parchment map background.
+Scene/backdrop: an aged close-up parchment map plate for a selected story location, showing local terrain only: a winding road bed across the lower middle, soft hills, a small river bend, faint field boundaries, low village/fort/city silhouette stamps as background ink, and worn burnt paper edges. It should work for any selected node as a generic local area map.
+Style/medium: clean hand-painted parchment map, ink-and-wash fantasy cartography, readable but restrained, lower contrast than character art, no chunky pixel art, no hard vector look.
+Composition/framing: wide 16:9 local map plate, full parchment visible edge-to-edge, path corridor runs from lower-left toward upper-right with generous low-noise space for Phaser to draw local route lines, clickable pins, labels, and selected-story overlays. Keep landmark stamps subtle and mostly away from the central label corridor.
+Lighting/mood: antique warm parchment, dark burnt vignette edges, soft ink, muted brown and moss accents, no glossy lighting.
+Constraints: terrain and parchment only. Do not draw node pins, circles, dots, dashed routes, labels, tag names, title text, legend boxes, compass text, UI, readable writing, numbers, icons, characters, creatures, flags, or bright markers. No text of any kind. Avoid strong detail exactly where local node labels will render.
+Output intent: final image will be loaded by Phaser as `LOCAL_MAP_ASSET` and stretched behind separate route and local-node overlays; all gameplay state remains in code, not baked into the image.

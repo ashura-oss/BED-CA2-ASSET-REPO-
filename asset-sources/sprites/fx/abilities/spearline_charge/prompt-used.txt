@@ -1,0 +1,9 @@
+Use case: stylized-concept
+Asset type: 8-frame combat ability FX sprite sheet for a dark medieval fantasy web game
+Primary request: Create "Spearline Charge": an advancing horizontal wedge of pale steel spear-tip streaks and compressed dust that builds from a narrow line into a disciplined formation surge, lands in one broad frontal shock, then breaks into fading trails.
+Scene/backdrop: perfectly flat solid #FF00FF chroma-key background.
+Subject: effects only—abstract spear-tip light streaks and dust, no characters, soldiers, weapons as standalone objects, horses, flags, scenery, labels, or UI.
+Style/medium: painterly illustrated game VFX, crisp silhouette, austere dark-fantasy military realism.
+Composition/framing: exact 2 rows by 4 columns, eight equal cells in left-to-right then top-to-bottom animation order. One distinct phase centered in each cell. Generous consistent padding; no effect crosses cell boundaries; no grid lines.
+Lighting/mood: cold steel, gray dust, restrained muted gold; disciplined mass and momentum.
+Constraints: perfectly uniform #FF00FF outside effects; no background gradient, shadows, texture, floor plane, transparency, text, watermark, characters, duplicates, panel borders, or clipping.

@@ -1,0 +1,32 @@
+Create a production-ready 2D game FX sprite sheet for a shield crack / guard break impact.
+
+STRICT SPRITE SHEET FORMAT:
+- Exactly 6 animation frames arranged in a clean 3 columns x 2 rows grid.
+- Intended cell size is 512 x 512 pixels per frame; full sheet should read as 1536 x 1024.
+- Solid flat #FF00FF magenta background in every cell for chroma-key cleanup.
+- No transparent background in the raw image; magenta must be perfectly flat and untextured.
+- No borders, no gutters, no frame numbers, no text, no watermark, no UI.
+- Each frame must be centered in its own cell with at least 64 px safe padding from all cell edges.
+- Do not let sparks, cracks, arcs, dust, or glow touch any frame edge.
+
+ART DIRECTION:
+- Clean HD 2D game sprite, painterly but crisp and readable in gameplay.
+- FX-only animation: NO characters, NO hands, NO weapons, NO physical shield item, NO environment.
+- The effect is a compact guard-break shield crack: a faint translucent curved shield plane shatters for a moment, with amber-white cracks, iron sparks, small ember flecks, and a short concussive burst.
+- Shape should read as a defensive guard breaking, not an explosion. Keep it compact and directional, suitable to layer over an enemy/player torso.
+- Palette: hot white crack core, amber/orange sparks, muted iron grey fragments, subtle smoky ash; avoid neon rainbow colors.
+
+FRAME SEQUENCE:
+1. Tiny bright contact point and faint curved shield outline beginning to fracture.
+2. Crack lines spread across a partial shield arc with first sparks.
+3. Peak impact: strongest amber-white crack burst and small shard flecks, still inside padding.
+4. Crack arc opens and fragments separate, glow starts fading.
+5. Sparks trail outward and shield arc dissolves into ash motes.
+6. Nearly faded residual embers and faint crack dust, still visible but small.
+
+QUALITY REQUIREMENTS:
+- Consistent scale and center point across all frames.
+- High contrast against magenta so postprocessing can remove background cleanly.
+- Keep the FX readable when downscaled to 256 px cells.
+- No motion blur that merges with the magenta background.
+- No clipped content, no edge contact, no decorative border lines.

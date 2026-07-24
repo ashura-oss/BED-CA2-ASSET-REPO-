@@ -1,0 +1,45 @@
+{
+  "action": "opening",
+  "frameCount": 8,
+  "columns": 8,
+  "rows": 1,
+  "frameWidth": 512,
+  "frameHeight": 512,
+  "durationMs": 100,
+  "frameRate": 10,
+  "sourceGeneratedLayout": {
+    "columns": 4,
+    "rows": 2
+  },
+  "source": "raw-sheet-generated-original.webp",
+  "transparentSource": "raw-sheet-transparent.webp",
+  "cleanSheet": "sheet-transparent.webp",
+  "audioHooks": [
+    "treasure_latch",
+    "treasure_open",
+    "treasure_reveal"
+  ],
+  "runtime": {
+    "desktop": {
+      "path": "/assets/sprites/ui/treasure_chest/opening/runtime/desktop.webp",
+      "frameWidth": 512,
+      "frameHeight": 512,
+      "sheetWidth": 4096,
+      "sheetHeight": 512
+    },
+    "tablet": {
+      "path": "/assets/sprites/ui/treasure_chest/opening/runtime/tablet.webp",
+      "frameWidth": 384,
+      "frameHeight": 384,
+      "sheetWidth": 3072,
+      "sheetHeight": 384
+    },
+    "mobile": {
+      "path": "/assets/sprites/ui/treasure_chest/opening/runtime/mobile.webp",
+      "frameWidth": 256,
+      "frameHeight": 256,
+      "sheetWidth": 2048,
+      "sheetHeight": 256
+    }
+  }
+}

@@ -1,0 +1,16 @@
+Use case: stylized-concept
+Asset type: 2D game sprite animation sheet for a Phaser combat actor
+Primary request: Create Aren, Hearthvale rebel soldier, heavy sword attack body animation, exactly 2 rows x 4 columns, 8 frames total.
+Reference role: Use the character sheet just shown as the visual identity reference for Aren. Preserve the same human face, dark messy hair, practical dark leather over worn mail, ash-stained colors, grey torn march cloak, blackened sword, proportions, painterly clean-HD sprite style, and 3/4 side battle view facing screen-right. Use the layout guide image just shown only to understand the invisible equal cell slots, centering, spacing, and safe padding. Do not reproduce the guide: no visible boxes, no blue safe-area rectangles, no center marks, no labels, no white guide background, no borders.
+Style/medium: clean HD 2D game sprite, painterly but gameplay-readable, crisp silhouette, not pixel art.
+View: 3/4 side battle view, full body visible, grounded feet.
+Sheet: exactly 2 rows x 4 columns of equal cells, read left-to-right across row 1 then row 2.
+Frame motion: frame 1 upright braced stance; frame 2 shoulders load the sword close to the body; frame 3 sword raises only slightly above the shoulder, body still upright; frame 4 heavy downward diagonal chop begins, knees only slightly bent; frame 5 peak committed chop, body remains near full height; frame 6 short follow-through close to torso; frame 7 sword recovers inward; frame 8 upright loop-ready guarded stance.
+Constant-height rule: every frame must keep Aren standing near full height. No deep crouch, no kneeling, no low lunge, no falling pose, no frame where the head drops far below the previous frames. Feet stay planted near the same bottom anchor and the actor silhouette height stays consistent across all 8 cells.
+Body-only action rule: no detached slash arcs, no glow trails, no projectiles, no impact bursts, no dust clouds, no smoke, no speed lines, no wide weapon trails. The sword may feel heavy and forceful but must stay close enough that the body bbox does not shrink compared with idle/run/basic attack.
+Weapon containment rule: no straight horizontal thrust, no long sword extension past the boots or shoulders, no sword tip touching a cell edge. Keep the sword diagonal and close to the torso.
+Cloak containment rule: keep the grey cloak wrapped close behind the body. No wind-blown cloak stretching left or right. Ragged cloak holes are okay only if they stay close to the torso and never touch a cell edge.
+Frame rules: same identity in every frame, same body scale as the accepted Aren sheets, same feet/bottom anchor, body centered in every cell, full silhouette inside the central 50-55% safe area of each cell, clear flat magenta gutter on all four sides of every cell.
+Background: perfectly flat solid #FF00FF magenta across the entire sheet, no gradients, no shadows, no texture, no floor plane.
+Constraints: no text, no labels, no UI, no frame numbers, no watermark, no visible grid lines or panel borders, no body part, weapon, cloak, hair, boot, or fabric crossing or touching any cell edge.
+Avoid: costume drift, face drift, weapon redesign, oversized pose, crouching too low, kneeling, cropped limbs, edge contact, transparent raw background, black background, white background, decorative effects.

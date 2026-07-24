@@ -1,0 +1,249 @@
+{
+  "target": "asset",
+  "mode": "idle",
+  "prompt": "Grak of Broken Tusk orc raider idle body sheet, 6 frames, 2x3, clean HD, broken tusk, crude armor, close cleaver, full body, facing left, stable feet, solid #FF00FF background, no text.",
+  "role": "",
+  "input": "public\\assets\\sprites\\characters\\enemies\\enemy_orc_raider\\idle\\raw-sheet.webp",
+  "threshold": 160,
+  "edge_threshold": 230,
+  "duration": 130,
+  "rows": 2,
+  "cols": 3,
+  "cell_size": 512,
+  "fit_scale": 0.82,
+  "trim_border": 4,
+  "edge_clean_depth": 3,
+  "align": "feet",
+  "shared_scale": true,
+  "component_mode": "largest",
+  "component_padding": 0,
+  "min_component_area": 1,
+  "edge_touch_margin": 8,
+  "frame_labels": [
+    "idle-1",
+    "idle-2",
+    "idle-3",
+    "idle-4",
+    "idle-5",
+    "idle-6"
+  ],
+  "frames": [
+    {
+      "grid": [
+        0,
+        0
+      ],
+      "source_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "component_mode": "largest",
+      "component_count": 33,
+      "selected_component_area": 80381,
+      "selected_component_bbox": [
+        93,
+        54,
+        435,
+        473
+      ],
+      "crop_bbox": [
+        93,
+        54,
+        435,
+        473
+      ],
+      "edge_touch": false,
+      "output_size": [
+        338,
+        414
+      ],
+      "paste_position": [
+        87,
+        52
+      ]
+    },
+    {
+      "grid": [
+        0,
+        1
+      ],
+      "source_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "component_mode": "largest",
+      "component_count": 46,
+      "selected_component_area": 79404,
+      "selected_component_bbox": [
+        59,
+        53,
+        391,
+        473
+      ],
+      "crop_bbox": [
+        59,
+        53,
+        391,
+        473
+      ],
+      "edge_touch": false,
+      "output_size": [
+        328,
+        415
+      ],
+      "paste_position": [
+        92,
+        51
+      ]
+    },
+    {
+      "grid": [
+        0,
+        2
+      ],
+      "source_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "component_mode": "largest",
+      "component_count": 44,
+      "selected_component_area": 80640,
+      "selected_component_bbox": [
+        11,
+        58,
+        347,
+        473
+      ],
+      "crop_bbox": [
+        11,
+        58,
+        347,
+        473
+      ],
+      "edge_touch": false,
+      "output_size": [
+        332,
+        410
+      ],
+      "paste_position": [
+        90,
+        56
+      ]
+    },
+    {
+      "grid": [
+        1,
+        0
+      ],
+      "source_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "component_mode": "largest",
+      "component_count": 27,
+      "selected_component_area": 79823,
+      "selected_component_bbox": [
+        100,
+        23,
+        431,
+        441
+      ],
+      "crop_bbox": [
+        100,
+        23,
+        431,
+        441
+      ],
+      "edge_touch": false,
+      "output_size": [
+        327,
+        413
+      ],
+      "paste_position": [
+        92,
+        53
+      ]
+    },
+    {
+      "grid": [
+        1,
+        1
+      ],
+      "source_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "component_mode": "largest",
+      "component_count": 42,
+      "selected_component_area": 80194,
+      "selected_component_bbox": [
+        40,
+        17,
+        372,
+        441
+      ],
+      "crop_bbox": [
+        40,
+        17,
+        372,
+        441
+      ],
+      "edge_touch": false,
+      "output_size": [
+        328,
+        419
+      ],
+      "paste_position": [
+        92,
+        47
+      ]
+    },
+    {
+      "grid": [
+        1,
+        2
+      ],
+      "source_box": [
+        1024,
+        512,
+        1536,
+        1024
+      ],
+      "component_mode": "largest",
+      "component_count": 34,
+      "selected_component_area": 80461,
+      "selected_component_bbox": [
+        9,
+        17,
+        339,
+        441
+      ],
+      "crop_bbox": [
+        9,
+        17,
+        339,
+        441
+      ],
+      "edge_touch": false,
+      "output_size": [
+        326,
+        419
+      ],
+      "paste_position": [
+        93,
+        47
+      ]
+    }
+  ],
+  "edge_touch_frames": []
+}

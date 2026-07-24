@@ -1,0 +1,7 @@
+Built-in image_gen identity-reference prompt (reference: accepted Dawn Longbow idle)
+
+Matching Dawn Court Dawn Longbow ORDER action, preserving accepted pale silver armor, white cloth, restrained gold trim, white hair, ivory-and-gold longbow, white-fletched arrows, anatomy, camera, scale, and hand-painted HD rendering.
+
+Exactly six equal invisible cells in a 2x3 grid: rooted alert, bow rises/reach arrow, nock, full draw to cheek, release, settle. Only the held/nocked arrow; no detached flying projectile. Same standing-equivalent scale and shared boot baseline. Central 58% safe area; full bow, string, arrow before release, quiver, hair, mantle, elbows, and boots contained.
+
+Perfectly uniform solid flat #FF00FF background. No gradient, texture, floor, shadow, scenery, grid, border, separators, text, labels, UI, watermark, magic FX, second figure, or edge crossing.

@@ -1,0 +1,28 @@
+Create a production-ready 2D game item icon for the White Spear of Lindon.
+
+STRICT ICON FORMAT:
+- Single centered weapon icon, square composition.
+- Solid flat #FF00FF magenta background for chroma-key cleanup.
+- No transparent raw background; magenta must be perfectly flat and untextured.
+- No text, no labels, no UI frame, no border, no watermark, no corner decorations.
+- Leave at least 96 px empty magenta padding around the full silhouette.
+- No part of the spearhead, shaft, wrap, highlight, or shadow may touch the image edge.
+
+ITEM IDENTITY:
+- White Spear of Lindon: a silver-white spear taken from Lindon's crown guard.
+- Elegant but weapon-practical, elven-made, with a leaf-shaped spearhead.
+- Pale silver spearhead, subtle white-gold inlay, long ash-white shaft, refined grip wrap.
+- It should feel superior and royal, but still readable as a spear, not a magic staff.
+- No character hands, no banner, no floating runes, no ring halo.
+
+ART DIRECTION:
+- Clean HD 2D game icon, painterly but crisp and readable at 64 px.
+- Three-quarter angled weapon pose, spear running from lower-left to upper-right.
+- Strong long silhouette, high contrast against magenta, readable spearhead and shaft.
+- No background scene, no floor, no drop shadow outside the weapon silhouette.
+- Palette: pale silver, white ash shaft, restrained gold accent, cool grey edge shadows.
+
+QUALITY REQUIREMENTS:
+- The icon must still read as a spear when downscaled to 64 px.
+- Keep the spear centered and compact within the safe area; do not make it edge-to-edge.
+- Avoid oversized glow, spell effects, decorative frame, text, blood, smoke, sparks, or a staff-like silhouette.

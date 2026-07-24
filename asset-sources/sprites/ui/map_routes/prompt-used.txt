@@ -1,0 +1,13 @@
+Use case: stylized-concept
+Asset type: UI map route stroke sprite sheet for a Phaser fantasy RPG map
+Input images: The image just shown is a layout-only guide for a 2x2 grid. Use it only to understand rows, columns, equal invisible frame slots, centering, spacing, and safe padding. Do not reproduce the guide: no visible boxes, no safe-area rectangles, no center marks, no labels, no borders, no guide background.
+Primary request: Create one raw 2x2 sprite sheet with exactly four equal cells for Dawn of Man parchment-map route strokes.
+Style/medium: clean hand-painted parchment-map UI brush strokes, ink-and-wash fantasy cartography, crisp when scaled small, not pixel art, not vector-flat.
+Sheet layout: exactly 2 rows and 2 columns. Each cell contains one centered standalone horizontal route stroke segment on a perfectly flat solid #FF00FF magenta chroma-key background. No visible dividers.
+Cell 1, row 1 column 1: broad dark-brown road underlay stroke, soft rough brush edges, about 300 pixels wide and 64 pixels tall inside the cell.
+Cell 2, row 1 column 2: narrow dark-ink highlight stroke with a slightly broken dashed/painted center, about 260 pixels wide and 34 pixels tall inside the cell.
+Cell 3, row 2 column 1: broad local-map road underlay stroke, warmer brown, soft rough brush edges, about 300 pixels wide and 70 pixels tall inside the cell.
+Cell 4, row 2 column 2: narrow local-map ink highlight stroke, dark brown with a subtle parchment-worn gap pattern, about 260 pixels wide and 34 pixels tall inside the cell.
+Composition/framing: each stroke centered horizontally and vertically in its invisible cell, same general left-to-right orientation, generous magenta margin on every side, no stroke touches cell edges.
+Background: perfectly flat solid #FF00FF magenta across the whole sheet, no shadows, gradients, texture, floor plane, or transparency.
+Constraints: no text, no numbers, no letters, no labels, no UI panels, no watermark, no visible grid lines, no borders, no arrows, no pins, no nodes, no characters, no creatures. Do not use magenta, hot pink, neon pink, or purple in any stroke because #FF00FF is reserved for background removal.

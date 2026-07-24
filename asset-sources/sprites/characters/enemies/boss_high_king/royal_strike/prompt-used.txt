@@ -1,0 +1,57 @@
+Use case: stylized-concept
+Asset type: clean HD 2D game boss character sprite sheet for Dawn of Man
+
+Use the Arvand idle sprite sheet image shown earlier as the visual identity reference. Preserve Arvand's same white and gold armor, high crown, long white-gold cloak, stern elven face, polished silver-white plate, gold trim, sword, material language, clean HD 2D game sprite style, and left-facing 3/4 battle view.
+
+Use the layout guide image just shown as a layout-only reference. Use it only to understand the rows, columns, equal invisible frame slots, centering, spacing, and safe padding. Do not reproduce the guide: no visible boxes, no blue rectangles, no black grid, no dashed center marks, no labels, no borders, no guide background.
+
+PRIMARY REQUEST:
+Create one raw sprite sheet for Arvand, High King of Lindon, royal_strike body animation. Candidate 1 and 2 were rejected because sword/pose content touched or came too close to cell edges. This candidate must prioritize safe padding over dramatic reach.
+
+STRICT OUTPUT FORMAT:
+- One sprite sheet image only, exactly 3 rows x 4 columns, 12 frames total.
+- Equal square cells, intended as 512x512 pixels each, overall sheet intended as 2048x1536.
+- Solid flat #FF00FF magenta background in every cell for chroma key cleanup.
+- No transparency, no checkerboard, no background gradients.
+- No text, labels, frame numbers, UI, borders, gutters, watermarks, captions, or visible layout-guide marks.
+
+CHARACTER IDENTITY LOCK:
+- Arvand, final elven High King of Lindon.
+- Tall controlled elven king in white and gold royal armor with elegant crown authority.
+- White-gold cloak, polished silver-white plate, gold trim, high crown, stern calm face, sword in hand.
+- Regal final-boss silhouette, not bulky, not monstrous, not a human peasant, not Galadriel.
+- Every frame stays in left-facing 3/4 side battle view. Do not turn him front-facing, right-facing, or back-facing.
+- Match the accepted idle reference's head size, body height, armor design, crown shape, cloak shape, sword length, and general scale.
+
+ANIMATION PLAN, READ LEFT TO RIGHT ACROSS ROWS:
+1-2: poised royal wind-up from idle, sword lifted close to the torso.
+3-4: controlled shoulder turn and compact diagonal preparation, blade stays near vertical inside the body silhouette.
+5-7: close royal diagonal cut across his own centerline, no far reach; the attack is expressed by torso rotation, arm bend, and cloak motion rather than a long sword extension.
+8-9: compact follow-through with sword angled down close to legs and cloak settling.
+10-12: recovery back toward the idle boss stance, feet return to the same baseline.
+
+CRITICAL SAFE-PADDING RULES:
+- Keep Arvand entirely inside the inner safe area of each invisible cell.
+- Leave large flat #FF00FF margin around crown, cloak, sword tip, boots, hair, and cape in every frame.
+- NO sword tip within 96px of any cell edge.
+- NO horizontal thrust pose.
+- NO fully extended straight sword across the cell.
+- NO long diagonal reaching toward cell corners.
+- NO blade crossing or nearly crossing a cell boundary.
+- Keep the sword compact, angled vertical/downward/diagonal, and inside the cloak-width silhouette.
+
+BODY-ONLY ATTACK RULES:
+- No detached slash arc, no wide weapon trail, no projectile, no impact burst, no ring pulse, no shield wall, no aura, no dust cloud, no sparks floating outside the body silhouette.
+- The sword must not force the body to shrink in the cell.
+- Keep the weapon, arms, cloak, hair, crown, boots, and cape fully inside each cell.
+- Feet must remain planted on the same bottom baseline in all frames.
+- Preserve identical body scale and stable centerline across all 12 frames.
+
+COMPOSITION AND CLEANUP RULES:
+- One full-body Arvand per cell, centered consistently.
+- Subject should fill only the central 50% to 58% safe area of each cell.
+- Keep generous #FF00FF margin on all four sides of every cell.
+- No cropped limbs, no extra characters, no duplicated ghost bodies, no scenery.
+- Avoid magenta, pink, purple, violet, rose, and red anywhere in the character or effects.
+- Avoid black scribble artifacts, torn shadow debris, random dark fragments, excessive grime, and noisy cloak breakup; keep cloak and armor surfaces clean, continuous, and readable.
+- Crisp game-ready sprite edges, strong readability over a dark combat scene, smooth animation poses, consistent anatomy.

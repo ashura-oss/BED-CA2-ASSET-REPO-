@@ -1,0 +1,7 @@
+Built-in image_gen prompt (project-bound sprite source)
+
+Clean hand-painted HD dark-fantasy 2D game animation sheet for one Dawn Court Dawn Longbow archer in Galadriel's visual language: pale silver scale-and-plate, fitted white cloth and short split mantle, restrained luminous gold trim, white hair, quiver of white-fletched arrows, graceful ivory-and-gold longbow. Three-quarter side-facing full-body view.
+
+Exactly four equal invisible cells in a 2x2 grid. Rooted idle: alert bow-low stance, measured breath/bow settle, brief quiver-strap check, return. Same identity, anatomy, camera distance, equipment, standing-equivalent scale, and shared boot baseline. Central 60% safe area; bow tips, string, quiver, fletching, mantle, hair, elbows, and boots entirely contained.
+
+Perfectly uniform solid flat #FF00FF background. No gradient, texture, floor, shadow, scenery, grid, border, separators, text, labels, UI, watermark, detached effects, second figure, or edge crossing.

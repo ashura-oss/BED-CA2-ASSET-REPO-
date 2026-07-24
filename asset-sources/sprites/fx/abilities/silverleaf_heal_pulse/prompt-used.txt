@@ -1,0 +1,15 @@
+Use case: stylized-concept
+Asset type: clean HD 2D game FX sprite sheet for Dawn of Man ability_field_medicine / Silverleaf Dressing
+
+Use the layout guide image just shown as a layout-only reference. Use it only to understand the exact 2 rows x 4 columns, equal invisible frame slots, centering, spacing, and safe padding. Do not reproduce the guide: no visible boxes, no safe-area rectangles, no center marks, no labels, no borders, no guide background.
+
+Create exactly one 2x4 sprite sheet with 8 equal square cells. Each cell contains only a compact silverleaf healing pulse effect for a fantasy battlefield medicine ability, designed to layer over/around a human actor in a narrow 300x380 Phaser combat actor canvas. No character, no hands, no body, no weapon, no bottle, no readable symbol, no UI. FX only.
+
+Important shape rule: this must NOT be a wide horizontal ring, slash, explosion, shield wall, or side crescent. The effect must be compact, centered, mostly vertical, and soft: pale silver-green light at lower center, tiny translucent leaf motes rising around the body center, a gentle vertical healing shimmer, and a small soft pulse that fades cleanly. Keep the visible effect within the central 42% width and central 64% height of every cell.
+
+Animation sequence, read left-to-right across row 1 then row 2: frame 1 faint pale silver-green glow begins at lower center; frame 2 two or three small silverleaf motes rise; frame 3 soft vertical healing shimmer forms; frame 4 peak medicine pulse with bright silver-green center and leaf motes; frame 5 glow breathes outward slightly but remains narrow; frame 6 leaf motes drift inward and upward; frame 7 aura dims to a small centered silver-green shimmer; frame 8 returns toward frame 1 for a smooth loop.
+
+Style/medium: clean hand-painted HD 2D game effect, crisp readable silhouette, low texture noise, translucent pale silver, soft mint green, tiny leaf-shaped motes, no chunky pixel art.
+Composition/framing: centered in each cell, same center point in every frame, compact enough to fit over a human actor without clipping, generous magenta margin on all four sides.
+Background: 100% solid flat #FF00FF magenta across the entire sheet and every cell; no gradients, no texture, no shadows, no floor plane.
+Constraints: exact 2x4 grid only; eight frames only; same healing effect identity across frames; no cell borders; no text; no labels; no UI; no watermark; no numbers; no black background; no full-screen explosion; no wide oval ring; no side-only crescent; no frame may touch or cross a cell edge; leave clear magenta padding around every effect.

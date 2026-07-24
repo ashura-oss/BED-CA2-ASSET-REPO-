@@ -1,0 +1,15 @@
+Use case: stylized-concept
+Asset type: clean HD 2D game FX sprite sheet for Dawn of Man ability_rally / Oath Rally, compact runtime-safe candidate
+
+Use the layout guide image just shown as a layout-only reference. Use it only to understand the exact 2 rows x 4 columns, equal invisible frame slots, centering, spacing, and safe padding. Do not reproduce the guide: no visible boxes, no safe-area rectangles, no center marks, no labels, no borders, no guide background.
+
+Create exactly one 2x4 sprite sheet with 8 equal square cells. Each cell contains only a compact warm ember morale aura for a fantasy rebel leader, designed for a narrow 300x380 Phaser actor canvas. No character, no body, no weapon, no shield, no banner pole, no readable symbol. FX only.
+
+Important shape rule: this must NOT be a wide horizontal oval ring, sword slash, side crescent, or off-screen arc. The effect must be compact, centered, and mostly vertical: a small ember-gold ground glow under the feet area plus a short column of rising sparks and soft upward rays around the body center. Keep the visible effect within the central 42% width and central 62% height of every cell.
+
+Animation sequence, read left-to-right across row 1 then row 2: frame 1 faint compact ember glow at lower center; frame 2 sparks begin rising straight upward; frame 3 short warm aura column forms; frame 4 peak rally glow with centered upward rays and ember motes; frame 5 compact halo glow breathes outward but stays narrow; frame 6 sparks drift back inward; frame 7 aura dims to a small centered ember shimmer; frame 8 returns toward frame 1 for a smooth loop.
+
+Style/medium: clean hand-painted HD 2D game effect, crisp readable silhouette, low texture noise, warm ember-gold and soft orange light, translucent layered glow shapes, no chunky pixel art.
+Composition/framing: centered in each cell, same center point in every frame, compact enough to layer over/around a human actor without clipping, generous magenta margin on all four sides.
+Background: 100% solid flat #FF00FF magenta across the entire sheet and every cell; no gradients, no texture, no shadows, no floor plane.
+Constraints: exact 2x4 grid only; eight frames only; same aura identity across frames; no cell borders; no text; no labels; no UI; no watermark; no numbers; no black background; no full-screen explosion; no wide oval ring; no side-only crescent; no frame may touch or cross a cell edge; leave clear magenta padding around every aura.

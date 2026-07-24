@@ -1,0 +1,33 @@
+STRICT SINGLE 2D GAME PROP SPRITE.
+
+Subject:
+- One Hearthvale evergreen tree prop for a dark fantasy medieval village.
+- Dark green pine boughs, brown trunk, slightly rugged forest silhouette.
+- No forest cluster, no ground tile, no grass patch, no cast shadow, no characters, no text, no labels.
+
+Composition:
+- One isolated tall tree only.
+- Front view with slight natural asymmetry.
+- Bottom-center anchored.
+- Full object fits inside roughly 70% of canvas height and 45% of canvas width.
+- Keep generous magenta margin on every side; do not crop and do not touch image edges.
+
+Style:
+- Clean high-resolution hand-painted 2D game art.
+- Readable at small size.
+- Muted earthy forest palette.
+
+Chroma-key rule:
+- Perfectly flat solid #FF00FF magenta background only.
+- No texture, vignette, shadow, glow, or color spill in the background.
+
+Accepted postprocess:
+- Source preserved as raw-source.webp.
+- Despill cleanup: remove_chroma_key.py --auto-key border --soft-matte --transparent-threshold 54 --opaque-threshold 132 --edge-contract 1 --edge-feather 0.2 --despill.
+- Sprite processor: generate2dsprite.py process --target asset --mode hearthvale_tree --single-size 512 --threshold 120 --edge-threshold 190.
+- Runtime file: sprite-transparent.webp.
+
+QC result:
+- 512x512 transparent prop.
+- Zero hot-magenta, pinkish, purpleish, or green-key residue by pixel scan.
+- Zero visible pixels on frame edges.

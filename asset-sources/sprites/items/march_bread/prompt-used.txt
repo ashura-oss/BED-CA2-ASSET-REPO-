@@ -1,0 +1,26 @@
+Create a production-ready 2D game item icon for March Bread.
+
+STRICT ICON FORMAT:
+- Single centered consumable item icon, square composition.
+- Solid flat #FF00FF magenta background for chroma-key cleanup.
+- No transparent raw background; magenta must be perfectly flat and untextured.
+- No text, no labels, no UI frame, no border, no watermark, no corner decorations.
+- Leave at least 96 px empty magenta padding around the full silhouette.
+- No bread, crumb, cloth wrap, highlight, or shadow may touch the image edge.
+
+ITEM IDENTITY:
+- March Bread: hard bread packed for the road west.
+- Simple travel ration, dense rustic loaf or broken hardtack pieces wrapped in cloth.
+- Human rebel supply, practical and plain, not feast food.
+- Dry crust, score marks, a few crumbs, small cloth tie or paper wrap.
+
+ART DIRECTION:
+- Clean HD 2D game icon, painterly but crisp and readable at 64 px.
+- Compact three-quarter bundle of one small loaf and broken ration pieces.
+- Strong silhouette against magenta, readable crust and travel wrap.
+- Palette: warm bread brown, toasted tan, off-white cloth, muted shadows.
+
+QUALITY REQUIREMENTS:
+- The icon must still read as bread/ration when downscaled to 64 px.
+- Keep it centered and compact within the safe area.
+- Avoid plate, feast meal, fruit, bottle, magic glow, text, decorative frame, smoke, or background scene.

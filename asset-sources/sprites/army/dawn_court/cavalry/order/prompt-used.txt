@@ -1,0 +1,7 @@
+Built-in image_gen identity-reference prompt (reference: accepted Golden Lancer idle)
+
+Matching Dawn Court Golden Lancer ORDER action, preserving the accepted pale-grey horse, pale silver rider armor, white cape, restrained gold trim, crested helmet, tack, short ceremonial spear, camera, scale, and hand-painted HD rendering.
+
+Exactly six isolated equal cells in a 2x3 grid: square halt, short spear lowers diagonally, horse compresses, forehoof reaches, compact charge-in-place with fixed body center, controlled recovery. Short spear no longer than nose-to-tail horse width. Same standing-equivalent anatomy; shared hoof baseline except raised hooves. Central 60% width / 64% height safe envelope, at least 15% side and 12% vertical magenta margins; muzzle, ears, tail, every hoof, spear, tiny pennon, crest, and cape contained.
+
+Perfectly uniform solid flat #FF00FF background. No gradient, texture, floor, shadow, scenery, grid, border, separators, text, labels, UI, watermark, dust, effects, second unit, or edge crossing.

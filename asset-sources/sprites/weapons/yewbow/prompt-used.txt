@@ -1,0 +1,28 @@
+Create a production-ready 2D game item icon for the Yewbow.
+
+STRICT ICON FORMAT:
+- Single centered weapon icon, square composition.
+- Solid flat #FF00FF magenta background for chroma-key cleanup.
+- No transparent raw background; magenta must be perfectly flat and untextured.
+- No text, no labels, no UI frame, no border, no watermark, no corner decorations.
+- Leave at least 96 px empty magenta padding around the full silhouette.
+- No part of the bow, string, wrap, highlight, or shadow may touch the image edge.
+
+ITEM IDENTITY:
+- Yewbow: a light human scout bow carried along the King's Road.
+- Simple curved yew wood, practical and handmade, not elven and not ornate.
+- Worn leather grip wrap, taut dark bowstring, small nicks and travel wear.
+- No arrow loaded; bow-only icon so it reads clearly as equipment.
+- Should feel like a road scout's weapon, light, reliable, and human-made.
+
+ART DIRECTION:
+- Clean HD 2D game icon, painterly but crisp and readable at 64 px.
+- Three-quarter angled weapon pose, bow running from lower-left to upper-right in a gentle curve.
+- Strong silhouette, high contrast against magenta, readable string and grip.
+- No character hands, no quiver, no background scene, no floor, no drop shadow outside the weapon silhouette.
+- Palette: warm yew brown, dark leather wrap, muted string, subtle edge highlights; no bright magic.
+
+QUALITY REQUIREMENTS:
+- The icon must still read as a bow when downscaled to 64 px.
+- Keep the bow centered and compact within the safe area.
+- Avoid oversized glow, edge-to-edge bow limbs, fantasy jewel ornament, elven silver filigree, arrow projectile, sparks, smoke, text, or decorative frame.

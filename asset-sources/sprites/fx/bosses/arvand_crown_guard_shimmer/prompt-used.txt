@@ -1,0 +1,41 @@
+Create a single raster sprite sheet for a 2D game boss defensive FX animation.
+
+Use the Ash Guard Shimmer and Shield Wall Aura sheets just shown as style references only. This new FX must be a distinct High King crown guard shield shimmer: more royal, clean gold-white, elegant, and compact. Do not copy the player ash colors, and do not make a troop-wide shield wall.
+
+Use the layout guide image just shown as a layout-only reference. Use it only to understand the rows, columns, equal invisible frame slots, centering, spacing, and safe padding. Do not reproduce the guide: no visible boxes, no safe-area rectangles, no center marks, no labels, no borders, no guide background.
+
+SHEET GEOMETRY:
+- Exact 2x4 grid, 8 equal animation cells, read left to right across the top row then left to right across the bottom row.
+- Overall sheet should be 2048 x 1024 pixels if possible, with 512 x 512 cells.
+- Background must be 100% solid flat #FF00FF magenta across the entire sheet.
+- No gradients in the background, no transparency, no text, no labels, no UI.
+- No visible cell borders or guide marks.
+
+FX IDENTITY:
+- Clean HD 2D game FX sprite, crisp luminous gold-white royal shield magic.
+- A single central defensive shield shimmer shaped like an elegant tall kite shield or curved oval barrier, with a small crown crest at the top and thin gold-white sigil lines.
+- Compact enough to layer in front of Arvand's guard-command pose; no character body, no hands, no face, no weapon, no environment.
+- Use bright ivory, white-gold, and warm gold only.
+- Avoid magenta, hot pink, purple, violet, blue, green, and red anywhere in the subject because #FF00FF is reserved for chroma-key cleanup.
+
+ANIMATION FRAMES:
+Frame 1: faint golden shield outline begins forming, small crown glint at top.
+Frame 2: shield outline strengthens, subtle inner vertical line appears.
+Frame 3: shield grows to full compact size, gold-white rim brightens.
+Frame 4: peak guard shimmer, clear crown crest, inner sigil lines, tiny gold sparks.
+Frame 5: shield ripples with a quick protective shimmer, still centered.
+Frame 6: rim thins into elegant arcs, sparks fade outward but remain inside safe area.
+Frame 7: faint shield remnant and tiny gold particles, no explosion.
+Frame 8: final soft fade with only a thin crown glint and a few sparks.
+
+STRICT CONTAINMENT:
+- Entire FX must fit fully inside each cell.
+- Nothing may cross or touch a cell edge.
+- Leave thick #FF00FF margin on all four sides of every cell.
+- Keep the shield centered in every frame.
+- Peak frame should fill about 60% to 70% of the cell height and 45% to 60% of the cell width, not more.
+- Same shield identity and same center point across all frames.
+- No text, letters, readable runes, numbers, watermark, UI, or logos.
+- No smoke cloud, dust cloud, projectile, slash arc, impact burst, explosion, or fire.
+
+Produce only the final sprite sheet image.

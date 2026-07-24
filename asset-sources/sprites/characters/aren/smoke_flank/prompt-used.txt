@@ -1,0 +1,37 @@
+Create a clean HD 2D game character spritesheet for Aren performing Ashstep Flank body movement.
+
+OUTPUT FORMAT
+- Exactly 8 animation frames in a 2 rows x 4 columns grid.
+- Each cell is exactly 512 x 512 px, total sheet exactly 2048 x 1024 px.
+- Use a solid flat #FF00FF background in every cell.
+- Keep every part of the character at least 70 px inside each cell edge, including cloak, sword, boots, hair, and elbows.
+- No labels, no text, no frame numbers, no borders, no UI.
+
+CHARACTER IDENTITY LOCK
+- Same character in every frame: Aren, human village soldier from Hearthvale, early rebel era.
+- Dark messy hair, scarred serious human face, no helmet.
+- Practical dark leather over worn mail, ash-stained and road-worn.
+- Torn grey march cloak with ragged holes and heavy cloth folds.
+- Blackened Hearthvale sword stays attached to the body silhouette and close enough to avoid cropping.
+- Leather belts, boots, bracers, grounded soldier proportions.
+- Clean HD 2D game sprite style, painterly but readable in gameplay, not pixel art.
+- 3/4 side battle view, facing toward screen-right.
+
+ACTION SEQUENCE
+- Body-only evasive flank movement for Ashstep Flank / smoke flank.
+- Frame 1: low guarded stance, sword close.
+- Frame 2: knees bend, weight shifts forward-right, cloak starts to lag.
+- Frame 3: compact sidestep begins, torso leans low, sword held back.
+- Frame 4: fastest flank step, one foot crossing, cloak pulled behind.
+- Frame 5: body emerges into side angle, sword ready near hip.
+- Frame 6: settles from the flank, shoulders rotate toward target.
+- Frame 7: returns to guarded stance, cloak falling back.
+- Frame 8: stable stance loop-safe with frame 1.
+
+STRICT BODY-ONLY RULES
+- Do not include smoke, ash clouds, dust trails, speed lines, blur streaks, slash arcs, hit sparks, projectiles, magic glow, UI icon, or detached debris.
+- Do not crop any body part.
+- Keep feet anchored to a consistent lower baseline even during the sidestep.
+- Keep character height and scale consistent across all frames.
+- Keep cloak and sword inside the central safe zone in every frame.
+- Do not change outfit, face, hair, weapon, color palette, or art style between frames.

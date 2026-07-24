@@ -1,0 +1,155 @@
+{
+  "target": "asset",
+  "mode": "projectile",
+  "prompt": "",
+  "role": "",
+  "input": "public\\assets\\sprites\\fx\\bosses\\celebrimbor_ring_fire_projectile\\raw-sheet.webp",
+  "threshold": 135,
+  "edge_threshold": 205,
+  "duration": 70,
+  "rows": 2,
+  "cols": 2,
+  "cell_size": 512,
+  "fit_scale": 0.82,
+  "trim_border": 4,
+  "edge_clean_depth": 4,
+  "align": "center",
+  "shared_scale": true,
+  "component_mode": "all",
+  "component_padding": 8,
+  "min_component_area": 8,
+  "edge_touch_margin": 8,
+  "frame_labels": [
+    "ring-fire-projectile-1",
+    "ring-fire-projectile-2",
+    "ring-fire-projectile-3",
+    "ring-fire-projectile-4"
+  ],
+  "frames": [
+    {
+      "grid": [
+        0,
+        0
+      ],
+      "source_box": [
+        0,
+        0,
+        627,
+        627
+      ],
+      "component_mode": "all",
+      "component_count": 1,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        242,
+        218,
+        393,
+        405
+      ],
+      "edge_touch": false,
+      "output_size": [
+        233,
+        289
+      ],
+      "paste_position": [
+        139,
+        111
+      ]
+    },
+    {
+      "grid": [
+        0,
+        1
+      ],
+      "source_box": [
+        627,
+        0,
+        1254,
+        627
+      ],
+      "component_mode": "all",
+      "component_count": 3,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        205,
+        161,
+        412,
+        422
+      ],
+      "edge_touch": false,
+      "output_size": [
+        320,
+        404
+      ],
+      "paste_position": [
+        96,
+        54
+      ]
+    },
+    {
+      "grid": [
+        1,
+        0
+      ],
+      "source_box": [
+        0,
+        627,
+        627,
+        1254
+      ],
+      "component_mode": "all",
+      "component_count": 3,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        208,
+        138,
+        434,
+        409
+      ],
+      "edge_touch": false,
+      "output_size": [
+        350,
+        419
+      ],
+      "paste_position": [
+        81,
+        46
+      ]
+    },
+    {
+      "grid": [
+        1,
+        1
+      ],
+      "source_box": [
+        627,
+        627,
+        1254,
+        1254
+      ],
+      "component_mode": "all",
+      "component_count": 1,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        217,
+        201,
+        374,
+        391
+      ],
+      "edge_touch": false,
+      "output_size": [
+        243,
+        294
+      ],
+      "paste_position": [
+        134,
+        109
+      ]
+    }
+  ],
+  "edge_touch_frames": []
+}

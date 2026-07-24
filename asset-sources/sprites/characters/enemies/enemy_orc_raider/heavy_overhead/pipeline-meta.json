@@ -1,0 +1,323 @@
+{
+  "target": "asset",
+  "mode": "heavy_overhead",
+  "prompt": "Grak of Broken Tusk orc raider heavy overhead body sheet candidate 3, 8 frames, 2x4, clean HD, broken tusk, crude armor, compact centered cleaver windup, full body, facing left, stable feet, large magenta gutters, solid #FF00FF background, no text.",
+  "role": "",
+  "input": "public\\assets\\sprites\\characters\\enemies\\enemy_orc_raider\\heavy_overhead\\raw-sheet.webp",
+  "threshold": 160,
+  "edge_threshold": 230,
+  "duration": 100,
+  "rows": 2,
+  "cols": 4,
+  "cell_size": 512,
+  "fit_scale": 0.82,
+  "trim_border": 4,
+  "edge_clean_depth": 3,
+  "align": "feet",
+  "shared_scale": true,
+  "component_mode": "largest",
+  "component_padding": 0,
+  "min_component_area": 1,
+  "edge_touch_margin": 8,
+  "frame_labels": [
+    "heavy-1",
+    "heavy-2",
+    "heavy-3",
+    "heavy-4",
+    "heavy-5",
+    "heavy-6",
+    "heavy-7",
+    "heavy-8"
+  ],
+  "frames": [
+    {
+      "grid": [
+        0,
+        0
+      ],
+      "source_box": [
+        0,
+        0,
+        313,
+        627
+      ],
+      "component_mode": "largest",
+      "component_count": 23,
+      "selected_component_area": 30048,
+      "selected_component_bbox": [
+        60,
+        255,
+        265,
+        524
+      ],
+      "crop_bbox": [
+        60,
+        255,
+        265,
+        524
+      ],
+      "edge_touch": false,
+      "output_size": [
+        254,
+        334
+      ],
+      "paste_position": [
+        129,
+        132
+      ]
+    },
+    {
+      "grid": [
+        0,
+        1
+      ],
+      "source_box": [
+        313,
+        0,
+        626,
+        627
+      ],
+      "component_mode": "largest",
+      "component_count": 28,
+      "selected_component_area": 29260,
+      "selected_component_bbox": [
+        52,
+        262,
+        255,
+        524
+      ],
+      "crop_bbox": [
+        52,
+        262,
+        255,
+        524
+      ],
+      "edge_touch": false,
+      "output_size": [
+        252,
+        325
+      ],
+      "paste_position": [
+        130,
+        141
+      ]
+    },
+    {
+      "grid": [
+        0,
+        2
+      ],
+      "source_box": [
+        626,
+        0,
+        939,
+        627
+      ],
+      "component_mode": "largest",
+      "component_count": 11,
+      "selected_component_area": 27710,
+      "selected_component_bbox": [
+        70,
+        208,
+        234,
+        524
+      ],
+      "crop_bbox": [
+        70,
+        208,
+        234,
+        524
+      ],
+      "edge_touch": false,
+      "output_size": [
+        203,
+        392
+      ],
+      "paste_position": [
+        154,
+        74
+      ]
+    },
+    {
+      "grid": [
+        0,
+        3
+      ],
+      "source_box": [
+        939,
+        0,
+        1252,
+        627
+      ],
+      "component_mode": "largest",
+      "component_count": 9,
+      "selected_component_area": 28409,
+      "selected_component_bbox": [
+        58,
+        186,
+        220,
+        524
+      ],
+      "crop_bbox": [
+        58,
+        186,
+        220,
+        524
+      ],
+      "edge_touch": false,
+      "output_size": [
+        201,
+        419
+      ],
+      "paste_position": [
+        155,
+        47
+      ]
+    },
+    {
+      "grid": [
+        1,
+        0
+      ],
+      "source_box": [
+        0,
+        627,
+        313,
+        1254
+      ],
+      "component_mode": "largest",
+      "component_count": 11,
+      "selected_component_area": 30397,
+      "selected_component_bbox": [
+        57,
+        123,
+        263,
+        373
+      ],
+      "crop_bbox": [
+        57,
+        123,
+        263,
+        373
+      ],
+      "edge_touch": false,
+      "output_size": [
+        255,
+        310
+      ],
+      "paste_position": [
+        128,
+        156
+      ]
+    },
+    {
+      "grid": [
+        1,
+        1
+      ],
+      "source_box": [
+        313,
+        627,
+        626,
+        1254
+      ],
+      "component_mode": "largest",
+      "component_count": 12,
+      "selected_component_area": 26858,
+      "selected_component_bbox": [
+        81,
+        121,
+        254,
+        377
+      ],
+      "crop_bbox": [
+        81,
+        121,
+        254,
+        377
+      ],
+      "edge_touch": false,
+      "output_size": [
+        214,
+        317
+      ],
+      "paste_position": [
+        149,
+        149
+      ]
+    },
+    {
+      "grid": [
+        1,
+        2
+      ],
+      "source_box": [
+        626,
+        627,
+        939,
+        1254
+      ],
+      "component_mode": "largest",
+      "component_count": 10,
+      "selected_component_area": 29435,
+      "selected_component_bbox": [
+        50,
+        108,
+        242,
+        373
+      ],
+      "crop_bbox": [
+        50,
+        108,
+        242,
+        373
+      ],
+      "edge_touch": false,
+      "output_size": [
+        238,
+        329
+      ],
+      "paste_position": [
+        137,
+        137
+      ]
+    },
+    {
+      "grid": [
+        1,
+        3
+      ],
+      "source_box": [
+        939,
+        627,
+        1252,
+        1254
+      ],
+      "component_mode": "largest",
+      "component_count": 25,
+      "selected_component_area": 30650,
+      "selected_component_bbox": [
+        18,
+        109,
+        225,
+        377
+      ],
+      "crop_bbox": [
+        18,
+        109,
+        225,
+        377
+      ],
+      "edge_touch": false,
+      "output_size": [
+        257,
+        332
+      ],
+      "paste_position": [
+        127,
+        134
+      ]
+    }
+  ],
+  "edge_touch_frames": []
+}

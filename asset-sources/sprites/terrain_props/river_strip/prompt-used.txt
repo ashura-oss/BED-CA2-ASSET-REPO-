@@ -1,0 +1,21 @@
+STRICT SINGLE 2D GAME MAP PROP SPRITE.
+
+Subject:
+- One wide winding river strip for a dark fantasy parchment strategy map.
+- Teal-blue river ribbon, darker ink outline, pale highlight strokes.
+- No landmass, no trees, no mountains, no buildings, no sky, no ground tile, no cast shadow, no text, no labels.
+
+Composition:
+- One isolated wide horizontal S-curve river strip only.
+- Left-to-right flow.
+- Full object fits inside roughly 80% of canvas width and 30% of canvas height.
+
+Accepted postprocess:
+- Source preserved as raw-source.webp.
+- Despill cleanup: remove_chroma_key.py --auto-key border --soft-matte --transparent-threshold 54 --opaque-threshold 132 --edge-contract 1 --edge-feather 0.2 --despill.
+- Sprite processor: generate2dsprite.py process --target asset --mode river_strip --single-size 512 --threshold 120 --edge-threshold 190.
+- Runtime file: sprite-transparent.webp.
+
+QC result:
+- Zero hot-magenta, pinkish, purpleish, or green-key residue.
+- Zero visible pixels on image edges.

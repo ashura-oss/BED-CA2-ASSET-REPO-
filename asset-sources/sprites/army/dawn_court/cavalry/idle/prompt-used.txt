@@ -1,0 +1,7 @@
+Built-in image_gen prompt (project-bound sprite source)
+
+Clean hand-painted HD dark-fantasy 2D game animation sheet for one Dawn Court Golden Lancer cavalry unit. Pale silver armored rider, white mantle, restrained luminous gold trim, closed crested helmet, short ivory-and-gold lance and tiny white pennon; noble pale-grey warhorse with pale silver chamfron and restrained gold tack. Three-quarter side view facing right, full horse and rider.
+
+Exactly four equal invisible cells in a 2x2 grid. Halted mounted idle: square halt/lance upright, breath/head dip, slight forehoof lift, return. Same rider, horse, anatomy, tack, camera distance, standing-equivalent scale, and shared hoof baseline except the lifted hoof. Central 65% width / 66% height safe area; muzzle, ears, tail, hooves, lance, crest, cape, and pennon entirely contained.
+
+Perfectly uniform solid flat #FF00FF background. No gradient, texture, floor, shadow, scenery, grid, border, separators, text, labels, UI, watermark, second unit, or edge crossing.

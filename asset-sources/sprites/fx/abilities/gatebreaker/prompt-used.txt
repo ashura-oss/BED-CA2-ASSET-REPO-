@@ -1,0 +1,9 @@
+Use case: stylized-concept
+Asset type: 6-frame combat ability FX sprite sheet for a dark medieval fantasy web game
+Primary request: Create "Gatebreaker": a brutal close-range breaching effect that begins with a compact iron-gray pressure knot, forms a thick angular steel-white strike, erupts in splinter-like stone shards and muted amber sparks, then settles into dust.
+Scene/backdrop: perfectly flat solid #FF00FF chroma-key background.
+Subject: effects only—no character, hammer, sword, gate, building, scenery, icons, labels, or UI.
+Style/medium: painterly illustrated game VFX, weighty crisp silhouette, grounded dark-fantasy realism.
+Composition/framing: exact 2 rows by 3 columns, six equal cells in left-to-right then top-to-bottom animation order. One distinct phase centered in each cell. Generous consistent padding; no effect crosses a cell boundary; no grid lines.
+Lighting/mood: steel white, iron gray, stone dust, restrained amber; heavy and physical, not explosive fantasy magic.
+Constraints: perfectly uniform #FF00FF outside effects; no background gradient, shadow, texture, floor plane, transparency, text, watermark, characters, duplicates, panel borders, or clipping.

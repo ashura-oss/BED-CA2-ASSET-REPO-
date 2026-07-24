@@ -1,0 +1,249 @@
+{
+  "target": "asset",
+  "mode": "hurt",
+  "prompt": "Gilded Road Lancer hurt body sheet, 6 frames, 2x3, clean HD, dismounted elven road lancer, compact vertical spear, full body, facing left, stable feet, solid #FF00FF background, no text.",
+  "role": "",
+  "input": "public\\assets\\sprites\\characters\\enemies\\enemy_road_patrol\\hurt\\raw-sheet.webp",
+  "threshold": 160,
+  "edge_threshold": 230,
+  "duration": 105,
+  "rows": 2,
+  "cols": 3,
+  "cell_size": 512,
+  "fit_scale": 0.82,
+  "trim_border": 4,
+  "edge_clean_depth": 3,
+  "align": "feet",
+  "shared_scale": true,
+  "component_mode": "largest",
+  "component_padding": 0,
+  "min_component_area": 1,
+  "edge_touch_margin": 8,
+  "frame_labels": [
+    "hurt-1",
+    "hurt-2",
+    "hurt-3",
+    "hurt-4",
+    "hurt-5",
+    "hurt-6"
+  ],
+  "frames": [
+    {
+      "grid": [
+        0,
+        0
+      ],
+      "source_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "component_mode": "largest",
+      "component_count": 9,
+      "selected_component_area": 56399,
+      "selected_component_bbox": [
+        171,
+        38,
+        410,
+        467
+      ],
+      "crop_bbox": [
+        171,
+        38,
+        410,
+        467
+      ],
+      "edge_touch": false,
+      "output_size": [
+        233,
+        419
+      ],
+      "paste_position": [
+        139,
+        47
+      ]
+    },
+    {
+      "grid": [
+        0,
+        1
+      ],
+      "source_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "component_mode": "largest",
+      "component_count": 11,
+      "selected_component_area": 56931,
+      "selected_component_bbox": [
+        73,
+        36,
+        364,
+        463
+      ],
+      "crop_bbox": [
+        73,
+        36,
+        364,
+        463
+      ],
+      "edge_touch": false,
+      "output_size": [
+        284,
+        417
+      ],
+      "paste_position": [
+        114,
+        49
+      ]
+    },
+    {
+      "grid": [
+        0,
+        2
+      ],
+      "source_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "component_mode": "largest",
+      "component_count": 11,
+      "selected_component_area": 58978,
+      "selected_component_bbox": [
+        22,
+        72,
+        348,
+        463
+      ],
+      "crop_bbox": [
+        22,
+        72,
+        348,
+        463
+      ],
+      "edge_touch": false,
+      "output_size": [
+        319,
+        382
+      ],
+      "paste_position": [
+        96,
+        84
+      ]
+    },
+    {
+      "grid": [
+        1,
+        0
+      ],
+      "source_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "component_mode": "largest",
+      "component_count": 6,
+      "selected_component_area": 49661,
+      "selected_component_bbox": [
+        171,
+        53,
+        416,
+        439
+      ],
+      "crop_bbox": [
+        171,
+        53,
+        416,
+        439
+      ],
+      "edge_touch": false,
+      "output_size": [
+        239,
+        377
+      ],
+      "paste_position": [
+        136,
+        89
+      ]
+    },
+    {
+      "grid": [
+        1,
+        1
+      ],
+      "source_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "component_mode": "largest",
+      "component_count": 15,
+      "selected_component_area": 53006,
+      "selected_component_bbox": [
+        86,
+        52,
+        351,
+        439
+      ],
+      "crop_bbox": [
+        86,
+        52,
+        351,
+        439
+      ],
+      "edge_touch": false,
+      "output_size": [
+        259,
+        378
+      ],
+      "paste_position": [
+        126,
+        88
+      ]
+    },
+    {
+      "grid": [
+        1,
+        2
+      ],
+      "source_box": [
+        1024,
+        512,
+        1536,
+        1024
+      ],
+      "component_mode": "largest",
+      "component_count": 8,
+      "selected_component_area": 55205,
+      "selected_component_bbox": [
+        111,
+        24,
+        348,
+        450
+      ],
+      "crop_bbox": [
+        111,
+        24,
+        348,
+        450
+      ],
+      "edge_touch": false,
+      "output_size": [
+        231,
+        416
+      ],
+      "paste_position": [
+        140,
+        50
+      ]
+    }
+  ],
+  "edge_touch_frames": []
+}

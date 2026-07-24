@@ -1,0 +1,22 @@
+STRICT SINGLE 2D GAME MAP STAMP SPRITE.
+
+Subject:
+- One compact forest terrain stamp.
+- Dark green pine and broadleaf treetops with small brown trunks.
+- Painterly dark fantasy map-prop style.
+- No landscape scene, no sky, no buildings, no road, no river, no mountain, no cast shadow, no text, no labels.
+
+Composition:
+- One isolated forest cluster only.
+- Center anchored for use as a terrain stamp.
+- Full object fits inside roughly 80% of canvas width and height with safe padding.
+
+Accepted postprocess:
+- Source preserved as raw-source.webp.
+- Despill cleanup: remove_chroma_key.py --auto-key border --soft-matte --transparent-threshold 64 --opaque-threshold 150 --edge-contract 1 --edge-feather 0.25 --despill.
+- Sprite processor: fitted cleaned source into a 512x512 transparent PNG with centered 405x410 visible content.
+- Runtime file: sprite-transparent.webp.
+
+QC result:
+- Zero hot-magenta, pinkish, purpleish, or key-color residue.
+- Zero visible pixels on image edges.

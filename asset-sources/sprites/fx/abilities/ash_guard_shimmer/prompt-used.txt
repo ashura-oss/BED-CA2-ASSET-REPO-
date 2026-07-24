@@ -1,0 +1,31 @@
+Create a clean HD 2D game FX spritesheet for a defensive ash guard shimmer.
+
+OUTPUT FORMAT
+- Exactly 6 animation frames in a 2 rows x 3 columns grid.
+- Each cell is exactly 512 x 512 px, total sheet exactly 1536 x 1024 px.
+- Use a solid flat #FF00FF background in every cell.
+- Keep all visible effect pixels at least 54 px inside each cell edge.
+- No labels, no text, no frame numbers, no borders, no UI.
+
+FX SUBJECT
+- Body-free protective shimmer effect only.
+- No character, no hands, no weapon, no shield object, no face, no clothing.
+- The effect should read as a volcanic ash-and-ember guard aura that can layer over Aren's defend stance.
+- Shape: vertical oval/crescent guard field centered slightly low in each cell, about 290 px wide and 390 px tall.
+- Materials: charcoal ash wisps, smoky grey arcs, faint warm ember flecks, thin golden-orange rim glints.
+- Style: clean painterly HD fantasy game VFX, crisp enough for Phaser combat, transparent-ready edges.
+
+ANIMATION SEQUENCE
+- Frame 1: faint ash ring starts forming, sparse embers.
+- Frame 2: smoky crescent rises around the guard silhouette space.
+- Frame 3: shimmer brightens with ember rim glints near upper-left and lower-right.
+- Frame 4: strongest protective pulse, fuller oval aura, still not touching cell edges.
+- Frame 5: energy disperses into ash motes, glow recedes.
+- Frame 6: faint lingering smoke and ember motes, loops cleanly back to frame 1.
+
+STRICT CONSISTENCY RULES
+- Keep the aura center, size, and anchor stable across all frames.
+- Do not change camera angle or perspective.
+- Do not include speed lines, slash trails, impact bursts, explosion fireballs, or attack arcs.
+- Do not create a solid opaque shield; it must feel like translucent smoke and shimmer.
+- Leave the center lightly transparent-looking so the character sprite can remain readable underneath.

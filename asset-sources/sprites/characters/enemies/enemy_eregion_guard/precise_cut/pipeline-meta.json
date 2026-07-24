@@ -1,0 +1,323 @@
+{
+  "target": "asset",
+  "mode": "precise_cut",
+  "prompt": "Silver Court Warden precise-cut body sheet candidate 1, 8 frames, 2x4, clean HD, polished silver armor, compact blade and shield, centered full body, facing left, stable feet, wide magenta gutters, solid #FF00FF background, no text.",
+  "role": "",
+  "input": "public\\assets\\sprites\\characters\\enemies\\enemy_eregion_guard\\precise_cut\\raw-sheet.webp",
+  "threshold": 160,
+  "edge_threshold": 230,
+  "duration": 95,
+  "rows": 2,
+  "cols": 4,
+  "cell_size": 512,
+  "fit_scale": 0.82,
+  "trim_border": 4,
+  "edge_clean_depth": 3,
+  "align": "feet",
+  "shared_scale": true,
+  "component_mode": "largest",
+  "component_padding": 0,
+  "min_component_area": 1,
+  "edge_touch_margin": 8,
+  "frame_labels": [
+    "precise-cut-1",
+    "precise-cut-2",
+    "precise-cut-3",
+    "precise-cut-4",
+    "precise-cut-5",
+    "precise-cut-6",
+    "precise-cut-7",
+    "precise-cut-8"
+  ],
+  "frames": [
+    {
+      "grid": [
+        0,
+        0
+      ],
+      "source_box": [
+        0,
+        0,
+        443,
+        443
+      ],
+      "component_mode": "largest",
+      "component_count": 721,
+      "selected_component_area": 19914,
+      "selected_component_bbox": [
+        179,
+        105,
+        326,
+        418
+      ],
+      "crop_bbox": [
+        179,
+        105,
+        326,
+        418
+      ],
+      "edge_touch": false,
+      "output_size": [
+        197,
+        419
+      ],
+      "paste_position": [
+        157,
+        47
+      ]
+    },
+    {
+      "grid": [
+        0,
+        1
+      ],
+      "source_box": [
+        443,
+        0,
+        886,
+        443
+      ],
+      "component_mode": "largest",
+      "component_count": 795,
+      "selected_component_area": 19239,
+      "selected_component_bbox": [
+        122,
+        133,
+        314,
+        413
+      ],
+      "crop_bbox": [
+        122,
+        133,
+        314,
+        413
+      ],
+      "edge_touch": false,
+      "output_size": [
+        257,
+        375
+      ],
+      "paste_position": [
+        127,
+        91
+      ]
+    },
+    {
+      "grid": [
+        0,
+        2
+      ],
+      "source_box": [
+        886,
+        0,
+        1329,
+        443
+      ],
+      "component_mode": "largest",
+      "component_count": 722,
+      "selected_component_area": 17823,
+      "selected_component_bbox": [
+        131,
+        150,
+        328,
+        414
+      ],
+      "crop_bbox": [
+        131,
+        150,
+        328,
+        414
+      ],
+      "edge_touch": false,
+      "output_size": [
+        264,
+        354
+      ],
+      "paste_position": [
+        124,
+        112
+      ]
+    },
+    {
+      "grid": [
+        0,
+        3
+      ],
+      "source_box": [
+        1329,
+        0,
+        1772,
+        443
+      ],
+      "component_mode": "largest",
+      "component_count": 760,
+      "selected_component_area": 19299,
+      "selected_component_bbox": [
+        112,
+        157,
+        295,
+        417
+      ],
+      "crop_bbox": [
+        112,
+        157,
+        295,
+        417
+      ],
+      "edge_touch": false,
+      "output_size": [
+        245,
+        348
+      ],
+      "paste_position": [
+        133,
+        118
+      ]
+    },
+    {
+      "grid": [
+        1,
+        0
+      ],
+      "source_box": [
+        0,
+        443,
+        443,
+        886
+      ],
+      "component_mode": "largest",
+      "component_count": 665,
+      "selected_component_area": 19912,
+      "selected_component_bbox": [
+        138,
+        98,
+        344,
+        353
+      ],
+      "crop_bbox": [
+        138,
+        98,
+        344,
+        353
+      ],
+      "edge_touch": false,
+      "output_size": [
+        276,
+        342
+      ],
+      "paste_position": [
+        118,
+        124
+      ]
+    },
+    {
+      "grid": [
+        1,
+        1
+      ],
+      "source_box": [
+        443,
+        443,
+        886,
+        886
+      ],
+      "component_mode": "largest",
+      "component_count": 733,
+      "selected_component_area": 18843,
+      "selected_component_bbox": [
+        144,
+        80,
+        310,
+        356
+      ],
+      "crop_bbox": [
+        144,
+        80,
+        310,
+        356
+      ],
+      "edge_touch": false,
+      "output_size": [
+        222,
+        370
+      ],
+      "paste_position": [
+        145,
+        96
+      ]
+    },
+    {
+      "grid": [
+        1,
+        2
+      ],
+      "source_box": [
+        886,
+        443,
+        1329,
+        886
+      ],
+      "component_mode": "largest",
+      "component_count": 689,
+      "selected_component_area": 18809,
+      "selected_component_bbox": [
+        122,
+        73,
+        260,
+        366
+      ],
+      "crop_bbox": [
+        122,
+        73,
+        260,
+        366
+      ],
+      "edge_touch": false,
+      "output_size": [
+        185,
+        393
+      ],
+      "paste_position": [
+        163,
+        73
+      ]
+    },
+    {
+      "grid": [
+        1,
+        3
+      ],
+      "source_box": [
+        1329,
+        443,
+        1772,
+        886
+      ],
+      "component_mode": "largest",
+      "component_count": 634,
+      "selected_component_area": 18603,
+      "selected_component_bbox": [
+        110,
+        74,
+        248,
+        359
+      ],
+      "crop_bbox": [
+        110,
+        74,
+        248,
+        359
+      ],
+      "edge_touch": false,
+      "output_size": [
+        185,
+        382
+      ],
+      "paste_position": [
+        163,
+        84
+      ]
+    }
+  ],
+  "edge_touch_frames": []
+}

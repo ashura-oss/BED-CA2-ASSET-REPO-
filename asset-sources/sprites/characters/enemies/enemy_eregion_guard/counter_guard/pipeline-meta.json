@@ -1,0 +1,249 @@
+{
+  "target": "asset",
+  "mode": "counter_guard",
+  "prompt": "Silver Court Warden counter-guard body sheet candidate 2, 6 frames, 2x3, clean HD, dark helmeted silver armor, compact shield guard, centered full body, facing left, stable feet, wide magenta gutters, solid #FF00FF background, no text.",
+  "role": "",
+  "input": "public\\assets\\sprites\\characters\\enemies\\enemy_eregion_guard\\counter_guard\\raw-sheet.webp",
+  "threshold": 160,
+  "edge_threshold": 230,
+  "duration": 115,
+  "rows": 2,
+  "cols": 3,
+  "cell_size": 512,
+  "fit_scale": 0.82,
+  "trim_border": 4,
+  "edge_clean_depth": 3,
+  "align": "feet",
+  "shared_scale": true,
+  "component_mode": "largest",
+  "component_padding": 0,
+  "min_component_area": 1,
+  "edge_touch_margin": 8,
+  "frame_labels": [
+    "counter-guard-1",
+    "counter-guard-2",
+    "counter-guard-3",
+    "counter-guard-4",
+    "counter-guard-5",
+    "counter-guard-6"
+  ],
+  "frames": [
+    {
+      "grid": [
+        0,
+        0
+      ],
+      "source_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "component_mode": "largest",
+      "component_count": 143,
+      "selected_component_area": 51447,
+      "selected_component_bbox": [
+        152,
+        62,
+        350,
+        482
+      ],
+      "crop_bbox": [
+        152,
+        62,
+        350,
+        482
+      ],
+      "edge_touch": false,
+      "output_size": [
+        197,
+        419
+      ],
+      "paste_position": [
+        157,
+        47
+      ]
+    },
+    {
+      "grid": [
+        0,
+        1
+      ],
+      "source_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "component_mode": "largest",
+      "component_count": 150,
+      "selected_component_area": 54519,
+      "selected_component_bbox": [
+        103,
+        90,
+        357,
+        474
+      ],
+      "crop_bbox": [
+        103,
+        90,
+        357,
+        474
+      ],
+      "edge_touch": false,
+      "output_size": [
+        253,
+        383
+      ],
+      "paste_position": [
+        129,
+        83
+      ]
+    },
+    {
+      "grid": [
+        0,
+        2
+      ],
+      "source_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "component_mode": "largest",
+      "component_count": 142,
+      "selected_component_area": 52793,
+      "selected_component_bbox": [
+        74,
+        90,
+        326,
+        474
+      ],
+      "crop_bbox": [
+        74,
+        90,
+        326,
+        474
+      ],
+      "edge_touch": false,
+      "output_size": [
+        251,
+        383
+      ],
+      "paste_position": [
+        130,
+        83
+      ]
+    },
+    {
+      "grid": [
+        1,
+        0
+      ],
+      "source_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "component_mode": "largest",
+      "component_count": 163,
+      "selected_component_area": 48423,
+      "selected_component_bbox": [
+        113,
+        48,
+        367,
+        427
+      ],
+      "crop_bbox": [
+        113,
+        48,
+        367,
+        427
+      ],
+      "edge_touch": false,
+      "output_size": [
+        253,
+        378
+      ],
+      "paste_position": [
+        129,
+        88
+      ]
+    },
+    {
+      "grid": [
+        1,
+        1
+      ],
+      "source_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "component_mode": "largest",
+      "component_count": 136,
+      "selected_component_area": 47801,
+      "selected_component_bbox": [
+        74,
+        36,
+        344,
+        427
+      ],
+      "crop_bbox": [
+        74,
+        36,
+        344,
+        427
+      ],
+      "edge_touch": false,
+      "output_size": [
+        269,
+        390
+      ],
+      "paste_position": [
+        121,
+        76
+      ]
+    },
+    {
+      "grid": [
+        1,
+        2
+      ],
+      "source_box": [
+        1024,
+        512,
+        1536,
+        1024
+      ],
+      "component_mode": "largest",
+      "component_count": 115,
+      "selected_component_area": 49904,
+      "selected_component_bbox": [
+        29,
+        43,
+        298,
+        441
+      ],
+      "crop_bbox": [
+        29,
+        43,
+        298,
+        441
+      ],
+      "edge_touch": false,
+      "output_size": [
+        268,
+        397
+      ],
+      "paste_position": [
+        122,
+        69
+      ]
+    }
+  ],
+  "edge_touch_frames": []
+}

@@ -1,0 +1,14 @@
+{
+  "source": "public\\assets\\sprites\\fx\\abilities\\spearline_charge\\raw-sheet.webp",
+  "rows": 2,
+  "cols": 4,
+  "prefix": "spearline_charge",
+  "master_cell": 512,
+  "fit_scale": 0.82,
+  "anchor": "center",
+  "background_sample": [
+    252,
+    3,
+    247
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "source": "public\\assets\\sprites\\fx\\abilities\\crown_word\\raw-sheet.webp",
+  "rows": 2,
+  "cols": 4,
+  "prefix": "crown_word",
+  "master_cell": 512,
+  "fit_scale": 0.82,
+  "anchor": "center",
+  "background_sample": [
+    251,
+    11,
+    212
+  ]
+}

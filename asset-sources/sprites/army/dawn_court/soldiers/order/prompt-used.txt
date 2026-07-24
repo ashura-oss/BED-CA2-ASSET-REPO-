@@ -1,0 +1,7 @@
+Built-in image_gen identity-reference prompt (reference: accepted Golden Shieldline idle)
+
+Matching Dawn Court Golden Shieldline ORDER action, preserving the accepted pale silver plate, white cloth, restrained gold trim, closed crested helmet, ivory-and-gold kite shield, leaf spear, anatomy, camera, scale, and hand-painted HD rendering.
+
+Exactly six equal invisible cells in a 2x3 grid: alert guard, shield draws close, shield brace, spear draws back, compact spear thrust from behind shield, controlled recovery. Same standing-equivalent scale and shared foot baseline. Central 60% safe area; full spear, shield, cape, crest, elbows, and boots contained. No detached slash, dust, sparks, shadow, floor, or second figure.
+
+Perfectly uniform solid flat #FF00FF background. No gradient, texture, visible grid, border, separators, text, labels, UI, watermark, or edge crossing.

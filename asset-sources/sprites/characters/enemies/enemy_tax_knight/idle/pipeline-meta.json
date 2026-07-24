@@ -1,0 +1,249 @@
+{
+  "target": "asset",
+  "mode": "idle",
+  "prompt": "Calenor the Tribute Knight enemy idle body sheet, 6 frames, 2x3, clean HD, compact spear, full body, facing left, stable feet, solid #FF00FF background, no text.",
+  "role": "",
+  "input": "public\\assets\\sprites\\characters\\enemies\\enemy_tax_knight\\idle\\raw-sheet.webp",
+  "threshold": 160,
+  "edge_threshold": 230,
+  "duration": 130,
+  "rows": 2,
+  "cols": 3,
+  "cell_size": 512,
+  "fit_scale": 0.82,
+  "trim_border": 4,
+  "edge_clean_depth": 3,
+  "align": "feet",
+  "shared_scale": true,
+  "component_mode": "largest",
+  "component_padding": 0,
+  "min_component_area": 1,
+  "edge_touch_margin": 8,
+  "frame_labels": [
+    "idle-1",
+    "idle-2",
+    "idle-3",
+    "idle-4",
+    "idle-5",
+    "idle-6"
+  ],
+  "frames": [
+    {
+      "grid": [
+        0,
+        0
+      ],
+      "source_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "component_mode": "largest",
+      "component_count": 12,
+      "selected_component_area": 52534,
+      "selected_component_bbox": [
+        182,
+        81,
+        421,
+        471
+      ],
+      "crop_bbox": [
+        182,
+        81,
+        421,
+        471
+      ],
+      "edge_touch": false,
+      "output_size": [
+        257,
+        419
+      ],
+      "paste_position": [
+        127,
+        47
+      ]
+    },
+    {
+      "grid": [
+        0,
+        1
+      ],
+      "source_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "component_mode": "largest",
+      "component_count": 24,
+      "selected_component_area": 52857,
+      "selected_component_bbox": [
+        144,
+        82,
+        387,
+        472
+      ],
+      "crop_bbox": [
+        144,
+        82,
+        387,
+        472
+      ],
+      "edge_touch": false,
+      "output_size": [
+        261,
+        419
+      ],
+      "paste_position": [
+        125,
+        47
+      ]
+    },
+    {
+      "grid": [
+        0,
+        2
+      ],
+      "source_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "component_mode": "largest",
+      "component_count": 19,
+      "selected_component_area": 53141,
+      "selected_component_bbox": [
+        114,
+        83,
+        353,
+        473
+      ],
+      "crop_bbox": [
+        114,
+        83,
+        353,
+        473
+      ],
+      "edge_touch": false,
+      "output_size": [
+        257,
+        419
+      ],
+      "paste_position": [
+        127,
+        47
+      ]
+    },
+    {
+      "grid": [
+        1,
+        0
+      ],
+      "source_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "component_mode": "largest",
+      "component_count": 10,
+      "selected_component_area": 52460,
+      "selected_component_bbox": [
+        182,
+        35,
+        418,
+        425
+      ],
+      "crop_bbox": [
+        182,
+        35,
+        418,
+        425
+      ],
+      "edge_touch": false,
+      "output_size": [
+        254,
+        419
+      ],
+      "paste_position": [
+        129,
+        47
+      ]
+    },
+    {
+      "grid": [
+        1,
+        1
+      ],
+      "source_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "component_mode": "largest",
+      "component_count": 24,
+      "selected_component_area": 53098,
+      "selected_component_bbox": [
+        146,
+        35,
+        402,
+        425
+      ],
+      "crop_bbox": [
+        146,
+        35,
+        402,
+        425
+      ],
+      "edge_touch": false,
+      "output_size": [
+        275,
+        419
+      ],
+      "paste_position": [
+        118,
+        47
+      ]
+    },
+    {
+      "grid": [
+        1,
+        2
+      ],
+      "source_box": [
+        1024,
+        512,
+        1536,
+        1024
+      ],
+      "component_mode": "largest",
+      "component_count": 17,
+      "selected_component_area": 52631,
+      "selected_component_bbox": [
+        113,
+        37,
+        352,
+        426
+      ],
+      "crop_bbox": [
+        113,
+        37,
+        352,
+        426
+      ],
+      "edge_touch": false,
+      "output_size": [
+        257,
+        418
+      ],
+      "paste_position": [
+        127,
+        48
+      ]
+    }
+  ],
+  "edge_touch_frames": []
+}

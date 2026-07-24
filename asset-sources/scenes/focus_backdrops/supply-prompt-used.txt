@@ -1,0 +1,9 @@
+Use case: stylized-concept
+Asset type: 2D game scene focus backdrop for Phaser UI
+Primary request: Create a restrained 16:9 hand-painted HD background panel for a survivor supply and salvage scene in the game Dawn of Man.
+Scene/backdrop: an old mill storage corner and village salvage area after unrest, stacked crates, ration sacks, coiled rope, usable timber, iron hooks, a stone well or mill wheel silhouette in the mid-ground, quiet ash in the air, no active characters.
+Style/medium: clean hand-painted 2D game background, painterly but readable, not pixel art, not photorealistic.
+Composition/framing: wide landscape 16:9 panel, supply objects clustered left and center, clear depth, open darker lower 25% for UI text overlay, important shapes inside central 80%, works when center-cropped for tablet or phone.
+Lighting/mood: muted dawn light with small warm glints on metal and sacks, practical and tense, low visual noise.
+Color palette: smoked brown, weathered wood, muted flax, ash grey, small gold highlights, restrained ember warmth.
+Constraints: no text, no logos, no watermark, no UI, no people, no weapons in focus, no animals, no purple, no magenta, no bright neon, no diagonal rain lines, no high-detail clutter at edges, no important content in the extreme corners.

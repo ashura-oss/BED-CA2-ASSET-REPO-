@@ -1,0 +1,26 @@
+Create a production-ready 2D game item icon for Moon-silver Shard.
+
+STRICT ICON FORMAT:
+- Single centered material item icon, square composition.
+- Solid flat #FF00FF magenta background for chroma-key cleanup.
+- No transparent raw background; magenta must be perfectly flat and untextured.
+- No text, no labels, no UI frame, no border, no watermark, no corner decorations.
+- Leave at least 96 px empty magenta padding around the full silhouette.
+- No shard, glint, highlight, or shadow may touch the image edge.
+
+ITEM IDENTITY:
+- Moon-silver Shard: a bright shard broken from elven craftwork.
+- Small jagged silver-white metal fragment, refined but broken.
+- Cool moonlit sheen, pale blue-white highlights, tiny engraved edge fragments, no readable runes.
+- Should feel valuable and elven-made, but still a material scrap, not a full weapon.
+
+ART DIRECTION:
+- Clean HD 2D game icon, painterly but crisp and readable at 64 px.
+- Compact cluster of 2-3 moon-silver shards, largest shard centered.
+- Strong silhouette against magenta, readable fractured edges and cool reflections.
+- Palette: silver white, cool grey, pale blue glints, restrained shadow.
+
+QUALITY REQUIREMENTS:
+- The icon must still read as silver metal shard material when downscaled to 64 px.
+- Keep it centered and compact within the safe area.
+- Avoid full crystal, gemstone, magic aura, floating runes, ring shape, text, decorative frame, sparks, smoke, or background scene.

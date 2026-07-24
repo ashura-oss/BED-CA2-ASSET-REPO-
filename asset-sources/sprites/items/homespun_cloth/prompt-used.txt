@@ -1,0 +1,26 @@
+Create a production-ready 2D game item icon for Homespun Cloth.
+
+STRICT ICON FORMAT:
+- Single centered material item icon, square composition.
+- Solid flat #FF00FF magenta background for chroma-key cleanup.
+- No transparent raw background; magenta must be perfectly flat and untextured.
+- No text, no labels, no UI frame, no border, no watermark, no corner decorations.
+- Leave at least 96 px empty magenta padding around the full silhouette.
+- No cloth roll, bandage strip, thread, highlight, or shadow may touch the image edge.
+
+ITEM IDENTITY:
+- Homespun Cloth: clean village cloth saved for bandages and travel gear.
+- Folded off-white linen strips and a small cloth roll, simple and practical.
+- Human village material, handwoven, not silk, not royal fabric.
+- Slight frayed edges, visible weave, small tied cord, clean but road-worn.
+
+ART DIRECTION:
+- Clean HD 2D game icon, painterly but crisp and readable at 64 px.
+- Compact three-quarter stack/roll of folded cloth strips.
+- Strong silhouette against magenta, readable fabric folds and weave.
+- Palette: warm off-white, linen beige, muted tan shadows, simple brown tie.
+
+QUALITY REQUIREMENTS:
+- The icon must still read as cloth/bandage material when downscaled to 64 px.
+- Keep it centered and compact within the safe area.
+- Avoid clothing garment, cloak, scroll, paper, magical aura, blood, text, decorative frame, smoke, or background scene.

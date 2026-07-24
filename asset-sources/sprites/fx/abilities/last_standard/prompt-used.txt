@@ -1,0 +1,9 @@
+Use case: stylized-concept
+Asset type: 8-frame combat ability FX sprite sheet for a dark medieval fantasy web game
+Primary request: Create "Last Standard": a final-stand rally effect that begins as a low oxblood ember, rises into a narrow banner-shaped column of muted gold and dark red light, opens into one austere protective flare, then sheds a few descending embers and fades.
+Scene/backdrop: perfectly flat solid #FF00FF chroma-key background.
+Subject: abstract effects only—no character, physical flag or pole, army, letters, heraldry, scenery, labels, or UI.
+Style/medium: painterly illustrated game VFX, crisp readable silhouette, serious dark-fantasy realism with restrained heraldic geometry.
+Composition/framing: exact 2 rows by 4 columns, eight equal cells in left-to-right then top-to-bottom animation order. One distinct phase centered in each cell. Generous consistent padding; no effect crosses cell boundaries; no grid lines.
+Lighting/mood: deep oxblood, antique gold, charcoal smoke, muted ivory core; desperate resolve, not triumphant fireworks.
+Constraints: perfectly uniform #FF00FF outside effects; no background gradient, shadows, texture, floor plane, transparency, text, watermark, characters, duplicates, panel borders, or clipping.

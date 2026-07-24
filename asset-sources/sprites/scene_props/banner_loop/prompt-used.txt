@@ -1,0 +1,33 @@
+STRICT 6-FRAME 2D GAME SPRITESHEET, EXTRA SAFE MARGINS.
+
+Subject:
+- Looping Hearthvale rebel banner animation.
+- Vertical wooden pole with compact tattered red-brown cloth banner near the top.
+- No characters, no scenery, no ground tile, no cast shadow, no text, no labels.
+
+Layout:
+- Exactly 3 columns by 2 rows.
+- Six equal 512x512 runtime cells after normalization.
+- No grid lines.
+- Pole position stays identical in every cell.
+- Cloth waves gently left-to-right, with frame 6 looping back to frame 1.
+- Every frame stays inside the central 55% of its cell width and central 75% of its cell height.
+- Leave at least 20% pure magenta empty margin on the left and right of every cell.
+
+Chroma-key rule:
+- Perfectly flat solid #FF00FF magenta background only.
+
+Accepted postprocess:
+- Candidate 1 rejected because two frames touched cell edges after slicing.
+- Candidate 2 source preserved as raw-source.webp.
+- Normalized to raw-sheet.webp at 1536x1024.
+- Despill cleanup: remove_chroma_key.py --auto-key border --soft-matte --transparent-threshold 54 --opaque-threshold 132 --edge-contract 1 --edge-feather 0.2 --despill.
+- Frames were re-laid into clean 512x512 cells with a fixed pole-left anchor and bottom anchor at y=486 so the cloth waves without the whole banner drifting.
+- Runtime sheet: sheet-transparent.webp.
+- Frame exports: scene-banner-1.webp through scene-banner-6.webp.
+- Preview: animation.webp.
+
+QC result:
+- 6 frames, 512x512 each.
+- Zero visible pixels on every frame edge.
+- Zero hot-magenta, pinkish, purpleish, or green-key residue by pixel scan.

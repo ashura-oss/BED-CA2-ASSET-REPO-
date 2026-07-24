@@ -1,0 +1,30 @@
+Create a single clean HD 2D game character sprite sheet for Arvand, High King of Lindon, idle boss animation.
+
+STRICT OUTPUT FORMAT:
+- One sprite sheet image, exactly 3 rows x 3 columns, 9 frames total.
+- Equal square cells, intended as 512x512 pixels each, overall sheet intended as 1536x1536.
+- Solid flat #FF00FF magenta background in every cell for chroma key cleanup.
+- No transparency, no checkerboard, no background gradients.
+- No text, labels, frame numbers, UI, borders, gutters, watermarks, or captions.
+
+CHARACTER IDENTITY:
+- Arvand, final elven High King of Lindon.
+- Tall controlled elven king in white and gold royal armor with elegant crown authority.
+- White-gold cloak, polished silver-white plate, gold trim, high crown, stern calm face.
+- One hand may subtly show the Isildur ring as a tiny gold-white royal glow, but do NOT create detached magic FX.
+- Regal final-boss silhouette, not bulky, not monstrous, not human peasant, not Galadriel.
+- 3/4 side battle view, facing left, full body visible from head/crown to boots.
+
+ANIMATION:
+- Idle boss loop: subtle breathing, controlled cloak sway, slight crown/shoulder movement, minimal hand/ring glint that stays attached to hand.
+- Smooth 9-frame loop, consistent character scale and anatomy.
+- Feet must remain planted on the same baseline in all frames.
+- No attack, no dodge, no fall, no projectile, no aura, no detached slash, no shield wall FX.
+
+COMPOSITION RULES:
+- One full-body Arvand per cell, centered consistently.
+- Keep at least 64px safe padding from all cell edges; crown, cloak, sword, boots, and cape must not touch or cross cell edges.
+- Preserve identical head size, body size, and foot anchor across frames.
+- No cropped limbs, no extra characters, no duplicated ghost bodies, no scenery.
+- Palette must avoid magenta, pink, purple, violet, rose, and red in the character so cleanup does not damage details.
+- Painterly but crisp game-ready sprite style with clean alpha-ready edges and strong readability over a dark combat scene.

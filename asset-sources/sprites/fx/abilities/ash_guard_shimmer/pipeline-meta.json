@@ -1,0 +1,219 @@
+{
+  "target": "asset",
+  "mode": "aura",
+  "prompt": "",
+  "role": "",
+  "input": "public\\assets\\sprites\\fx\\abilities\\ash_guard_shimmer\\raw-sheet.webp",
+  "threshold": 130,
+  "edge_threshold": 230,
+  "duration": 90,
+  "rows": 2,
+  "cols": 3,
+  "cell_size": 512,
+  "fit_scale": 0.82,
+  "trim_border": 4,
+  "edge_clean_depth": 3,
+  "align": "center",
+  "shared_scale": true,
+  "component_mode": "all",
+  "component_padding": 0,
+  "min_component_area": 1,
+  "edge_touch_margin": 6,
+  "frame_labels": [
+    "shimmer-1",
+    "shimmer-2",
+    "shimmer-3",
+    "shimmer-4",
+    "shimmer-5",
+    "shimmer-6"
+  ],
+  "frames": [
+    {
+      "grid": [
+        0,
+        0
+      ],
+      "source_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "component_mode": "all",
+      "component_count": 45,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        133,
+        133,
+        424,
+        440
+      ],
+      "edge_touch": false,
+      "output_size": [
+        329,
+        347
+      ],
+      "paste_position": [
+        91,
+        82
+      ]
+    },
+    {
+      "grid": [
+        0,
+        1
+      ],
+      "source_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "component_mode": "all",
+      "component_count": 230,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        88,
+        154,
+        419,
+        464
+      ],
+      "edge_touch": false,
+      "output_size": [
+        374,
+        350
+      ],
+      "paste_position": [
+        69,
+        81
+      ]
+    },
+    {
+      "grid": [
+        0,
+        2
+      ],
+      "source_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "component_mode": "all",
+      "component_count": 317,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        68,
+        111,
+        402,
+        455
+      ],
+      "edge_touch": false,
+      "output_size": [
+        377,
+        389
+      ],
+      "paste_position": [
+        67,
+        61
+      ]
+    },
+    {
+      "grid": [
+        1,
+        0
+      ],
+      "source_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "component_mode": "all",
+      "component_count": 474,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        105,
+        65,
+        452,
+        436
+      ],
+      "edge_touch": false,
+      "output_size": [
+        392,
+        419
+      ],
+      "paste_position": [
+        60,
+        46
+      ]
+    },
+    {
+      "grid": [
+        1,
+        1
+      ],
+      "source_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "component_mode": "all",
+      "component_count": 149,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        100,
+        69,
+        411,
+        420
+      ],
+      "edge_touch": false,
+      "output_size": [
+        351,
+        397
+      ],
+      "paste_position": [
+        80,
+        57
+      ]
+    },
+    {
+      "grid": [
+        1,
+        2
+      ],
+      "source_box": [
+        1024,
+        512,
+        1536,
+        1024
+      ],
+      "component_mode": "all",
+      "component_count": 37,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        81,
+        91,
+        373,
+        404
+      ],
+      "edge_touch": false,
+      "output_size": [
+        330,
+        354
+      ],
+      "paste_position": [
+        91,
+        79
+      ]
+    }
+  ],
+  "edge_touch_frames": []
+}

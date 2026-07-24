@@ -1,0 +1,219 @@
+{
+  "target": "asset",
+  "mode": "slash",
+  "prompt": "Heavy melee slash arc FX, 6 frames, 2x3, clean HD, centered, solid #FF00FF background, no characters, no text.",
+  "role": "",
+  "input": "public\\assets\\sprites\\fx\\abilities\\heavy_slash_arc\\raw-sheet.webp",
+  "threshold": 160,
+  "edge_threshold": 230,
+  "duration": 65,
+  "rows": 2,
+  "cols": 3,
+  "cell_size": 512,
+  "fit_scale": 0.78,
+  "trim_border": 4,
+  "edge_clean_depth": 3,
+  "align": "center",
+  "shared_scale": true,
+  "component_mode": "all",
+  "component_padding": 0,
+  "min_component_area": 1,
+  "edge_touch_margin": 6,
+  "frame_labels": [
+    "slash-1",
+    "slash-2",
+    "slash-3",
+    "slash-4",
+    "slash-5",
+    "slash-6"
+  ],
+  "frames": [
+    {
+      "grid": [
+        0,
+        0
+      ],
+      "source_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "component_mode": "all",
+      "component_count": 138,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        209,
+        265,
+        341,
+        434
+      ],
+      "edge_touch": false,
+      "output_size": [
+        142,
+        182
+      ],
+      "paste_position": [
+        185,
+        165
+      ]
+    },
+    {
+      "grid": [
+        0,
+        1
+      ],
+      "source_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "component_mode": "all",
+      "component_count": 178,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        127,
+        154,
+        392,
+        443
+      ],
+      "edge_touch": false,
+      "output_size": [
+        286,
+        312
+      ],
+      "paste_position": [
+        113,
+        100
+      ]
+    },
+    {
+      "grid": [
+        0,
+        2
+      ],
+      "source_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "component_mode": "all",
+      "component_count": 116,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        69,
+        125,
+        415,
+        468
+      ],
+      "edge_touch": false,
+      "output_size": [
+        374,
+        371
+      ],
+      "paste_position": [
+        69,
+        70
+      ]
+    },
+    {
+      "grid": [
+        1,
+        0
+      ],
+      "source_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "component_mode": "all",
+      "component_count": 102,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        76,
+        56,
+        445,
+        388
+      ],
+      "edge_touch": false,
+      "output_size": [
+        399,
+        359
+      ],
+      "paste_position": [
+        56,
+        76
+      ]
+    },
+    {
+      "grid": [
+        1,
+        1
+      ],
+      "source_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "component_mode": "all",
+      "component_count": 127,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        53,
+        69,
+        420,
+        380
+      ],
+      "edge_touch": false,
+      "output_size": [
+        397,
+        336
+      ],
+      "paste_position": [
+        57,
+        88
+      ]
+    },
+    {
+      "grid": [
+        1,
+        2
+      ],
+      "source_box": [
+        1024,
+        512,
+        1536,
+        1024
+      ],
+      "component_mode": "all",
+      "component_count": 57,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        90,
+        98,
+        386,
+        388
+      ],
+      "edge_touch": false,
+      "output_size": [
+        320,
+        313
+      ],
+      "paste_position": [
+        96,
+        99
+      ]
+    }
+  ],
+  "edge_touch_frames": []
+}

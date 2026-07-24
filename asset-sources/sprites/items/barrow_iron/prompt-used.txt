@@ -1,0 +1,26 @@
+Create a production-ready 2D game item icon for Barrow Iron.
+
+STRICT ICON FORMAT:
+- Single centered material item icon, square composition.
+- Solid flat #FF00FF magenta background for chroma-key cleanup.
+- No transparent raw background; magenta must be perfectly flat and untextured.
+- No text, no labels, no UI frame, no border, no watermark, no corner decorations.
+- Leave at least 96 px empty magenta padding around the full silhouette.
+- No iron shard, nail, highlight, or shadow may touch the image edge.
+
+ITEM IDENTITY:
+- Barrow Iron: old iron pulled from broken ploughs, gates, and buried blades.
+- Small pile/bundle of dark scrap iron, practical crafting material.
+- Rust patches, blackened edges, bent nails, broken blade piece, small gate hinge fragment.
+- No skulls, no blood, no magic glow, no coins.
+
+ART DIRECTION:
+- Clean HD 2D game icon, painterly but crisp and readable at 64 px.
+- Compact three-quarter pile of 4-6 iron scraps tied or stacked loosely.
+- Strong silhouette against magenta, readable rust and dark metal edges.
+- Palette: black iron, dull steel grey, rust brown, tiny worn silver highlights.
+
+QUALITY REQUIREMENTS:
+- The icon must still read as scrap iron when downscaled to 64 px.
+- Keep the pile centered and compact within the safe area.
+- Avoid polished ingot bars, gold, fantasy runes, text, decorative frame, smoke, sparks, or background scene.

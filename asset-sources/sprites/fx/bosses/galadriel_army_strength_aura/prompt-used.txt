@@ -1,0 +1,30 @@
+Create a single clean HD 2D game VFX sprite sheet for Galadriel's army-strength command aura.
+
+STRICT OUTPUT FORMAT:
+- One sprite sheet image, exactly 2 rows x 4 columns, 8 frames total.
+- Equal square cells, intended as 512x512 pixels each, overall sheet intended as 2048x1024.
+- Solid flat #FF00FF magenta background in every cell for chroma key cleanup.
+- No transparency, no checkerboard, no gradients in the background.
+- No text, labels, numbers, UI, borders, gutters, watermarks, or frame captions.
+
+SUBJECT:
+- A separate FX-only aura, no character, no face, no body, no hands, no weapon, no ground, no scenery.
+- Golden-white battlefield command aura for a queen strengthening an army: elegant vertical light, faint shield/spear silhouettes made of light, small disciplined sparks, subtle crown-like radiance.
+- Palette must be warm gold, amber, ivory, and white only. Do NOT use magenta, pink, purple, violet, or rose anywhere in the aura.
+
+ANIMATION:
+- Frame 1: small contained golden glow at lower center.
+- Frame 2: glow rises into a narrow vertical command aura.
+- Frame 3: shield/spear light marks appear around the center.
+- Frame 4: aura expands upward and outward, brightest disciplined command flare.
+- Frame 5: broad golden morale wave, still centered and contained.
+- Frame 6: light begins to soften, sparks drift inward.
+- Frame 7: aura contracts with faint shield/spear echoes.
+- Frame 8: small fading golden embers and low glow.
+
+COMPOSITION RULES:
+- Every frame centered on the same anchor point.
+- Keep at least 72px safe padding from all cell edges; nothing may touch or cross a cell edge.
+- FX should be readable over a dark game battle scene but not fill the whole cell.
+- Smooth progression, consistent scale, no camera movement, no cropped spikes or rays.
+- Painterly but crisp game-ready sprite style with clean silhouettes and strong alpha-ready edges.

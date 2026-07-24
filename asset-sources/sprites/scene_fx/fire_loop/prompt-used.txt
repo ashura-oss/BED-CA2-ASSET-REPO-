@@ -1,0 +1,11 @@
+Use case: stylized-concept
+Asset type: clean HD 2D game FX sprite sheet
+Primary request: Generate exactly one looping campfire/flame animation sheet for the Dawn of Man Phaser scene-focus renderer.
+Input image: use the layout guide image just shown as a layout-only reference. Use it only to understand the 2 rows, 3 columns, equal invisible frame slots, centering, spacing, and safe padding. Do not reproduce the guide: no visible boxes, no safe-area rectangles, no center marks, no labels, no borders, no guide background.
+Sheet shape: exactly 2 rows by 3 columns, six equal cells, read left-to-right across the first row and then the second row.
+Subject: one compact low campfire flame with small ember core, painterly clean HD game FX style, no logs extending outside the safe area.
+Animation phases: frame 1 small base flame, frame 2 flame rises, frame 3 flame leans slightly right at peak, frame 4 flame contracts, frame 5 flame flares with tiny sparks close to the flame, frame 6 returns toward the small base flame for a seamless loop.
+Style/medium: clean hand-painted HD 2D sprite FX, crisp readable silhouette, smooth surfaces, low texture noise, no chunky pixels, not photorealistic.
+Composition/framing: each flame centered in its cell, same scale and bounding box across all six frames, the entire fire fits inside the central 60% safe area with generous padding on all four sides.
+Background: 100% solid flat #FF00FF magenta in every cell for chroma-key removal, no gradients, no texture, no shadow on the background.
+Constraints: no text, no labels, no UI, no people, no animals, no purple, no magenta or pink inside the flame, no blue flame, no smoke in this sheet, no detached sparks crossing cell edges, no borders or frames between cells, no cell edge contact, no watermark.

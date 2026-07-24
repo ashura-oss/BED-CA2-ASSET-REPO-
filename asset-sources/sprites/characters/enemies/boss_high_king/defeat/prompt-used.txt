@@ -1,0 +1,42 @@
+Create a single raster sprite sheet for a 2D game boss animation.
+
+Use the character sheets just shown as the visual reference for identity and style. Preserve the same character: Arvand, High King of Lindon, tall elven male king in white and warm gold royal armor, ornate spiked gold crown, long pale-blond hair, white-and-gold embroidered cloak, long straight silver sword, elegant high-king silhouette, clean HD fantasy game sprite rendering with crisp edges and readable details. Keep the same white/gold/ivory/metal palette and material language. Do not redesign him.
+
+Use the layout guide image just shown as a layout-only reference. Use it only to understand the rows, columns, equal invisible frame slots, centering, spacing, and safe padding. Do not reproduce the guide: no visible boxes, no safe-area rectangles, no center marks, no labels, no borders, no guide background.
+
+SHEET GEOMETRY:
+- Exact 4x4 grid, 16 equal animation cells, read left to right across each row then continue on the next row.
+- Overall sheet should be square, ideally 2048 x 2048 pixels with 512 x 512 cells.
+- Background must be 100% solid flat #FF00FF magenta across the entire sheet.
+- No gradients in the background, no transparency, no text, no labels, no UI.
+- No visible cell borders or guide marks.
+
+ANIMATION: body-only defeat sequence, no detached FX.
+Frame 1: still standing, weakened but royal, sword lowered.
+Frame 2: shoulders drop, crown and head tilt slightly, cloak begins to sag.
+Frame 3: staggers backward/sideways, one knee bending, sword still close to body.
+Frame 4: stronger stagger, free hand near chest, cloak folds inward.
+Frame 5: drops toward one knee, sword tip near ground but fully inside cell.
+Frame 6: kneeling lower, torso bowed, sword used as support.
+Frame 7: both knees near ground, crown still visible, cloak pooling compactly.
+Frame 8: faltering kneel, sword slipping but not flying away.
+Frame 9: controlled collapse from kneel, torso lowering, cloak folds under him.
+Frame 10: one hand touches ground, sword remains close to body.
+Frame 11: body mostly down in a diagonal kneel/fall pose, cloak gathered inside the safe area.
+Frame 12: final collapse, crown and face still readable, no blood.
+Frame 13: settles into defeated pose on knees/side, cape lying compactly.
+Frame 14: defeated still pose, sword on the ground close to hand.
+Frame 15: final fallen pose with tiny cloak settle, body contained in the center.
+Frame 16: final defeated hold, readable silhouette, crown and sword visible, no movement FX.
+
+STRICT CONTAINMENT:
+- Entire body, crown spikes, sword, cloak, hair, boots, and hands must fit fully inside each cell.
+- Nothing may cross any cell edge.
+- Leave thick #FF00FF margin on all four sides of every cell.
+- Keep the same character scale across all frames; standing frames should match the reference body height, and fallen frames should not enlarge or stretch.
+- Keep the character centered inside each cell. Standing/kneeling frames use a stable bottom anchor; falling frames remain centered and compact.
+- Body-only: no floating detached effects, no magic circles, no aura, no ring burst, no slash trails, no dust cloud, no projectiles, no impact burst.
+- No blood, gore, wounds, severed pieces, or horror details.
+- Avoid magenta, hot pink, purple, and violet anywhere on the character, cloak, sword, glow, or shadows, because #FF00FF is reserved for chroma-key cleanup.
+
+Produce only the final sprite sheet image.

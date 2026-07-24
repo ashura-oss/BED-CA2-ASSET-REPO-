@@ -1,0 +1,28 @@
+Create a clean HD 2D game FX spritesheet for Ashstep Flank side-hit spark.
+
+OUTPUT FORMAT
+- Exactly 4 animation frames in a 2 rows x 2 columns grid.
+- Each cell is exactly 512 x 512 px, total sheet exactly 1024 x 1024 px.
+- Use a solid flat #FF00FF background in every cell.
+- Keep all visible effect pixels at least 100 px inside each cell edge.
+- No labels, no text, no frame numbers, no borders, no UI.
+
+FX SUBJECT
+- Body-free side-hit spark effect only.
+- No character, no weapon, no hand, no shield, no target body.
+- A compact flanking slash impact that hits from the side: angled white-gold spark, orange ember shards, tiny grey ash flecks.
+- Shape: diagonal burst leaning upward-right, about 260 px wide and 190 px tall at peak.
+- Style: clean painterly HD fantasy game VFX, readable at combat scale, transparent-ready edges.
+
+ANIMATION SEQUENCE
+- Frame 1: small side glint.
+- Frame 2: angled side-impact flash opens.
+- Frame 3: peak diagonal spark with short shards, still compact.
+- Frame 4: fading ember shards and ash flecks.
+
+STRICT RULES
+- Do not include a long sword slash trail, smoke cloud, projectile, character, shield, magic circle, explosion, UI icon, or text.
+- Do not fill the whole cell; keep it tight and centered.
+- Keep the same center anchor in all frames.
+- Do not touch cell edges.
+- Do not use a black background; the only background color must be solid #FF00FF.

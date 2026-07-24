@@ -1,0 +1,155 @@
+{
+  "target": "asset",
+  "mode": "patrol_light",
+  "prompt": "",
+  "role": "",
+  "input": "public\\assets\\sprites\\scene_fx\\patrol_light\\raw-sheet-chroma.webp",
+  "threshold": 120,
+  "edge_threshold": 190,
+  "duration": 150,
+  "rows": 2,
+  "cols": 2,
+  "cell_size": 512,
+  "fit_scale": 0.86,
+  "trim_border": 4,
+  "edge_clean_depth": 3,
+  "align": "center",
+  "shared_scale": false,
+  "component_mode": "all",
+  "component_padding": 0,
+  "min_component_area": 1,
+  "edge_touch_margin": 0,
+  "frame_labels": [
+    "scene-patrol-light-1",
+    "scene-patrol-light-2",
+    "scene-patrol-light-3",
+    "scene-patrol-light-4"
+  ],
+  "frames": [
+    {
+      "grid": [
+        0,
+        0
+      ],
+      "source_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "component_mode": "all",
+      "component_count": 1,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        51,
+        206,
+        450,
+        292
+      ],
+      "edge_touch": false,
+      "output_size": [
+        440,
+        94
+      ],
+      "paste_position": [
+        36,
+        209
+      ]
+    },
+    {
+      "grid": [
+        0,
+        1
+      ],
+      "source_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "component_mode": "all",
+      "component_count": 1,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        33,
+        189,
+        462,
+        317
+      ],
+      "edge_touch": false,
+      "output_size": [
+        440,
+        131
+      ],
+      "paste_position": [
+        36,
+        190
+      ]
+    },
+    {
+      "grid": [
+        1,
+        0
+      ],
+      "source_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "component_mode": "all",
+      "component_count": 1,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        34,
+        169,
+        478,
+        336
+      ],
+      "edge_touch": false,
+      "output_size": [
+        440,
+        165
+      ],
+      "paste_position": [
+        36,
+        173
+      ]
+    },
+    {
+      "grid": [
+        1,
+        1
+      ],
+      "source_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "component_mode": "all",
+      "component_count": 2,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        48,
+        207,
+        448,
+        292
+      ],
+      "edge_touch": false,
+      "output_size": [
+        440,
+        93
+      ],
+      "paste_position": [
+        36,
+        209
+      ]
+    }
+  ],
+  "edge_touch_frames": []
+}

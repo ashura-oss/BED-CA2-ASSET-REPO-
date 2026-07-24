@@ -1,0 +1,323 @@
+{
+  "target": "creature",
+  "mode": "hurt",
+  "prompt": "Brughal Gate-King hurt body sheet candidate 1, 8 frames, 2x4, clean HD, large orc boss, compact body-only hit recoil and recovery, axe held close, no magenta inside subject, centered full body, facing left, stable feet, solid #FF00FF background, no blood, no hit spark, no dust, no text.",
+  "role": "",
+  "input": "public\\assets\\sprites\\characters\\enemies\\boss_orc_king\\hurt\\raw-sheet.webp",
+  "threshold": 145,
+  "edge_threshold": 210,
+  "duration": 105,
+  "rows": 2,
+  "cols": 4,
+  "cell_size": 512,
+  "fit_scale": 0.84,
+  "trim_border": 4,
+  "edge_clean_depth": 3,
+  "align": "feet",
+  "shared_scale": true,
+  "component_mode": "largest",
+  "component_padding": 0,
+  "min_component_area": 1,
+  "edge_touch_margin": 8,
+  "frame_labels": [
+    "hurt-1",
+    "hurt-2",
+    "hurt-3",
+    "hurt-4",
+    "hurt-5",
+    "hurt-6",
+    "hurt-7",
+    "hurt-8"
+  ],
+  "frames": [
+    {
+      "grid": [
+        0,
+        0
+      ],
+      "source_box": [
+        0,
+        0,
+        443,
+        443
+      ],
+      "component_mode": "largest",
+      "component_count": 17,
+      "selected_component_area": 52020,
+      "selected_component_bbox": [
+        82,
+        55,
+        347,
+        355
+      ],
+      "crop_bbox": [
+        82,
+        55,
+        347,
+        355
+      ],
+      "edge_touch": false,
+      "output_size": [
+        370,
+        418
+      ],
+      "paste_position": [
+        71,
+        54
+      ]
+    },
+    {
+      "grid": [
+        0,
+        1
+      ],
+      "source_box": [
+        443,
+        0,
+        886,
+        443
+      ],
+      "component_mode": "largest",
+      "component_count": 24,
+      "selected_component_area": 51493,
+      "selected_component_bbox": [
+        61,
+        59,
+        329,
+        355
+      ],
+      "crop_bbox": [
+        61,
+        59,
+        329,
+        355
+      ],
+      "edge_touch": false,
+      "output_size": [
+        374,
+        413
+      ],
+      "paste_position": [
+        69,
+        59
+      ]
+    },
+    {
+      "grid": [
+        0,
+        2
+      ],
+      "source_box": [
+        886,
+        0,
+        1329,
+        443
+      ],
+      "component_mode": "largest",
+      "component_count": 20,
+      "selected_component_area": 51480,
+      "selected_component_bbox": [
+        52,
+        59,
+        331,
+        354
+      ],
+      "crop_bbox": [
+        52,
+        59,
+        331,
+        354
+      ],
+      "edge_touch": false,
+      "output_size": [
+        389,
+        411
+      ],
+      "paste_position": [
+        61,
+        61
+      ]
+    },
+    {
+      "grid": [
+        0,
+        3
+      ],
+      "source_box": [
+        1329,
+        0,
+        1772,
+        443
+      ],
+      "component_mode": "largest",
+      "component_count": 19,
+      "selected_component_area": 53442,
+      "selected_component_bbox": [
+        51,
+        73,
+        338,
+        355
+      ],
+      "crop_bbox": [
+        51,
+        73,
+        338,
+        355
+      ],
+      "edge_touch": false,
+      "output_size": [
+        400,
+        393
+      ],
+      "paste_position": [
+        56,
+        79
+      ]
+    },
+    {
+      "grid": [
+        1,
+        0
+      ],
+      "source_box": [
+        0,
+        443,
+        443,
+        886
+      ],
+      "component_mode": "largest",
+      "component_count": 19,
+      "selected_component_area": 49206,
+      "selected_component_bbox": [
+        78,
+        75,
+        364,
+        349
+      ],
+      "crop_bbox": [
+        78,
+        75,
+        364,
+        349
+      ],
+      "edge_touch": false,
+      "output_size": [
+        399,
+        382
+      ],
+      "paste_position": [
+        56,
+        90
+      ]
+    },
+    {
+      "grid": [
+        1,
+        1
+      ],
+      "source_box": [
+        443,
+        443,
+        886,
+        886
+      ],
+      "component_mode": "largest",
+      "component_count": 16,
+      "selected_component_area": 48601,
+      "selected_component_bbox": [
+        61,
+        70,
+        347,
+        349
+      ],
+      "crop_bbox": [
+        61,
+        70,
+        347,
+        349
+      ],
+      "edge_touch": false,
+      "output_size": [
+        399,
+        389
+      ],
+      "paste_position": [
+        56,
+        83
+      ]
+    },
+    {
+      "grid": [
+        1,
+        2
+      ],
+      "source_box": [
+        886,
+        443,
+        1329,
+        886
+      ],
+      "component_mode": "largest",
+      "component_count": 11,
+      "selected_component_area": 53568,
+      "selected_component_bbox": [
+        49,
+        52,
+        320,
+        360
+      ],
+      "crop_bbox": [
+        49,
+        52,
+        320,
+        360
+      ],
+      "edge_touch": false,
+      "output_size": [
+        378,
+        430
+      ],
+      "paste_position": [
+        67,
+        42
+      ]
+    },
+    {
+      "grid": [
+        1,
+        3
+      ],
+      "source_box": [
+        1329,
+        443,
+        1772,
+        886
+      ],
+      "component_mode": "largest",
+      "component_count": 17,
+      "selected_component_area": 53785,
+      "selected_component_bbox": [
+        49,
+        52,
+        323,
+        360
+      ],
+      "crop_bbox": [
+        49,
+        52,
+        323,
+        360
+      ],
+      "edge_touch": false,
+      "output_size": [
+        382,
+        430
+      ],
+      "paste_position": [
+        65,
+        42
+      ]
+    }
+  ],
+  "edge_touch_frames": []
+}

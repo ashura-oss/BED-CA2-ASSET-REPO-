@@ -1,0 +1,10 @@
+Use case: stylized-concept
+Asset type: restrained raster background for a 2D fantasy RPG web game, replacing an SVG backdrop
+Primary request: Create the Middle-earth fire background source image for Dawn of Man.
+Scene/backdrop: a burned village edge at night after a disaster, low ruined roof silhouettes and collapsed beams in the lower third, two modest fire glows in the distance, drifting smoke against a dark sky. This is a general story/menu/game backdrop, less intense than an active battle scene.
+Style/medium: clean hand-painted cinematic 2D game background, painterly but controlled, not photorealistic, not pixel art, no vector shapes.
+Composition/framing: wide 16:9 landscape composition; keep the main fire glows and ruined village silhouettes within the central 50% safe area so it can be cropped to square and portrait later; leave the top half mostly dark atmospheric sky for UI readability; no important subject at the extreme edges.
+Lighting/mood: somber ember-lit night, ash and smoke, restrained warm glow, low contrast, readable behind UI.
+Color palette: charcoal black, burnt umber, muted ember orange, dim gold, smoky gray; avoid saturated red wash, neon colors, or bright white flame cores.
+Constraints: background only, no characters, no readable signs, no logos, no text, no watermark, no UI, no frame border, no diagonal rain/line overlay, no hard vector gradients, no huge foreground flames, no bright center that would overpower white UI text.
+Output intent: final source will be cropped into landscape, square, and portrait WebP backgrounds with CSS cover, so keep it clean and compositionally stable across aspect ratios.

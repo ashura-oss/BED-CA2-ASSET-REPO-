@@ -1,0 +1,27 @@
+Create a production-ready 2D game item icon for Field Dressing.
+
+STRICT ICON FORMAT:
+- Single centered consumable item icon, square composition.
+- Solid flat #FF00FF magenta background for chroma-key cleanup.
+- No transparent raw background; magenta must be perfectly flat and untextured.
+- No text, no labels, no UI frame, no border, no watermark, no corner decorations.
+- Leave at least 96 px empty magenta padding around the full silhouette.
+- No bandage roll, herb, tie, highlight, or shadow may touch the image edge.
+
+ITEM IDENTITY:
+- Field Dressing: a wrapped bundle of cloth and silverleaf.
+- Practical battlefield medical bundle made by human rebels.
+- Off-white linen bandage roll, folded cloth pad, a few pale silverleaf herbs tucked under the tie.
+- Clean enough for use but road-worn, not modern medical gear.
+- No red cross symbol, no readable text, no blood.
+
+ART DIRECTION:
+- Clean HD 2D game icon, painterly but crisp and readable at 64 px.
+- Compact three-quarter bundle: bandage roll, folded dressing pad, simple tie, visible silverleaf sprig.
+- Strong silhouette against magenta, readable cloth and herb shapes.
+- Palette: off-white linen, pale sage leaves, muted tan cord, soft grey shadows.
+
+QUALITY REQUIREMENTS:
+- The icon must still read as a healing bandage bundle when downscaled to 64 px.
+- Keep it centered and compact within the safe area.
+- Avoid potion bottle, red cross, blood, magic aura, text, decorative frame, smoke, sparks, or background scene.

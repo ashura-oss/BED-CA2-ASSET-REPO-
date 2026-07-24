@@ -1,0 +1,34 @@
+Create a clean HD 2D game FX spritesheet for a crown command ring pulse.
+
+OUTPUT FORMAT
+- Exactly 8 animation frames in a 2 rows x 4 columns grid.
+- Each cell is exactly 512 x 512 px, total sheet exactly 2048 x 1024 px.
+- Use a solid flat #FF00FF background in every cell.
+- Keep all visible effect pixels at least 72 px inside each cell edge.
+- No labels, no text, no frame numbers, no borders, no UI.
+
+FX SUBJECT
+- Body-free command pulse effect only.
+- No character, no hand, no weapon, no face, no armor, no physical crown.
+- The effect should layer near Aren's raised command hand during the Crown Ring Command ability.
+- Shape: three thin uneven golden rings, a small crown-like ember flare above the center, and tiny ash motes.
+- Materials: warm gold light, ember orange accents, faint charcoal ash specks.
+- Style: clean painterly HD fantasy game VFX, readable at combat scale, transparent-ready edges.
+
+ANIMATION SEQUENCE
+- Frame 1: tiny gold ember point with barely visible ring traces.
+- Frame 2: first thin ring forms, subtle ash motes.
+- Frame 3: second and third rings appear, offset slightly, not perfectly circular.
+- Frame 4: strongest crown command pulse, rings brightest and widest.
+- Frame 5: ring edges ripple outward and begin to fragment.
+- Frame 6: gold fades into ember motes.
+- Frame 7: sparse fading ash and tiny gold flecks.
+- Frame 8: almost gone, loop-safe fade back to frame 1.
+
+STRICT RULES
+- Do not make a large magic circle that fills the cell.
+- Do not create realistic 3D rings; this is a flat combat overlay sprite, not the intro Three.js ring scene.
+- Do not include a character, hand, weapon, crown object, shield, slash arc, fireball, explosion, UI icon, or text.
+- Keep the same center anchor in all frames.
+- Do not touch cell edges.
+- Do not use a black background; the only background color must be solid #FF00FF.

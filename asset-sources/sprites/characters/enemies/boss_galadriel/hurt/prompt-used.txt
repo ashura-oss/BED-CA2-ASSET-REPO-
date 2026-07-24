@@ -1,0 +1,36 @@
+Create one production-ready 2D game sprite sheet for boss Galadriel, action: HURT, body-only damage reaction animation.
+
+Canvas and grid:
+- Single image, exact 2 rows x 4 columns = 8 animation frames.
+- Solid flat chroma background: #FF00FF only, perfectly uniform. No gradients, texture, shadows, transparency, or anti-aliased magenta edges.
+- Each frame reads left to right, top to bottom.
+- One full-body character centered in each cell with at least 12% empty safe padding on every side.
+- Stable foot/bottom anchor across all frames; feet stay near the same baseline.
+- Character occupies about 55-62% of cell height, never cropped, no hair, robe, hands, or sparks touching cell borders.
+
+Character identity and style:
+- Same identity as the accepted Galadriel boss sheets: regal elven queen, pale gold flowing hair, delicate gold crown, gold-and-white armor, long white-gold embroidered robes/cloak, elegant fantasy RPG boss sprite, clean painted high-detail game art.
+- Three-quarter facing left, consistent body proportions and face across frames.
+- No weapon, no staff, no banner, no sword, no shield, no ring prop, no floating object.
+- Do not use magenta, pink, purple, violet, or rose colors anywhere on the character or effects.
+
+Animation sequence, 8 frames:
+1 calm ready stance, hands close, stern face.
+2 sudden hit reaction starts: shoulders tense, head turns slightly, robe begins to lift.
+3 recoil peak: torso leans back and slightly down, one hand braces near chest, expression pained but controlled.
+4 stagger: cloak swings, hair moves, knees bend a little, feet still planted.
+5 recovery brace: one hand comes forward defensively, posture begins upright again.
+6 robe and hair settle, shoulders square.
+7 returns toward ready stance, face stern again.
+8 ready pose matching frame 1 for smooth reset.
+
+Strict body-only constraints:
+- No blood, no gore, no wounds, no bruises, no detached slash, no projectile, no impact burst, no explosion, no wide aura, no ground effect.
+- If any hit indication exists, keep it as a tiny warm gold/white glint attached to armor only; no detached particles.
+- Keep silhouette compact for phones; avoid excessive cloak or hair spread.
+- No text, labels, numbers, watermark, borders, guides, UI, or extra characters.
+
+Make the result clean enough for chroma-key extraction into transparent WebP sprite variants.
+
+Result:
+- Candidate 1 accepted as source art. Source file preserved as raw-sheet-generated.webp.

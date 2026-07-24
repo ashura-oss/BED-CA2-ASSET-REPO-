@@ -1,0 +1,11 @@
+{
+  "target": "asset",
+  "mode": "hearthvale_burned_house",
+  "prompt": "",
+  "role": "",
+  "input": "public\\assets\\sprites\\scene_props\\hearthvale_burned_house\\raw-source-chroma.webp",
+  "threshold": 120,
+  "edge_threshold": 190,
+  "duration": 200,
+  "single_size": 512
+}

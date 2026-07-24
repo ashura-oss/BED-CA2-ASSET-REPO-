@@ -1,0 +1,5 @@
+Strict image_gen prompt:
+2x2 sprite sheet, four isolated leaf and pollen particle frames for a dark fantasy forest atmosphere layer. Each cell contains one tiny green-gold leaf mote or pollen fleck with painterly texture, no text, no UI, no borders, no repeated grid lines, no purple, no pink, no blue, no background details. Use a flat solid magenta chroma-key background only. Keep each particle centered with generous padding so it can be cropped into 512x512 frames and looped subtly over the full viewport.
+
+Postprocess:
+Resized raw output to a 1024x1024 sheet, removed chroma key with soft matte/despill, cropped four 512x512 frames, exported transparent sheet and preview GIF. Final QC confirmed no hot magenta, pink, purple, or edge-contact pixels after manual fringe cleanup.

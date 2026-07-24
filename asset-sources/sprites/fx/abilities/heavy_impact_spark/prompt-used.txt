@@ -1,0 +1,12 @@
+Use case: stylized-concept
+Asset type: 2D game sprite FX animation sheet for a Phaser combat overlay
+Primary request: Heavy melee impact spark FX, exactly 2 rows x 3 columns, 6 frames total.
+Subject: compact burst of ember-gold, white-hot steel, and small orange sparks from a heavy sword blow hitting armor or a shield. No character body and no weapon handle.
+Style/medium: clean HD 2D game FX sprite, crisp readable burst, painterly glow, not pixel art.
+View: side-view combat FX.
+Sheet: exactly 2 rows x 3 columns of equal cells, read left-to-right across row 1 then row 2.
+Frame motion: frame 1 tiny contact point; frame 2 sparks begin to crack outward; frame 3 bright compact burst; frame 4 peak heavy impact with short angular sparks; frame 5 sparks break apart and dim; frame 6 nearly faded embers for clean completion.
+Frame rules: same effect identity in every frame, centered in every cell, effect fully inside central 65-70% safe area, clear flat magenta gutter on all four sides of every cell.
+Background: perfectly flat solid #FF00FF magenta across the entire sheet, no gradients, no shadows, no texture, no floor plane.
+Constraints: no character, no face, no hands, no weapon handle, no text, no labels, no UI, no frame numbers, no watermark, no visible grid lines or panel borders, no part of the spark burst crossing or touching any cell edge.
+Avoid: huge explosion, smoke cloud, dust cloud, long projectile trail, low-contrast blur, transparent raw background, black background, white background, body fragments.

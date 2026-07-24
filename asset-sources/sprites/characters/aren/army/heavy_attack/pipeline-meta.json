@@ -1,0 +1,14 @@
+{
+  "source": "public\\assets\\sprites\\characters\\aren\\army\\heavy_attack\\raw-sheet.webp",
+  "rows": 2,
+  "cols": 4,
+  "prefix": "heavy",
+  "master_cell": 512,
+  "fit_scale": 0.82,
+  "anchor": "bottom",
+  "background_sample": [
+    244,
+    4,
+    240
+  ]
+}

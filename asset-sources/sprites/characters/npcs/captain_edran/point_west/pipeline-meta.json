@@ -1,0 +1,175 @@
+{
+  "target": "npc",
+  "mode": "point",
+  "prompt": "",
+  "role": "",
+  "input": "public\\assets\\sprites\\characters\\npcs\\captain_edran\\point_west\\raw-sheet.webp",
+  "threshold": 130,
+  "edge_threshold": 190,
+  "duration": 105,
+  "rows": 2,
+  "cols": 2,
+  "cell_size": 512,
+  "fit_scale": 0.82,
+  "trim_border": 4,
+  "edge_clean_depth": 4,
+  "align": "bottom",
+  "shared_scale": true,
+  "component_mode": "largest",
+  "component_padding": 8,
+  "min_component_area": 12,
+  "edge_touch_margin": 0,
+  "frame_labels": [
+    "captain-edran-point-west-1",
+    "captain-edran-point-west-2",
+    "captain-edran-point-west-3",
+    "captain-edran-point-west-4"
+  ],
+  "frames": [
+    {
+      "grid": [
+        0,
+        0
+      ],
+      "source_box": [
+        0,
+        0,
+        627,
+        627
+      ],
+      "component_mode": "largest",
+      "component_count": 1,
+      "selected_component_area": 83752,
+      "selected_component_bbox": [
+        225,
+        46,
+        461,
+        579
+      ],
+      "crop_bbox": [
+        217,
+        38,
+        469,
+        587
+      ],
+      "edge_touch": false,
+      "output_size": [
+        192,
+        418
+      ],
+      "paste_position": [
+        160,
+        48
+      ]
+    },
+    {
+      "grid": [
+        0,
+        1
+      ],
+      "source_box": [
+        627,
+        0,
+        1254,
+        627
+      ],
+      "component_mode": "largest",
+      "component_count": 1,
+      "selected_component_area": 84865,
+      "selected_component_bbox": [
+        163,
+        45,
+        400,
+        579
+      ],
+      "crop_bbox": [
+        155,
+        37,
+        408,
+        587
+      ],
+      "edge_touch": false,
+      "output_size": [
+        192,
+        419
+      ],
+      "paste_position": [
+        160,
+        47
+      ]
+    },
+    {
+      "grid": [
+        1,
+        0
+      ],
+      "source_box": [
+        0,
+        627,
+        627,
+        1254
+      ],
+      "component_mode": "largest",
+      "component_count": 1,
+      "selected_component_area": 97025,
+      "selected_component_bbox": [
+        145,
+        36,
+        459,
+        571
+      ],
+      "crop_bbox": [
+        137,
+        28,
+        467,
+        579
+      ],
+      "edge_touch": false,
+      "output_size": [
+        251,
+        419
+      ],
+      "paste_position": [
+        130,
+        47
+      ]
+    },
+    {
+      "grid": [
+        1,
+        1
+      ],
+      "source_box": [
+        627,
+        627,
+        1254,
+        1254
+      ],
+      "component_mode": "largest",
+      "component_count": 1,
+      "selected_component_area": 84348,
+      "selected_component_bbox": [
+        163,
+        37,
+        400,
+        571
+      ],
+      "crop_bbox": [
+        155,
+        29,
+        408,
+        579
+      ],
+      "edge_touch": false,
+      "output_size": [
+        192,
+        419
+      ],
+      "paste_position": [
+        160,
+        47
+      ]
+    }
+  ],
+  "edge_touch_frames": []
+}

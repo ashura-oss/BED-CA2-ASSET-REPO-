@@ -1,0 +1,9 @@
+Use case: stylized-concept
+Asset type: 8-frame combat ability FX sprite sheet for a dark medieval fantasy web game
+Primary request: Create "Westward Press": a low, forceful forward surge of iron-gray wind, pale steel slash trails, dust, and restrained amber sparks that visually travels left-to-right, peaks in a compact horizontal impact, then fades.
+Scene/backdrop: perfectly flat solid #FF00FF chroma-key background.
+Subject: effects only—no character, weapon, horse, army, scenery, symbols, labels, or UI.
+Style/medium: painterly illustrated game VFX with crisp readable silhouettes and grounded dark-fantasy realism.
+Composition/framing: exact 2 rows by 4 columns, eight equal cells in left-to-right then top-to-bottom animation order. One distinct phase centered in each cell. Generous consistent padding; no effect crosses a cell boundary; no grid lines.
+Lighting/mood: iron gray, cold steel, dusty brown, and restrained amber; determined momentum rather than magic.
+Constraints: perfectly uniform #FF00FF outside effects; no gradients, shadows, texture, floor plane, transparency, text, watermark, characters, duplicates, panel borders, or clipping.

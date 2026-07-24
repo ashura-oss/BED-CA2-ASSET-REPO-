@@ -1,0 +1,10 @@
+Use case: stylized-concept
+Asset type: restrained raster background for a 2D fantasy RPG web game, replacing an SVG backdrop
+Primary request: Create the battle-fire background source image for Dawn of Man.
+Scene/backdrop: a distant battlefield at night with low burning siege fires, broken dark silhouettes of stakes and ruined barricades, smoky ember glow near the lower third, and a broad dark sky behind it. The scene should support readable UI overlays and game panels.
+Style/medium: clean hand-painted cinematic 2D game background, painterly but controlled, not photorealistic, not pixel art, no vector shapes.
+Composition/framing: wide 16:9 landscape composition; keep the main fire/glow and battlefield silhouette within the central 50% safe area so it can be cropped to square and portrait later; leave the top half mostly dark atmospheric sky for UI readability; no important subject at the extreme edges.
+Lighting/mood: restrained warm orange firelight, dark charcoal battlefield, low contrast, smoky but not busy.
+Color palette: charcoal black, deep brown, ember orange, muted gold; avoid neon colors and saturated red wash.
+Constraints: background only, no characters, no readable flags, no logos, no text, no watermark, no UI, no frame border, no diagonal rain/line overlay, no hard vector gradients, no huge foreground flames, no bright center that would overpower white UI text.
+Output intent: final source will be cropped into landscape, square, and portrait WebP backgrounds with CSS cover, so keep it clean and compositionally stable across aspect ratios.

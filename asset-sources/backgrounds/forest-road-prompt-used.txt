@@ -1,0 +1,10 @@
+Use case: stylized-concept
+Asset type: restrained raster background for a 2D fantasy RPG web game, replacing an SVG backdrop
+Primary request: Create the forest-road background source image for Dawn of Man.
+Scene/backdrop: a dark old forest road at dusk, dense trees framing a central dirt path, mossy stones and low undergrowth, a faint pale-green canopy glow in the distance, quiet travel mood. The scene should support readable UI overlays and game panels.
+Style/medium: clean hand-painted cinematic 2D game background, painterly but controlled, not photorealistic, not pixel art, no vector shapes.
+Composition/framing: wide 16:9 landscape composition; keep the path vanishing point and main tree silhouettes within the central 50% safe area so it can be cropped to square and portrait later; leave the top and side edges darker and less detailed for UI readability; no important subject at the extreme edges.
+Lighting/mood: subdued forest dusk, muted green and brown, soft atmospheric depth, calm but watchful.
+Color palette: deep green-black, moss green, dark earth brown, faint muted gold; avoid saturated emerald, neon green, purple, or bright white glow.
+Constraints: background only, no characters, no animals, no readable signs, no logos, no text, no watermark, no UI, no frame border, no diagonal rain/line overlay, no hard vector gradients, no busy foreground branches crossing the entire screen, no bright center that would overpower white UI text.
+Output intent: final source will be cropped into landscape, square, and portrait WebP backgrounds with CSS cover, so keep it clean and compositionally stable across aspect ratios.

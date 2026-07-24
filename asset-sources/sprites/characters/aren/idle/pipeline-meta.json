@@ -1,0 +1,356 @@
+{
+  "target": "asset",
+  "mode": "idle",
+  "prompt": "Use case: stylized-concept; Asset type: 2D game sprite animation sheet; Primary request: Aren, Hearthvale rebel soldier, idle animation, exactly 2 rows x 4 columns, 8 equal animation frames; Subject: ash-stained human village soldier from Hearthvale, practical dark leather and worn mail, grey march cloak, plain reforged sword resting at his side; Style/medium: clean HD 2D game sprite, painterly but gameplay-readable; View: 3/4 side battle view, full body visible; Background: perfectly flat solid #FF00FF magenta; Frame rules: same identity, same costume, same scale, same bottom anchor, centered in every cell; Constraints: no text, no labels, no UI, no borders, no frame numbers, no watermark, no detached FX, no cropped limbs.",
+  "role": "",
+  "input": "public\\assets\\sprites\\characters\\aren\\idle\\raw-sheet.webp",
+  "threshold": 130,
+  "edge_threshold": 230,
+  "duration": 140,
+  "rows": 2,
+  "cols": 4,
+  "cell_size": 512,
+  "fit_scale": 0.82,
+  "trim_border": 4,
+  "edge_clean_depth": 3,
+  "align": "feet",
+  "shared_scale": true,
+  "component_mode": "largest",
+  "component_padding": 8,
+  "min_component_area": 1,
+  "edge_touch_margin": 6,
+  "frame_labels": [
+    "idle-1",
+    "idle-2",
+    "idle-3",
+    "idle-4",
+    "idle-5",
+    "idle-6",
+    "idle-7",
+    "idle-8"
+  ],
+  "frames": [
+    {
+      "grid": [
+        0,
+        0
+      ],
+      "source_box": [
+        0,
+        0,
+        443,
+        443
+      ],
+      "component_mode": "largest",
+      "component_count": 52,
+      "selected_component_area": 53880,
+      "selected_component_bbox": [
+        109,
+        10,
+        388,
+        416
+      ],
+      "crop_bbox": [
+        101,
+        2,
+        396,
+        424
+      ],
+      "edge_touch": true,
+      "output_size": [
+        291,
+        416
+      ],
+      "paste_position": [
+        110,
+        50
+      ]
+    },
+    {
+      "grid": [
+        0,
+        1
+      ],
+      "source_box": [
+        443,
+        0,
+        886,
+        443
+      ],
+      "component_mode": "largest",
+      "component_count": 47,
+      "selected_component_area": 53852,
+      "selected_component_bbox": [
+        84,
+        7,
+        358,
+        416
+      ],
+      "crop_bbox": [
+        76,
+        0,
+        366,
+        424
+      ],
+      "edge_touch": true,
+      "output_size": [
+        286,
+        418
+      ],
+      "paste_position": [
+        113,
+        48
+      ]
+    },
+    {
+      "grid": [
+        0,
+        2
+      ],
+      "source_box": [
+        886,
+        0,
+        1329,
+        443
+      ],
+      "component_mode": "largest",
+      "component_count": 39,
+      "selected_component_area": 54650,
+      "selected_component_bbox": [
+        85,
+        7,
+        364,
+        416
+      ],
+      "crop_bbox": [
+        77,
+        0,
+        372,
+        424
+      ],
+      "edge_touch": true,
+      "output_size": [
+        291,
+        418
+      ],
+      "paste_position": [
+        110,
+        48
+      ]
+    },
+    {
+      "grid": [
+        0,
+        3
+      ],
+      "source_box": [
+        1329,
+        0,
+        1772,
+        443
+      ],
+      "component_mode": "largest",
+      "component_count": 34,
+      "selected_component_area": 54326,
+      "selected_component_bbox": [
+        61,
+        7,
+        341,
+        417
+      ],
+      "crop_bbox": [
+        53,
+        0,
+        349,
+        425
+      ],
+      "edge_touch": true,
+      "output_size": [
+        292,
+        419
+      ],
+      "paste_position": [
+        110,
+        47
+      ]
+    },
+    {
+      "grid": [
+        1,
+        0
+      ],
+      "source_box": [
+        0,
+        443,
+        443,
+        886
+      ],
+      "component_mode": "largest",
+      "component_count": 33,
+      "selected_component_area": 53912,
+      "selected_component_bbox": [
+        114,
+        1,
+        395,
+        410
+      ],
+      "crop_bbox": [
+        106,
+        0,
+        403,
+        418
+      ],
+      "edge_touch": true,
+      "output_size": [
+        293,
+        412
+      ],
+      "paste_position": [
+        109,
+        54
+      ]
+    },
+    {
+      "grid": [
+        1,
+        1
+      ],
+      "source_box": [
+        443,
+        443,
+        886,
+        886
+      ],
+      "component_mode": "largest",
+      "component_count": 55,
+      "selected_component_area": 54771,
+      "selected_component_bbox": [
+        77,
+        0,
+        362,
+        411
+      ],
+      "crop_bbox": [
+        69,
+        0,
+        370,
+        419
+      ],
+      "edge_touch": true,
+      "output_size": [
+        297,
+        413
+      ],
+      "paste_position": [
+        107,
+        53
+      ]
+    },
+    {
+      "grid": [
+        1,
+        2
+      ],
+      "source_box": [
+        886,
+        443,
+        1329,
+        886
+      ],
+      "component_mode": "largest",
+      "component_count": 54,
+      "selected_component_area": 54603,
+      "selected_component_bbox": [
+        74,
+        1,
+        358,
+        411
+      ],
+      "crop_bbox": [
+        66,
+        0,
+        366,
+        419
+      ],
+      "edge_touch": true,
+      "output_size": [
+        296,
+        413
+      ],
+      "paste_position": [
+        108,
+        53
+      ]
+    },
+    {
+      "grid": [
+        1,
+        3
+      ],
+      "source_box": [
+        1329,
+        443,
+        1772,
+        886
+      ],
+      "component_mode": "largest",
+      "component_count": 48,
+      "selected_component_area": 55009,
+      "selected_component_bbox": [
+        51,
+        1,
+        339,
+        411
+      ],
+      "crop_bbox": [
+        43,
+        0,
+        347,
+        419
+      ],
+      "edge_touch": true,
+      "output_size": [
+        300,
+        413
+      ],
+      "paste_position": [
+        106,
+        53
+      ]
+    }
+  ],
+  "edge_touch_frames": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      3
+    ]
+  ]
+}

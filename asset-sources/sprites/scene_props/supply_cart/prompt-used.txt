@@ -1,0 +1,27 @@
+STRICT SINGLE 2D GAME PROP SPRITE.
+
+Subject:
+- One small Hearthvale wooden hand cart.
+- Weathered dark wood, two iron-rimmed wheels, side rails, short handle, a few bundled supplies inside.
+- No horse, no person, no ground tile, no grass, no cast shadow, no text, no labels.
+
+Composition:
+- One isolated low cart only.
+- Side/front three-quarter view facing right.
+- Bottom-center anchored.
+- Full object fits inside roughly 70% of canvas width and 45% of canvas height.
+- Keep generous empty magenta margin on every side.
+
+Chroma-key rule:
+- Perfectly flat solid #FF00FF magenta background only.
+
+Accepted postprocess:
+- Source preserved as raw-source.webp.
+- Despill cleanup: remove_chroma_key.py --auto-key border --soft-matte --transparent-threshold 54 --opaque-threshold 132 --edge-contract 1 --edge-feather 0.2 --despill.
+- Sprite processor: generate2dsprite.py process --target asset --mode supply_cart --single-size 512 --threshold 120 --edge-threshold 190.
+- Runtime file: sprite-transparent.webp.
+
+QC result:
+- 512x512 transparent prop.
+- Zero hot-magenta, pinkish, purpleish, or green-key residue by pixel scan.
+- Zero visible pixels on image edges.

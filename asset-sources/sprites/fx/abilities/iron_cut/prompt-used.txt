@@ -1,0 +1,9 @@
+Use case: stylized-concept
+Asset type: 6-frame combat ability FX sprite sheet for a dark medieval fantasy web game
+Primary request: Create a single sprite sheet showing the full animation of "Iron Cut": a disciplined steel sword slash that begins as a tight silver glint, grows into a sharp crescent arc with a restrained ember-orange core, strikes with a compact shower of iron sparks, then dissipates.
+Scene/backdrop: perfectly flat solid #FF00FF chroma-key background.
+Subject: effects only—no character, hand, weapon, scenery, icons, labels, or UI.
+Style/medium: painterly illustrated game VFX, crisp silhouette, dark-fantasy realism, readable at small combat scale, compatible with charcoal, oxblood, muted-gold character art.
+Composition/framing: exact 2 rows by 3 columns, six equal cells in left-to-right then top-to-bottom animation order. One complete distinct phase centered in each cell. Generous consistent padding; no effect crosses a cell boundary; no grid lines.
+Lighting/mood: cold steel silver with a restrained ember-orange accent; controlled and martial, not magical spectacle.
+Constraints: perfectly uniform #FF00FF everywhere outside the effects, no gradients or shadows in the background, no transparency, no text, no watermark, no characters, no duplicate frames, no panel borders. Keep every effect fully inside its cell.

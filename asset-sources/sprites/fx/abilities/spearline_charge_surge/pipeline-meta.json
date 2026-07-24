@@ -1,0 +1,283 @@
+{
+  "target": "asset",
+  "mode": "pulse",
+  "prompt": "Spearline Charge compact spear tips and dust surge FX, candidate 2, 8 frames, 2x4, clean HD, centered, solid #FF00FF background, every frame visible, no characters, no text.",
+  "role": "",
+  "input": "public\\assets\\sprites\\fx\\abilities\\spearline_charge_surge\\raw-sheet.webp",
+  "threshold": 130,
+  "edge_threshold": 230,
+  "duration": 85,
+  "rows": 2,
+  "cols": 4,
+  "cell_size": 512,
+  "fit_scale": 0.7,
+  "trim_border": 4,
+  "edge_clean_depth": 3,
+  "align": "center",
+  "shared_scale": true,
+  "component_mode": "all",
+  "component_padding": 0,
+  "min_component_area": 1,
+  "edge_touch_margin": 6,
+  "frame_labels": [
+    "spearline-1",
+    "spearline-2",
+    "spearline-3",
+    "spearline-4",
+    "spearline-5",
+    "spearline-6",
+    "spearline-7",
+    "spearline-8"
+  ],
+  "frames": [
+    {
+      "grid": [
+        0,
+        0
+      ],
+      "source_box": [
+        0,
+        0,
+        443,
+        443
+      ],
+      "component_mode": "all",
+      "component_count": 22,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        152,
+        230,
+        371,
+        265
+      ],
+      "edge_touch": false,
+      "output_size": [
+        220,
+        35
+      ],
+      "paste_position": [
+        146,
+        238
+      ]
+    },
+    {
+      "grid": [
+        0,
+        1
+      ],
+      "source_box": [
+        443,
+        0,
+        886,
+        443
+      ],
+      "component_mode": "all",
+      "component_count": 27,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        103,
+        224,
+        353,
+        267
+      ],
+      "edge_touch": false,
+      "output_size": [
+        251,
+        43
+      ],
+      "paste_position": [
+        130,
+        234
+      ]
+    },
+    {
+      "grid": [
+        0,
+        2
+      ],
+      "source_box": [
+        886,
+        0,
+        1329,
+        443
+      ],
+      "component_mode": "all",
+      "component_count": 45,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        58,
+        201,
+        380,
+        298
+      ],
+      "edge_touch": false,
+      "output_size": [
+        324,
+        97
+      ],
+      "paste_position": [
+        94,
+        207
+      ]
+    },
+    {
+      "grid": [
+        0,
+        3
+      ],
+      "source_box": [
+        1329,
+        0,
+        1772,
+        443
+      ],
+      "component_mode": "all",
+      "component_count": 73,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        48,
+        194,
+        377,
+        301
+      ],
+      "edge_touch": false,
+      "output_size": [
+        331,
+        107
+      ],
+      "paste_position": [
+        90,
+        202
+      ]
+    },
+    {
+      "grid": [
+        1,
+        0
+      ],
+      "source_box": [
+        0,
+        443,
+        443,
+        886
+      ],
+      "component_mode": "all",
+      "component_count": 109,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        50,
+        119,
+        406,
+        246
+      ],
+      "edge_touch": false,
+      "output_size": [
+        358,
+        127
+      ],
+      "paste_position": [
+        77,
+        192
+      ]
+    },
+    {
+      "grid": [
+        1,
+        1
+      ],
+      "source_box": [
+        443,
+        443,
+        886,
+        886
+      ],
+      "component_mode": "all",
+      "component_count": 41,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        85,
+        121,
+        384,
+        230
+      ],
+      "edge_touch": false,
+      "output_size": [
+        301,
+        109
+      ],
+      "paste_position": [
+        105,
+        201
+      ]
+    },
+    {
+      "grid": [
+        1,
+        2
+      ],
+      "source_box": [
+        886,
+        443,
+        1329,
+        886
+      ],
+      "component_mode": "all",
+      "component_count": 43,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        70,
+        154,
+        380,
+        206
+      ],
+      "edge_touch": false,
+      "output_size": [
+        312,
+        52
+      ],
+      "paste_position": [
+        100,
+        230
+      ]
+    },
+    {
+      "grid": [
+        1,
+        3
+      ],
+      "source_box": [
+        1329,
+        443,
+        1772,
+        886
+      ],
+      "component_mode": "all",
+      "component_count": 9,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        102,
+        165,
+        360,
+        182
+      ],
+      "edge_touch": false,
+      "output_size": [
+        259,
+        17
+      ],
+      "paste_position": [
+        126,
+        247
+      ]
+    }
+  ],
+  "edge_touch_frames": []
+}

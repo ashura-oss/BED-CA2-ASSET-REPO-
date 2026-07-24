@@ -1,0 +1,11 @@
+Use case: stylized-concept
+Asset type: 2D game NPC animation sprite sheet for the Dawn of Man dialogue scene
+Primary request: Create Mira Ashwell as a 4-frame idle animation sheet in an exact 2x2 grid.
+Input image: Use the layout guide image just shown as a layout-only reference. Use it only to understand the rows, columns, equal invisible frame slots, centering, spacing, and safe padding. Do not reproduce the guide: no visible boxes, no safe-area rectangles, no center marks, no labels, no borders, no guide background.
+Subject: Mira Ashwell, a human Hearthvale survivor and first-oath witness; practical village healer/survivor clothing, ash-grey shawl, muted charcoal and warm off-white cloth layers, small brown leather belt pouch, small bundle of cloth and silverleaf herbs held close to the body. Civilian support character, not a combat hero, no weapons, no armor.
+Style/medium: clean HD 2D game sprite art matching the existing generated game sprites; crisp readable silhouette, subtle painted texture, controlled lighting, dark readable outline, 3/4 view from slightly above, full body visible.
+Sheet format: exactly 2 rows by 2 columns, exactly 4 equal cells, read left-to-right across row 1 then row 2.
+Animation: subtle loopable idle only. Frame 1 neutral stance holding the bundle; frame 2 gentle breathing and shawl shift; frame 3 slight weight shift with the bundle lifted a little; frame 4 settles back toward neutral for a seamless loop.
+Containment: the entire body, shawl, hair, hands, pouch, and bundle must fit fully inside each cell. Keep the character centered in every cell with the same silhouette scale and same bounding box. Stable feet and bottom anchor line in every frame. Full body inside the central 60% to 70% safe area. Leave generous flat magenta margin on all four sides of every cell. No body part, cloth edge, hand, pouch, herb bundle, or shadow may cross any cell edge.
+Background: perfectly flat solid #FF00FF background across the whole sheet, no gradients, no texture, no floor, no cast shadow, no contact shadow.
+Constraints: no text, no labels, no UI, no borders, no frame dividers, no guide boxes, no speech bubble, no floating detached effects, no weapon, no combat pose, no armor, no pink, no purple, no magenta inside the character or accessories, no transparent background.

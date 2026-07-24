@@ -1,0 +1,36 @@
+Create one production-ready 2D game FX sprite sheet: GALADRIEL_GOLDEN_COUNTER_BURST.
+
+Canvas and grid:
+- Single image, exact 2 rows x 4 columns = 8 animation frames.
+- Solid flat chroma background: #FF00FF only, perfectly uniform. No gradients, texture, shadows, transparency, or anti-aliased magenta edges.
+- Each frame reads left to right, top to bottom.
+- One centered magic FX burst per cell with at least 14% empty safe padding on every side.
+- FX is centered and never touches cell borders.
+
+FX visual style:
+- Pure gold and white defensive counter burst, elegant elven boss magic.
+- Looks like a compact radiant shield-flash impact: crossed glints, short radial streaks, small crown-like gold shards, and a brief circular counter flare.
+- No character, no hands, no body, no weapons, no text, no symbols, no UI.
+- No magenta, pink, purple, violet, rose, blue, green, or red in the effect.
+- Use only warm gold, pale gold, white, and tiny amber highlights.
+
+Animation sequence, 8 frames:
+1 tiny concentrated gold point at center.
+2 small cross-shaped defensive glint starts opening.
+3 compact circular gold flash appears, still inside safe area.
+4 peak counter burst: bright white-gold center, short radial gold shards, widest frame but still with safe padding.
+5 burst splits into short fading gold arcs and sparks, no wide ring edge.
+6 light collapses inward, fewer sparks.
+7 small residual gold motes.
+8 nearly gone, tiny central glimmer for clean completion.
+
+Strict constraints:
+- No detached projectiles traveling across the cell; it is a centered burst only.
+- No full-screen ring, no huge aura, no background texture, no smoke cloud, no fireball, no lightning bolt, no long beam.
+- No black outlines around the FX; edges should be soft but extractable.
+- No text, labels, numbers, watermark, borders, guides, or extra objects.
+
+Make the result clean enough for chroma-key extraction into transparent WebP sprite variants.
+
+Result:
+- Candidate 1 accepted as source art. Source file preserved as raw-sheet-generated.webp.

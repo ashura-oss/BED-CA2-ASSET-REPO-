@@ -1,0 +1,175 @@
+{
+  "target": "npc",
+  "mode": "idle",
+  "prompt": "",
+  "role": "",
+  "input": "public\\assets\\sprites\\characters\\npcs\\marshal_edrin\\idle\\raw-sheet.webp",
+  "threshold": 130,
+  "edge_threshold": 190,
+  "duration": 135,
+  "rows": 2,
+  "cols": 2,
+  "cell_size": 512,
+  "fit_scale": 0.82,
+  "trim_border": 4,
+  "edge_clean_depth": 4,
+  "align": "bottom",
+  "shared_scale": true,
+  "component_mode": "largest",
+  "component_padding": 8,
+  "min_component_area": 12,
+  "edge_touch_margin": 0,
+  "frame_labels": [
+    "marshal-edrin-idle-1",
+    "marshal-edrin-idle-2",
+    "marshal-edrin-idle-3",
+    "marshal-edrin-idle-4"
+  ],
+  "frames": [
+    {
+      "grid": [
+        0,
+        0
+      ],
+      "source_box": [
+        0,
+        0,
+        627,
+        627
+      ],
+      "component_mode": "largest",
+      "component_count": 1,
+      "selected_component_area": 96634,
+      "selected_component_bbox": [
+        194,
+        64,
+        480,
+        600
+      ],
+      "crop_bbox": [
+        186,
+        56,
+        488,
+        608
+      ],
+      "edge_touch": false,
+      "output_size": [
+        229,
+        419
+      ],
+      "paste_position": [
+        141,
+        47
+      ]
+    },
+    {
+      "grid": [
+        0,
+        1
+      ],
+      "source_box": [
+        627,
+        0,
+        1254,
+        627
+      ],
+      "component_mode": "largest",
+      "component_count": 1,
+      "selected_component_area": 96804,
+      "selected_component_bbox": [
+        147,
+        64,
+        432,
+        600
+      ],
+      "crop_bbox": [
+        139,
+        56,
+        440,
+        608
+      ],
+      "edge_touch": false,
+      "output_size": [
+        228,
+        419
+      ],
+      "paste_position": [
+        142,
+        47
+      ]
+    },
+    {
+      "grid": [
+        1,
+        0
+      ],
+      "source_box": [
+        0,
+        627,
+        627,
+        1254
+      ],
+      "component_mode": "largest",
+      "component_count": 1,
+      "selected_component_area": 97882,
+      "selected_component_bbox": [
+        187,
+        41,
+        474,
+        578
+      ],
+      "crop_bbox": [
+        179,
+        33,
+        482,
+        586
+      ],
+      "edge_touch": false,
+      "output_size": [
+        230,
+        419
+      ],
+      "paste_position": [
+        141,
+        47
+      ]
+    },
+    {
+      "grid": [
+        1,
+        1
+      ],
+      "source_box": [
+        627,
+        627,
+        1254,
+        1254
+      ],
+      "component_mode": "largest",
+      "component_count": 1,
+      "selected_component_area": 96644,
+      "selected_component_bbox": [
+        144,
+        43,
+        430,
+        579
+      ],
+      "crop_bbox": [
+        136,
+        35,
+        438,
+        587
+      ],
+      "edge_touch": false,
+      "output_size": [
+        229,
+        419
+      ],
+      "paste_position": [
+        141,
+        47
+      ]
+    }
+  ],
+  "edge_touch_frames": []
+}

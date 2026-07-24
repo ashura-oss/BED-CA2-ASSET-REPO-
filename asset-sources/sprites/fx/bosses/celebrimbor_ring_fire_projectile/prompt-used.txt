@@ -1,0 +1,39 @@
+Use case: game sprite asset.
+Asset type: boss projectile animation sheet.
+Primary request: create a clean HD 2D game projectile spritesheet for Celebrimbor's ring-fire cast.
+Reference images: use the character cast sheet just shown only for matching the white-blue ring energy, silver-white magical material, and crisp fantasy game rendering. Use the 2x2 guide image just shown only to understand rows, columns, equal invisible frame slots, centering, spacing, and safe padding.
+
+Sheet layout:
+- Exactly 4 equal square cells in a 2x2 grid.
+- Read frames left-to-right across the top row, then left-to-right across the bottom row.
+- Every cell is the same size.
+- No visible boxes, no cell borders, no safe-area rectangles, no center marks, no labels, and no guide background.
+
+Subject:
+- One compact glowing white-blue elven ring-fire projectile in each cell.
+- The projectile is a small circular ring of pale blue-white fire with a bright silver core and a thin crescent of cold flame, matching the ring energy in the reference cast sheet.
+- The projectile faces/travels horizontally toward screen-left, but it stays centered in each cell; do not draw baked-in travel across the sheet.
+- The animation changes only the internal flame curl, ring rotation, and glow pulse between frames.
+
+Frame sequence:
+- Frame 1: tight bright ring with small flame lick.
+- Frame 2: ring rotates slightly, flame curl grows.
+- Frame 3: brightest pulse, compact silver-white core.
+- Frame 4: glow contracts back toward frame 1 for a smooth loop.
+
+Scale and containment:
+- Same projectile identity, same bounding box, same pixel scale, and same center point in all 4 frames.
+- The projectile should fill about 28% to 36% of each cell width.
+- Keep generous solid magenta padding on all four sides of every cell.
+- No spark, flame tip, glow, smoke, trail, particle, or detached effect may cross a cell edge.
+- Keep the effect compact; no long trail, no impact burst, no caster body, no weapon, no text.
+
+Style:
+- Clean HD 2D game sprite art, crisp silhouette, controlled glow, readable at small sizes.
+- Use white, silver, icy cyan, and pale blue only for the projectile.
+- Do not use magenta, pink, purple, violet, lavender, or fuchsia anywhere in the projectile.
+
+Background and output rules:
+- Background must be 100% solid flat #FF00FF across the whole image.
+- No gradients, shadows, texture, lighting variation, floor, reflection, watermark, UI, text, labels, borders, or grid lines.
+- Do not reproduce the layout guide marks.

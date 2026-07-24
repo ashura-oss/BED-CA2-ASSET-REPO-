@@ -1,0 +1,9 @@
+Use case: stylized-concept
+Asset type: 2D game scene focus backdrop for Phaser UI
+Primary request: Create a restrained 16:9 hand-painted HD background panel for a battle-threat scene in the game Dawn of Man.
+Scene/backdrop: a damaged tribute outpost and rough hill-fort approach after fighting, broken posts, torn red banner, shield fragments, watch fires, black pine barricade silhouettes, smoke columns, no active characters.
+Style/medium: clean hand-painted 2D game background, painterly but readable, not pixel art, not photorealistic.
+Composition/framing: wide landscape 16:9 panel, damaged structure and broken banner in mid-ground, open darker lower 25% for UI text overlay, important shapes inside central 80%, works when center-cropped for tablet or phone.
+Lighting/mood: hostile dusk, low burning firelight, smoky and tense, cinematic but not bright.
+Color palette: charcoal, blackened pine, dark iron, muted blood red banner, ember orange highlights, muddy brown.
+Constraints: no text, no logos, no watermark, no UI, no people, no monsters, no animals, no readable insignia, no purple, no magenta, no bright neon, no diagonal rain lines, no high-detail clutter at edges, no important content in the extreme corners.

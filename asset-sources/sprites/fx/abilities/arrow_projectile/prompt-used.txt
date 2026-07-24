@@ -1,0 +1,28 @@
+Create a clean HD 2D game projectile spritesheet for Aren's Hawkshot arrow.
+
+OUTPUT FORMAT
+- Exactly 4 animation frames in a 2 rows x 2 columns grid.
+- Each cell is exactly 512 x 512 px, total sheet exactly 1024 x 1024 px.
+- Use a solid flat #FF00FF background in every cell.
+- Keep all visible projectile pixels at least 110 px inside each cell edge.
+- No labels, no text, no frame numbers, no borders, no UI.
+
+PROJECTILE SUBJECT
+- Body-free arrow projectile only.
+- No character, no hand, no bow, no target, no impact burst.
+- A single ashwood/yew arrow with dark iron bodkin tip, simple fletching, and tiny ember highlight.
+- Angle: mostly horizontal, flying toward screen-right with a slight upward tilt.
+- Style: clean painterly HD fantasy game projectile, readable at combat scale, transparent-ready edges.
+
+ANIMATION SEQUENCE
+- Frame 1: arrow just released, crisp shaft and point.
+- Frame 2: arrow stretches slightly with a short ember glint and faint motion smear close to the shaft.
+- Frame 3: arrow at fastest point, very subtle trailing blur, still compact.
+- Frame 4: arrow settles back to crisp form, loop-safe for travel tween.
+
+STRICT RULES
+- Do not include a flying character, bow, hand, explosion, smoke cloud, impact spark, slash arc, magic circle, UI icon, or text.
+- Do not make a long trail that touches the cell edge.
+- Keep the arrow centered in every frame.
+- Do not touch cell edges.
+- Do not use a black background; the only background color must be solid #FF00FF.

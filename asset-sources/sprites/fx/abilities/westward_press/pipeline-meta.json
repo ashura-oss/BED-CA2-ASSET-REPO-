@@ -1,0 +1,14 @@
+{
+  "source": "public\\assets\\sprites\\fx\\abilities\\westward_press\\raw-sheet.webp",
+  "rows": 2,
+  "cols": 4,
+  "prefix": "westward_press",
+  "master_cell": 512,
+  "fit_scale": 0.82,
+  "anchor": "center",
+  "background_sample": [
+    250,
+    5,
+    236
+  ]
+}

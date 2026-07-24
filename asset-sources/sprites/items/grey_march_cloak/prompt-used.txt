@@ -1,0 +1,28 @@
+Create a production-ready 2D game item icon for the Grey March Cloak.
+
+STRICT ICON FORMAT:
+- Single centered armor/cloak icon, square composition.
+- Solid flat #FF00FF magenta background for chroma-key cleanup.
+- No transparent raw background; magenta must be perfectly flat and untextured.
+- No text, no labels, no UI frame, no border, no watermark, no corner decorations.
+- Leave at least 96 px empty magenta padding around the full silhouette.
+- No part of the cloak, clasp, folds, highlight, or shadow may touch the image edge.
+
+ITEM IDENTITY:
+- Grey March Cloak: a dark travelling cloak stitched for the western march.
+- Human rebel gear, ash-grey heavy fabric, road-worn, practical, not royal.
+- Ragged lower hem, repaired stitches, small burn marks and ash stains.
+- Simple iron or bone clasp near the neck, no crown, no elven filigree.
+- Should feel protective, quiet, and campaign-worn.
+
+ART DIRECTION:
+- Clean HD 2D game icon, painterly but crisp and readable at 64 px.
+- Cloak shown as an isolated folded mantle / draped garment, no wearer, no mannequin, no character body.
+- Strong silhouette against magenta, readable folds and ragged hem.
+- No background scene, no floor, no drop shadow outside the cloak silhouette.
+- Palette: charcoal grey, ash grey, muted brown stitching, dull iron clasp.
+
+QUALITY REQUIREMENTS:
+- The icon must still read as a cloak when downscaled to 64 px.
+- Keep it centered and compact within the safe area.
+- Avoid oversized glow, banner shape, armor chestplate, character portrait, decorative frame, text, blood, smoke, sparks, or magical aura.

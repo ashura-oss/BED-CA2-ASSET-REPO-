@@ -1,0 +1,36 @@
+Create a clean HD 2D game character spritesheet for Aren, the Hearthvale rebel soldier, taking damage and recovering.
+
+OUTPUT FORMAT
+- Exactly 6 animation frames in a 2 rows x 3 columns grid.
+- Each cell is exactly 512 x 512 px, total sheet exactly 1536 x 1024 px.
+- Use a solid flat #FF00FF background in every cell.
+- Keep every visible part of the character at least 80 px inside each cell edge.
+- Center the character in every cell; do not let recoil drift toward the left or right border.
+- No labels, no text, no frame numbers, no borders, no UI.
+
+CHARACTER IDENTITY LOCK
+- Same character in every frame: Aren, human village soldier from Hearthvale, early rebel era.
+- Dark messy hair, scarred serious human face, no helmet.
+- Practical dark leather over worn mail, ash-stained and road-worn.
+- Torn grey march cloak with ragged holes and heavy cloth folds.
+- Blackened Hearthvale sword stays attached to the body silhouette and never extends out wide.
+- Leather belts, boots, bracers, grounded soldier proportions.
+- Clean HD 2D game sprite style, painterly but readable in gameplay, not pixel art.
+- 3/4 side battle view, facing toward screen-right.
+
+ACTION SEQUENCE
+- Body-only hurt reaction and recovery, compact recoil, feet planted.
+- Frame 1: stable guarded stance, sword low and close to the front leg.
+- Frame 2: hit lands; shoulders jolt back, knees compress slightly, cloak flicks but stays close.
+- Frame 3: strongest recoil; torso leans back only a little, sword held tight across the body, cloak does not fly outward.
+- Frame 4: bracing recovery; feet stay planted, sword begins to return.
+- Frame 5: breath and balance return, cloak settles.
+- Frame 6: back to guarded stance, loop-safe with frame 1.
+
+STRICT BODY-ONLY RULES
+- No blood sprays, floating hit sparks, impact bursts, slash arcs, speed lines, smoke clouds, magic glows, shields, projectiles, or detached debris.
+- Do not crop any body part.
+- Keep feet anchored to the same baseline in all frames.
+- Keep character height and scale consistent across all frames.
+- Keep sword, cloak, elbows, and boots inside the central safe zone in every frame.
+- Do not change outfit, face, hair, weapon, color palette, or art style between frames.

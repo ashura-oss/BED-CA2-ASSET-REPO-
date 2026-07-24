@@ -1,0 +1,10 @@
+Use case: stylized-concept
+Asset type: restrained raster background for a 2D fantasy RPG web game, replacing an SVG backdrop
+Primary request: Create the Lindon kingdom background source image for Dawn of Man.
+Scene/backdrop: a distant coastal elven kingdom at dusk, white stone sea walls and pale towers rising above a dark shoreline, a suggestion of water and cliffs in the lower third, soft gold light near the horizon. It should feel like the final royal stronghold, elegant and imposing but subdued for UI overlays.
+Style/medium: clean hand-painted cinematic 2D game background, painterly but controlled, not photorealistic, not pixel art, no vector shapes.
+Composition/framing: wide 16:9 landscape composition; keep the main walls and tower cluster inside the central 50% safe area so it can be cropped to square and portrait later; leave the upper sky and side edges calm and dark enough for UI readability; no important subject at the extreme edges.
+Lighting/mood: cool blue coastal dusk with restrained warm gold rim light, tense final approach, low contrast.
+Color palette: deep blue-black, slate teal, desaturated white stone, muted gold; avoid saturated purple, neon cyan, pure white glare, or a bright beach scene.
+Constraints: background only, no characters, no ships in the foreground, no readable banners, no logos, no text, no watermark, no UI, no frame border, no diagonal rain/line overlay, no hard vector gradients, no giant foreground wall, no bright center that would overpower white UI text.
+Output intent: final source will be cropped into landscape, square, and portrait WebP backgrounds with CSS cover, so keep it clean and compositionally stable across aspect ratios.

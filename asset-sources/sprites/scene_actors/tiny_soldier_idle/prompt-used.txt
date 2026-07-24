@@ -1,0 +1,34 @@
+STRICT 6-FRAME 2D GAME CHARACTER SPRITESHEET, NO CHROMA FRINGE.
+
+Subject:
+- Looping tiny Hearthvale militia soldier idle animation.
+- Small rugged human militia soldier with cloak, simple steel chest armor, dark trousers, short sword held low, no helmet.
+- No attack, no walking, no scenery, no ground tile, no cast shadow, no detached effects, no text, no labels.
+
+Layout:
+- Exactly 3 columns by 2 rows.
+- Six equal 512x512 runtime cells after normalization.
+- No grid lines.
+- Same full-body soldier once in each cell.
+- Subtle breathing idle and cloak sway only.
+
+Edge rules:
+- Opaque painted brown/black outer edges only.
+- No purple, pink, violet, or magenta pixels on the character edge.
+- No object touches any cell edge.
+
+Accepted postprocess:
+- Candidate 1 rejected because the cloak/hair kept visible purple fringe after keying.
+- Candidate 2 source preserved as raw-source.webp.
+- Normalized to raw-sheet.webp at 1536x1024.
+- Despill cleanup: remove_chroma_key.py --auto-key border --soft-matte --transparent-threshold 54 --opaque-threshold 132 --edge-contract 1 --edge-feather 0.2 --despill.
+- Additional local cleanup removed magenta-dominant and blue-violet edge pixels.
+- Frames were re-centered into clean 512x512 cells using a fixed bottom anchor at y=486 so the idle loop does not drift sideways.
+- Runtime sheet: sheet-transparent.webp.
+- Frame exports: tiny-soldier-idle-1.webp through tiny-soldier-idle-6.webp.
+- Preview: animation.webp.
+
+QC result:
+- 6 frames, 512x512 each.
+- Zero visible pixels on every frame edge.
+- Zero hot-magenta, pinkish, purpleish, blue-violet, or green-key residue by pixel scan.

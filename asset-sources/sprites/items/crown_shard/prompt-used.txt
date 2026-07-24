@@ -1,0 +1,27 @@
+Create a production-ready 2D game item icon for Crown-shard.
+
+STRICT ICON FORMAT:
+- Single centered material item icon, square composition.
+- Solid flat #FF00FF magenta background for chroma-key cleanup.
+- No transparent raw background; magenta must be perfectly flat and untextured.
+- No text, no labels, no UI frame, no border, no watermark, no corner decorations.
+- Leave at least 96 px empty magenta padding around the full silhouette.
+- No shard, glint, highlight, glow, or shadow may touch the image edge.
+
+ITEM IDENTITY:
+- Crown-shard: a sharp remnant of ring-light, heavy with command.
+- Small broken gold-white crown/ring fragment, jagged and ceremonial but damaged.
+- Should imply authority and crown power without being a full crown or full ring.
+- Bright gold metal, pale white inner light in cracks only, dark broken edges.
+- No readable runes, no floating halo, no complete circular ring.
+
+ART DIRECTION:
+- Clean HD 2D game icon, painterly but crisp and readable at 64 px.
+- Compact cluster of 2-3 broken crown-like metal shards, largest shard centered.
+- Strong silhouette against magenta, readable sharp edges and restrained golden glow.
+- Palette: ember gold, pale white-gold, dark tarnish, subtle orange crack light.
+
+QUALITY REQUIREMENTS:
+- The icon must still read as a gold crown/ring shard material when downscaled to 64 px.
+- Keep it centered and compact within the safe area.
+- Avoid full crown, full ring, large magic aura, readable letters, text, decorative frame, sparks, smoke, or background scene.

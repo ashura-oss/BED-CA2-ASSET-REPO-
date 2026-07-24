@@ -1,0 +1,31 @@
+Create a single clean HD 2D game VFX sprite sheet for Galadriel's banner-light impact hit effect.
+
+STRICT OUTPUT FORMAT:
+- One sprite sheet image, exactly 2 rows x 4 columns, 8 frames total.
+- Equal square cells, intended as 512x512 pixels each, overall sheet intended as 2048x1024.
+- Solid flat #FF00FF magenta background in every cell for chroma key cleanup.
+- No transparency, no checkerboard, no background gradients.
+- No text, labels, frame numbers, UI, borders, gutters, watermarks, or captions.
+
+SUBJECT:
+- Separate FX-only impact, no character, no face, no body, no hands, no weapons, no scenery, no ground.
+- A gold-white banner-light strike impact: a vertical banner-shaped flare and disciplined impact burst, like royal battlefield light slamming into a target.
+- Use warm gold, amber, ivory, and white only. Do NOT use magenta, pink, purple, violet, rose, or red anywhere in the FX.
+- Should read as a compact hit effect for combat, not a full aura. No actual cloth banner pole; only light shaped like a banner flare.
+
+ANIMATION:
+- Frame 1: tiny gold-white spark entering from left-center toward the target point.
+- Frame 2: narrow vertical light slash begins at center.
+- Frame 3: banner-shaped flare opens upward with small angular shards.
+- Frame 4: brightest impact burst, vertical gold-white banner flare and short radial shards.
+- Frame 5: broad but contained shock flash with shield-like light fragments.
+- Frame 6: flare collapses into falling gold sparks.
+- Frame 7: smaller fading angular shards.
+- Frame 8: tiny residual embers.
+
+COMPOSITION RULES:
+- Every frame centered on the same impact point.
+- Keep at least 84px safe padding from all cell edges; nothing may touch or cross a cell edge.
+- Shape should be slightly directional left-to-right but still fit centered in each cell.
+- No cropped rays, no edge-touching particles, no frame-to-frame scale drift.
+- Painterly but crisp game-ready sprite style with clean alpha-ready edges and strong readability over a dark combat scene.

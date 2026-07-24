@@ -1,0 +1,40 @@
+Create one production-ready 2D game sprite sheet for boss Galadriel, action: DEFEAT, body-only non-gory boss defeat animation.
+
+Canvas and grid:
+- Single image, exact 3 rows x 4 columns = 12 animation frames.
+- Solid flat chroma background: #FF00FF only, perfectly uniform. No gradients, texture, shadows, transparency, or anti-aliased magenta edges.
+- Each frame reads left to right, top to bottom.
+- One full-body character centered in each cell with at least 12% empty safe padding on every side.
+- Stable bottom anchor; as she kneels/falls, the lowest point remains inside the cell with safe bottom padding.
+- Character starts about 55-62% of cell height, then becomes lower/compact during kneel/collapse. Never cropped, no hair, robe, hands, or light touching cell borders.
+
+Character identity and style:
+- Same identity as the accepted Galadriel boss sheets: regal elven queen, pale gold flowing hair, delicate gold crown, gold-and-white armor, long white-gold embroidered robes/cloak, elegant fantasy RPG boss sprite, clean painted high-detail game art.
+- Three-quarter facing left, consistent body proportions and face across frames.
+- No weapon, no staff, no banner, no sword, no shield, no ring prop, no floating object.
+- Do not use magenta, pink, purple, violet, or rose colors anywhere on the character or effects.
+
+Animation sequence, 12 frames:
+1 ready wounded stance, one hand near chest, stern but weakened.
+2 knees soften, shoulders lower, robe starts to sag.
+3 stagger down, head bows, one hand reaches slightly for balance.
+4 kneel begins, cloak folds inward, hair falls forward.
+5 one knee touches ground, body still upright, crown visible.
+6 both knees low, hand bracing near the ground, robe pooling compactly.
+7 controlled collapse to a low kneeling defeated pose, no gore.
+8 cloak settles around her, head bowed, body compact.
+9 final defeated kneel/collapse pose, still elegant and readable.
+10 same final pose with tiny robe/hair settling motion.
+11 same final pose with almost no motion.
+12 final held defeated pose, compact, clear silhouette, fully inside cell.
+
+Strict body-only constraints:
+- No blood, no gore, no wound detail, no detached magic burst, no projectile, no impact explosion, no wide aura, no ground shockwave.
+- If any light is present, only a tiny warm gold/white glint fading on armor/crown, attached to the body.
+- Keep the final defeated pose compact and inside the 512px cell for mobile screens.
+- No text, labels, numbers, watermark, borders, guides, UI, or extra characters.
+
+Make the result clean enough for chroma-key extraction into transparent WebP sprite variants.
+
+Result:
+- Candidate 1 accepted as source art. Source file preserved as raw-sheet-generated.webp.

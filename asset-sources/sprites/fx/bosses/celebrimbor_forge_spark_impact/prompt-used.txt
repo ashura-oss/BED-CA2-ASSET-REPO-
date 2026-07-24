@@ -1,0 +1,43 @@
+Use case: game sprite asset.
+Asset type: boss impact FX animation sheet.
+Primary request: create a clean HD 2D game impact spritesheet for Celebrimbor's forge spark hit effect.
+Reference images: use the spell-cut slash and ring-fire projectile sheets just shown only for matching the white, silver, icy cyan, pale blue energy language and crisp fantasy rendering. Use the 2x3 guide image just shown only to understand rows, columns, equal invisible frame slots, centering, spacing, and safe padding.
+
+Sheet layout:
+- Exactly 6 equal square cells in a 2x3 grid.
+- Read frames left-to-right across the top row, then left-to-right across the bottom row.
+- Every cell is the same size.
+- No visible boxes, no cell borders, no safe-area rectangles, no center marks, no labels, and no guide background.
+
+Subject:
+- One compact silver-white forge spark impact burst in each cell.
+- The effect is a sharp magical collision of pale blue-white sparks, angular faceted silver shards, and a small bright silver core.
+- The burst stays centered in each cell; do not draw travel across the sheet.
+- The animation changes only the burst size, shard spread, glow pulse, and fade between frames.
+
+Frame sequence:
+- Frame 1: tiny contact star and two silver sparks.
+- Frame 2: small bright core with short straight cyan shards.
+- Frame 3: impact expands into a compact circular spray.
+- Frame 4: peak burst, strongest white-silver core with icy blue edge sparks.
+- Frame 5: shards separate and dim.
+- Frame 6: faint residual motes returning toward transparent for a clean end.
+
+Scale and containment:
+- Same impact identity, same center point, and compatible scale across all 6 frames.
+- The impact should fill about 32% to 48% of each cell width at peak.
+- Keep generous solid magenta padding on all four sides of every cell.
+- No spark, shard, glow, dust, or mote may cross a cell edge.
+- Keep the effect compact; no character, no weapon, no projectile body, no long smoke trail, no text.
+- Do not draw rings, halos, circular outlines, loops, portals, or orbital bands.
+
+Style:
+- Clean HD 2D game FX, crisp silhouette, controlled glow, readable at small sizes.
+- Use white, silver, icy cyan, and pale blue only.
+- Do not use magenta, pink, purple, violet, lavender, fuchsia, gold, yellow, orange, or red anywhere in the effect.
+- Do not use violet-blue outlines that could be confused with purple.
+
+Background and output rules:
+- Background must be 100% solid flat #FF00FF across the whole image.
+- No gradients, shadows, texture, lighting variation, floor, reflection, watermark, UI, text, labels, borders, or grid lines.
+- Do not reproduce the layout guide marks.

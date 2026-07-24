@@ -1,0 +1,10 @@
+Use case: stylized-concept
+Asset type: restrained raster background for a 2D fantasy RPG web game, replacing an SVG backdrop
+Primary request: Create the Eregion city background source image for Dawn of Man.
+Scene/backdrop: a distant elven city of Eregion after unrest, with tall pale silver stone towers, faint cold window light, low walls and rooftops in silhouette, and a muted road or bridge shape across the lower third. The city should feel elegant but subdued, not a bright palace illustration.
+Style/medium: clean hand-painted cinematic 2D game background, painterly but controlled, not photorealistic, not pixel art, no vector shapes.
+Composition/framing: wide 16:9 landscape composition; keep the main tower cluster inside the central 50% safe area so it can be cropped to square and portrait later; leave the upper third and side edges calm and dark for UI readability; no important subject at the extreme edges.
+Lighting/mood: cool moonlit blue-silver atmosphere with restrained gold accents, low contrast, quiet and tense.
+Color palette: deep blue-black, slate, desaturated silver, soft pale gold; avoid saturated purple, neon blue, or high-contrast white glare.
+Constraints: background only, no characters, no readable banners, no logos, no text, no watermark, no UI, no frame border, no diagonal rain/line overlay, no hard vector gradients, no giant foreground tower, no bright center that would overpower white UI text.
+Output intent: final source will be cropped into landscape, square, and portrait WebP backgrounds with CSS cover, so keep it clean and compositionally stable across aspect ratios.

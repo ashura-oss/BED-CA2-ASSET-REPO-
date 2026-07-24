@@ -1,0 +1,31 @@
+Create a clean HD 2D game FX spritesheet for a compact hit spark damage impact.
+
+OUTPUT FORMAT
+- Exactly 6 animation frames in a 2 rows x 3 columns grid.
+- Each cell is exactly 512 x 512 px, total sheet exactly 1536 x 1024 px.
+- Use a solid flat #FF00FF background in every cell.
+- Keep all visible effect pixels at least 86 px inside each cell edge.
+- No labels, no text, no frame numbers, no borders, no UI.
+
+FX SUBJECT
+- Body-free impact spark effect only.
+- No character, no weapon, no shield, no hand, no face, no armor.
+- A compact melee hit spark that can layer over a torso when an actor takes damage.
+- Shape: tight starburst and shard flash, about 250 px wide and 210 px tall at peak.
+- Materials: bright white-yellow core, warm orange sparks, small charcoal ash flecks, a few short angular ember shards.
+- Style: clean painterly HD fantasy game VFX, readable at combat scale, transparent-ready edges.
+
+ANIMATION SEQUENCE
+- Frame 1: tiny pre-impact glint, very compact.
+- Frame 2: sharp white-yellow flash blooms.
+- Frame 3: strongest impact, angular sparks radiate outward but stay compact.
+- Frame 4: orange ember fragments trail off.
+- Frame 5: ash flecks and fading glow.
+- Frame 6: almost gone, loop-safe fade.
+
+STRICT RULES
+- Do not include a long slash arc, sword trail, fireball, smoke cloud, explosion plume, UI icon, or circular magic aura.
+- Do not fill the whole cell; keep the effect tight and centered.
+- Keep the same center anchor in all frames.
+- Do not touch cell edges.
+- Do not use a black background; the only background color must be solid #FF00FF.

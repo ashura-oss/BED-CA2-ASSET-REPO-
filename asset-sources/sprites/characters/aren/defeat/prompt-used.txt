@@ -1,0 +1,47 @@
+Create a production-ready 2D game CHARACTER BODY sprite sheet for Aren, the Hearthvale rebel soldier, defeated / death animation. This is candidate 2: prioritize compact poses and edge-safe cells.
+
+STRICT SPRITE SHEET FORMAT:
+- Exactly 8 animation frames arranged in a clean 4 columns x 2 rows grid.
+- Intended cell size is 512 x 512 pixels per frame; full sheet should read as 2048 x 1024.
+- Solid flat #FF00FF magenta background across the entire raw sheet for chroma-key cleanup.
+- No transparent background in the raw image; magenta must be perfectly flat and untextured.
+- No borders, no gutters, no grid lines, no frame numbers, no text, no watermark, no UI.
+- Every frame must stay centered inside its invisible cell with at least 90 px empty magenta padding from every cell edge.
+- No body part, sword, cloak, boot, hair, hand, fabric, or shadow may touch or approach a cell edge.
+
+CHARACTER IDENTITY LOCK:
+- Same character in all frames: Aren, a human village soldier from Hearthvale, early rebel era.
+- Dark messy hair, scarred serious human face, exhausted but resolute expression.
+- Practical dark leather armor over worn mail, ash-stained and road-worn.
+- Torn grey march cloak with ragged holes and heavy cloth folds, kept close to the body.
+- Blackened Hearthvale sword, simple and practical, no redesign.
+- Leather belts, boots, bracers, grounded soldier silhouette.
+- Clean HD 2D game sprite style, painterly but gameplay-readable, not pixel art.
+- 3/4 side battle view, full body visible, facing screen-right as a player-side combat actor.
+
+ACTION: DEFEAT / FALL BODY-ONLY ANIMATION:
+- Non-gory defeated animation for combat. NO blood, NO severed parts, NO corpse horror.
+- Body-only sheet: NO slash arcs, NO impact bursts, NO smoke, NO dust clouds, NO magic glow, NO speed lines, NO particles.
+- Keep the sword very close to the body in every frame. The sword must not extend horizontally or diagonally toward a cell edge.
+- Keep the cloak compact around the body. No wide trailing cloak, no fabric stretched left or right.
+- Avoid fully stretched prone poses. Later frames should be compact kneel/slump/rest poses, not long horizontal sprawls.
+
+FRAME SEQUENCE, read left-to-right across row 1 then row 2:
+1. Upright hurt stance, knees weakening, sword low but held close.
+2. Shoulders sag and head dips, body still mostly upright.
+3. Knees buckle; Aren lowers toward one knee, sword close across the torso.
+4. One knee touches down; free hand reaches downward but remains close under shoulder.
+5. Compact low kneel, cloak folding around him, sword angled down beside the knee.
+6. Controlled collapse into a seated/kneeling slump, not a wide fall; limbs tucked close.
+7. Defeated compact rest, one hand braced close to chest, sword dropped close beside him.
+8. Final loop-safe defeated rest pose: low and exhausted, cloak pooled close, sword near hand, face recognizable, silhouette still compact.
+
+ANCHOR AND SCALE RULES:
+- Preserve the same body proportions, armor palette, face, hair, cloak, and sword across every frame.
+- Use consistent character scale. Early frames are standing height; later frames are naturally lower because he kneels/slumps, but do not shrink the character artificially.
+- Keep the feet/body bottom anchor aligned near the same ground baseline in every frame.
+- Keep the full body inside the central safe area of each cell; the widest low pose must still leave large magenta padding on left and right.
+- The final low pose must remain readable when downscaled to 256 px runtime cells.
+
+AVOID:
+- Wide prone sprawl, long horizontal body, outstretched sword, outstretched arm, cloak edge contact, costume drift, different face, different armor, helmet, crown, fantasy prince look, oversized sword, bright magic, gore, blood pools, detached effects, black background, white background, transparent raw background, visible grid, cropped limbs, edge contact, labels, or UI.

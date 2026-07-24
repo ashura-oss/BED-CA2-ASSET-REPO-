@@ -1,0 +1,249 @@
+{
+  "target": "asset",
+  "mode": "hurt",
+  "prompt": "Grak of Broken Tusk orc raider hurt body sheet candidate 1, 6 frames, 2x3, clean HD, broken tusk, crude armor, compact hit flinch, centered full body, facing left, stable feet, solid #FF00FF background, no text.",
+  "role": "",
+  "input": "public\\assets\\sprites\\characters\\enemies\\enemy_orc_raider\\hurt\\raw-sheet.webp",
+  "threshold": 160,
+  "edge_threshold": 230,
+  "duration": 105,
+  "rows": 2,
+  "cols": 3,
+  "cell_size": 512,
+  "fit_scale": 0.82,
+  "trim_border": 4,
+  "edge_clean_depth": 3,
+  "align": "feet",
+  "shared_scale": true,
+  "component_mode": "largest",
+  "component_padding": 0,
+  "min_component_area": 1,
+  "edge_touch_margin": 8,
+  "frame_labels": [
+    "hurt-1",
+    "hurt-2",
+    "hurt-3",
+    "hurt-4",
+    "hurt-5",
+    "hurt-6"
+  ],
+  "frames": [
+    {
+      "grid": [
+        0,
+        0
+      ],
+      "source_box": [
+        0,
+        0,
+        418,
+        627
+      ],
+      "component_mode": "largest",
+      "component_count": 6,
+      "selected_component_area": 61636,
+      "selected_component_bbox": [
+        54,
+        152,
+        346,
+        531
+      ],
+      "crop_bbox": [
+        54,
+        152,
+        346,
+        531
+      ],
+      "edge_touch": false,
+      "output_size": [
+        323,
+        419
+      ],
+      "paste_position": [
+        94,
+        47
+      ]
+    },
+    {
+      "grid": [
+        0,
+        1
+      ],
+      "source_box": [
+        418,
+        0,
+        836,
+        627
+      ],
+      "component_mode": "largest",
+      "component_count": 21,
+      "selected_component_area": 62727,
+      "selected_component_bbox": [
+        28,
+        177,
+        362,
+        542
+      ],
+      "crop_bbox": [
+        28,
+        177,
+        362,
+        542
+      ],
+      "edge_touch": false,
+      "output_size": [
+        369,
+        404
+      ],
+      "paste_position": [
+        71,
+        62
+      ]
+    },
+    {
+      "grid": [
+        0,
+        2
+      ],
+      "source_box": [
+        836,
+        0,
+        1254,
+        627
+      ],
+      "component_mode": "largest",
+      "component_count": 12,
+      "selected_component_area": 54720,
+      "selected_component_bbox": [
+        30,
+        181,
+        261,
+        546
+      ],
+      "crop_bbox": [
+        30,
+        181,
+        261,
+        546
+      ],
+      "edge_touch": false,
+      "output_size": [
+        255,
+        404
+      ],
+      "paste_position": [
+        128,
+        62
+      ]
+    },
+    {
+      "grid": [
+        1,
+        0
+      ],
+      "source_box": [
+        0,
+        627,
+        418,
+        1254
+      ],
+      "component_mode": "largest",
+      "component_count": 12,
+      "selected_component_area": 50735,
+      "selected_component_bbox": [
+        114,
+        83,
+        326,
+        437
+      ],
+      "crop_bbox": [
+        114,
+        83,
+        326,
+        437
+      ],
+      "edge_touch": false,
+      "output_size": [
+        234,
+        392
+      ],
+      "paste_position": [
+        139,
+        74
+      ]
+    },
+    {
+      "grid": [
+        1,
+        1
+      ],
+      "source_box": [
+        418,
+        627,
+        836,
+        1254
+      ],
+      "component_mode": "largest",
+      "component_count": 16,
+      "selected_component_area": 55136,
+      "selected_component_bbox": [
+        22,
+        88,
+        299,
+        441
+      ],
+      "crop_bbox": [
+        22,
+        88,
+        299,
+        441
+      ],
+      "edge_touch": false,
+      "output_size": [
+        306,
+        391
+      ],
+      "paste_position": [
+        103,
+        75
+      ]
+    },
+    {
+      "grid": [
+        1,
+        2
+      ],
+      "source_box": [
+        836,
+        627,
+        1254,
+        1254
+      ],
+      "component_mode": "largest",
+      "component_count": 10,
+      "selected_component_area": 57836,
+      "selected_component_bbox": [
+        16,
+        79,
+        296,
+        448
+      ],
+      "crop_bbox": [
+        16,
+        79,
+        296,
+        448
+      ],
+      "edge_touch": false,
+      "output_size": [
+        310,
+        408
+      ],
+      "paste_position": [
+        101,
+        58
+      ]
+    }
+  ],
+  "edge_touch_frames": []
+}

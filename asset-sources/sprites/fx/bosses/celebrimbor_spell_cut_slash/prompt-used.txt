@@ -1,0 +1,41 @@
+Use case: game sprite asset.
+Asset type: boss melee spell slash FX animation sheet.
+Primary request: create a clean HD 2D game FX spritesheet for Celebrimbor's white spell-cut slash.
+Reference images: use the Celebrimbor spell-cut body sheet just shown only for matching the silver-white elven magic, elegant sword precision, and crisp fantasy rendering. Use the 2x3 guide image just shown only to understand rows, columns, equal invisible frame slots, centering, spacing, and safe padding. If an existing yellow/gold player slash image is visible, use it only as a loose motion-timing reference; do not copy its yellow/gold/orange color.
+
+Sheet layout:
+- Exactly 6 equal square cells in a 2x3 grid.
+- Read frames left-to-right across the top row, then left-to-right across the bottom row.
+- Every cell is the same size.
+- No visible boxes, no cell borders, no safe-area rectangles, no center marks, no labels, and no guide background.
+
+Subject:
+- One detached crescent-shaped white spell-cut slash in each cell.
+- The slash is an elegant diagonal crescent arc that reads as a fast precise sword-and-magic cut from upper-left toward lower-right.
+- The arc stays centered in each cell; do not draw travel across the sheet.
+- The animation changes only the arc length, brightness, spark density, and fading edge between frames.
+
+Frame sequence:
+- Frame 1: tiny pale silver line and small spark, anticipation.
+- Frame 2: thin crescent begins forming.
+- Frame 3: bright white-cyan crescent extends across the safe area.
+- Frame 4: peak slash, strongest white silver core with icy blue rim.
+- Frame 5: crescent breaks into fine silver motes.
+- Frame 6: faint fading shards returning toward transparent for a smooth end.
+
+Scale and containment:
+- Same slash identity, same center point, and compatible scale across all 6 frames.
+- The slash should fill about 58% to 72% of each cell width at peak.
+- Keep generous solid magenta padding on all four sides of every cell.
+- No spark, arc tip, glow, shard, dust, or detached mote may cross a cell edge.
+- Keep the effect detached and body-free; no character, no weapon handle, no impact explosion, no long smoke trail, no text.
+
+Style:
+- Clean HD 2D game FX, crisp silhouette, controlled glow, readable at small sizes.
+- Use white, silver, icy cyan, and pale blue only.
+- Do not use magenta, pink, purple, violet, lavender, fuchsia, gold, yellow, orange, or red anywhere in the slash.
+
+Background and output rules:
+- Background must be 100% solid flat #FF00FF across the whole image.
+- No gradients, shadows, texture, lighting variation, floor, reflection, watermark, UI, text, labels, borders, or grid lines.
+- Do not reproduce the layout guide marks.

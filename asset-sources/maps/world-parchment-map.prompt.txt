@@ -1,0 +1,9 @@
+Use case: stylized-concept
+Asset type: baked raster UI map background for a Phaser navigation screen
+Primary request: Create the world parchment map base for Dawn of Man, replacing a procedural/SVG parchment map background.
+Scene/backdrop: an aged fantasy campaign map parchment showing a westward route landscape across Middle-earth, Eregion, Crownfield, and Lindon as terrain only: warm parchment paper, worn burnt edges, subtle land washes, two muted rivers, distant mountain ink stamps, forest patches, a coastal edge on the far west/right side, and gentle ink ornamentation. This is a UI map plate, not a playable terrain level.
+Style/medium: clean hand-painted parchment map, ink-and-wash fantasy cartography, readable but restrained, lower contrast than character art, no chunky pixel art, no hard vector look.
+Composition/framing: wide 16:9 map plate, full parchment visible edge-to-edge, terrain composition follows a left-to-right journey: burned village lowlands on the left, road/forest/hill country through the middle, silver city highlands slightly right of center, and coastal Lindon/sea-wall terrain on the far right. Keep the central route corridor visually open so Phaser can draw interactive road and node overlays on top.
+Lighting/mood: antique warm parchment, dark burnt vignette edges, soft ink, muted teal river accents, no glossy lighting.
+Constraints: terrain and parchment only. Do not draw node pins, circles, dots, dashed routes, labels, region names, legend boxes, compass text, UI, readable writing, numbers, icons, characters, creatures, flags, or bright markers. No text of any kind. Avoid strong visual details exactly where game node labels will render. Leave enough low-noise space around the expected node path for interactive labels.
+Output intent: final image will be loaded by Phaser as `WORLD_MAP_ASSET` and stretched/covered behind separate route and node overlays; all gameplay state remains in code, not baked into the image.

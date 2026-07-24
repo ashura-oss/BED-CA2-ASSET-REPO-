@@ -1,0 +1,219 @@
+{
+  "target": "asset",
+  "mode": "pulse",
+  "prompt": "Ember Temper compact orange-gold blade-heating FX, candidate 2, 6 frames, 2x3, clean HD, centered, solid #FF00FF background, every frame visible, no character, no text.",
+  "role": "",
+  "input": "public\\assets\\sprites\\fx\\abilities\\ember_temper_blade_glow\\raw-sheet.webp",
+  "threshold": 130,
+  "edge_threshold": 230,
+  "duration": 85,
+  "rows": 2,
+  "cols": 3,
+  "cell_size": 512,
+  "fit_scale": 0.72,
+  "trim_border": 4,
+  "edge_clean_depth": 3,
+  "align": "center",
+  "shared_scale": true,
+  "component_mode": "all",
+  "component_padding": 0,
+  "min_component_area": 1,
+  "edge_touch_margin": 6,
+  "frame_labels": [
+    "temper-1",
+    "temper-2",
+    "temper-3",
+    "temper-4",
+    "temper-5",
+    "temper-6"
+  ],
+  "frames": [
+    {
+      "grid": [
+        0,
+        0
+      ],
+      "source_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "component_mode": "all",
+      "component_count": 33,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        188,
+        142,
+        437,
+        412
+      ],
+      "edge_touch": false,
+      "output_size": [
+        257,
+        278
+      ],
+      "paste_position": [
+        127,
+        117
+      ]
+    },
+    {
+      "grid": [
+        0,
+        1
+      ],
+      "source_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "component_mode": "all",
+      "component_count": 18,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        102,
+        123,
+        395,
+        448
+      ],
+      "edge_touch": false,
+      "output_size": [
+        302,
+        335
+      ],
+      "paste_position": [
+        105,
+        88
+      ]
+    },
+    {
+      "grid": [
+        0,
+        2
+      ],
+      "source_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "component_mode": "all",
+      "component_count": 36,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        36,
+        114,
+        336,
+        447
+      ],
+      "edge_touch": false,
+      "output_size": [
+        309,
+        343
+      ],
+      "paste_position": [
+        101,
+        84
+      ]
+    },
+    {
+      "grid": [
+        1,
+        0
+      ],
+      "source_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "component_mode": "all",
+      "component_count": 61,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        144,
+        37,
+        479,
+        394
+      ],
+      "edge_touch": false,
+      "output_size": [
+        345,
+        368
+      ],
+      "paste_position": [
+        83,
+        72
+      ]
+    },
+    {
+      "grid": [
+        1,
+        1
+      ],
+      "source_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "component_mode": "all",
+      "component_count": 31,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        102,
+        66,
+        386,
+        393
+      ],
+      "edge_touch": false,
+      "output_size": [
+        293,
+        337
+      ],
+      "paste_position": [
+        109,
+        87
+      ]
+    },
+    {
+      "grid": [
+        1,
+        2
+      ],
+      "source_box": [
+        1024,
+        512,
+        1536,
+        1024
+      ],
+      "component_mode": "all",
+      "component_count": 28,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        65,
+        88,
+        315,
+        362
+      ],
+      "edge_touch": false,
+      "output_size": [
+        258,
+        282
+      ],
+      "paste_position": [
+        127,
+        115
+      ]
+    }
+  ],
+  "edge_touch_frames": []
+}

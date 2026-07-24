@@ -1,0 +1,41 @@
+Create a clean HD 2D game character spritesheet for Aren performing Hawkshot with the Yewbow.
+
+OUTPUT FORMAT
+- Exactly 8 animation frames in a 2 rows x 4 columns grid.
+- Each cell is exactly 512 x 512 px, total sheet exactly 2048 x 1024 px.
+- Use a solid flat #FF00FF background in every cell.
+- Keep every visible part of the character and bow at least 96 px inside each cell edge.
+- Leave especially generous empty space above the head and above both bow tips.
+- No labels, no text, no frame numbers, no borders, no UI.
+
+CHARACTER IDENTITY LOCK
+- Same character in every frame: Aren, human village soldier from Hearthvale, early rebel era.
+- Dark messy hair, scarred serious human face, no helmet.
+- Practical dark leather over worn mail, ash-stained and road-worn.
+- Torn grey march cloak with ragged holes and heavy cloth folds.
+- Blackened Hearthvale sword is stowed low at the side/back and stays attached to the body silhouette.
+- Yewbow is a short light scout bow, not a tall longbow; keep it compact and mostly horizontal/diagonal across the torso.
+- Leather belts, boots, bracers, grounded soldier proportions.
+- Clean HD 2D game sprite style, painterly but readable in gameplay, not pixel art.
+- 3/4 side battle view, facing toward screen-right.
+
+ACTION SEQUENCE
+- Body-only compact bow attack for Hawkshot / aimed shot.
+- Frame 1: guarded stance, short bow held low and close.
+- Frame 2: bow rises across the body below shoulder height, feet plant.
+- Frame 3: arrow is nocked but still attached to the bow silhouette.
+- Frame 4: draw begins with compact horizontal bow angle, no bow tip above the head.
+- Frame 5: full draw aiming toward screen-right; bow stays below the top third of the cell.
+- Frame 6: release pose, bow arm steady, string just relaxed; no flying arrow.
+- Frame 7: recovery, bow lowers, cloak settles.
+- Frame 8: returns to guarded stance with bow held close, loop-safe with frame 1.
+
+STRICT BODY-ONLY RULES
+- Do not use a tall vertical longbow pose.
+- Do not let the bow, arrow, hand, cloak, hair, or boots touch any cell edge.
+- Do not include a flying arrow projectile, arrow trail, impact spark, slash arc, smoke trail, speed lines, magic glow, UI icon, or detached debris.
+- The arrow may be visible only while nocked or held against the bow; it must not detach from the body sheet.
+- Keep feet anchored to the same baseline in all frames.
+- Keep character height and scale consistent across all frames.
+- Keep bow and extended arm inside the central safe zone in every frame.
+- Do not change outfit, face, hair, color palette, or art style between frames.

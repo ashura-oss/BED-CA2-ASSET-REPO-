@@ -1,0 +1,13 @@
+Use case: stylized-concept
+Asset type: UI map atmosphere particle sprite sheet for Phaser
+Input images: The image just shown is a layout-only guide for a 2x2 grid. Use it only to understand rows, columns, equal invisible frame slots, centering, spacing, and safe padding. Do not reproduce the guide: no visible boxes, no safe-area rectangles, no center marks, no labels, no borders, no guide background.
+Primary request: Create one raw 2x2 sprite sheet with exactly four equal cells for Dawn of Man map atmosphere particles.
+Style/medium: clean hand-painted tiny fantasy UI particles, soft but crisp enough for Phaser scaling, not pixel art, not vector-flat.
+Sheet layout: exactly 2 rows and 2 columns. Each cell contains one compact particle or tiny particle cluster centered on a perfectly flat solid #FF00FF magenta chroma-key background. No visible dividers.
+Cell 1, row 1 column 1: warm ember mote, small orange-gold glowing fleck with soft edge, compact.
+Cell 2, row 1 column 2: pale ash fleck, small grey-white irregular speck with soft edge, compact.
+Cell 3, row 2 column 1: gold dust mote, small muted gold spark fleck, compact and not star-shaped.
+Cell 4, row 2 column 2: smoke soot speck, tiny dark charcoal translucent-looking soft dot, compact.
+Composition/framing: each particle cluster stays inside the central 25% to 35% of its cell, same approximate visual weight across all cells, generous magenta margin on every side, no particle touches cell edges.
+Background: perfectly flat solid #FF00FF magenta across the whole sheet, no shadows, gradients, texture, floor plane, or transparency.
+Constraints: no text, no numbers, no letters, no labels, no UI panels, no watermark, no visible grid lines, no borders, no large glow field, no fireballs, no smoke clouds, no characters, no creatures. Do not use magenta, hot pink, neon pink, or purple in any particle because #FF00FF is reserved for background removal.

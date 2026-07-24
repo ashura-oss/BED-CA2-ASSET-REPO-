@@ -1,0 +1,219 @@
+{
+  "target": "asset",
+  "mode": "impact",
+  "prompt": "",
+  "role": "",
+  "input": "public\\assets\\sprites\\fx\\bosses\\celebrimbor_forge_spark_impact\\raw-sheet.webp",
+  "threshold": 135,
+  "edge_threshold": 205,
+  "duration": 65,
+  "rows": 2,
+  "cols": 3,
+  "cell_size": 512,
+  "fit_scale": 0.86,
+  "trim_border": 4,
+  "edge_clean_depth": 4,
+  "align": "center",
+  "shared_scale": true,
+  "component_mode": "all",
+  "component_padding": 8,
+  "min_component_area": 8,
+  "edge_touch_margin": 8,
+  "frame_labels": [
+    "forge-spark-impact-1",
+    "forge-spark-impact-2",
+    "forge-spark-impact-3",
+    "forge-spark-impact-4",
+    "forge-spark-impact-5",
+    "forge-spark-impact-6"
+  ],
+  "frames": [
+    {
+      "grid": [
+        0,
+        0
+      ],
+      "source_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "component_mode": "all",
+      "component_count": 3,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        220,
+        252,
+        322,
+        308
+      ],
+      "edge_touch": false,
+      "output_size": [
+        120,
+        66
+      ],
+      "paste_position": [
+        196,
+        223
+      ]
+    },
+    {
+      "grid": [
+        0,
+        1
+      ],
+      "source_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "component_mode": "all",
+      "component_count": 23,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        152,
+        170,
+        341,
+        364
+      ],
+      "edge_touch": false,
+      "output_size": [
+        223,
+        229
+      ],
+      "paste_position": [
+        144,
+        141
+      ]
+    },
+    {
+      "grid": [
+        0,
+        2
+      ],
+      "source_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "component_mode": "all",
+      "component_count": 46,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        52,
+        126,
+        354,
+        392
+      ],
+      "edge_touch": false,
+      "output_size": [
+        357,
+        314
+      ],
+      "paste_position": [
+        77,
+        99
+      ]
+    },
+    {
+      "grid": [
+        1,
+        0
+      ],
+      "source_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "component_mode": "all",
+      "component_count": 55,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        83,
+        41,
+        455,
+        380
+      ],
+      "edge_touch": false,
+      "output_size": [
+        440,
+        401
+      ],
+      "paste_position": [
+        36,
+        55
+      ]
+    },
+    {
+      "grid": [
+        1,
+        1
+      ],
+      "source_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "component_mode": "all",
+      "component_count": 55,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        84,
+        72,
+        405,
+        368
+      ],
+      "edge_touch": false,
+      "output_size": [
+        379,
+        350
+      ],
+      "paste_position": [
+        66,
+        81
+      ]
+    },
+    {
+      "grid": [
+        1,
+        2
+      ],
+      "source_box": [
+        1024,
+        512,
+        1536,
+        1024
+      ],
+      "component_mode": "all",
+      "component_count": 24,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        85,
+        99,
+        329,
+        343
+      ],
+      "edge_touch": false,
+      "output_size": [
+        288,
+        288
+      ],
+      "paste_position": [
+        112,
+        112
+      ]
+    }
+  ],
+  "edge_touch_frames": []
+}

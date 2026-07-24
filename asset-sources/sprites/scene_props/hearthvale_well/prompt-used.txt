@@ -1,0 +1,34 @@
+STRICT SINGLE 2D GAME PROP SPRITE.
+
+Subject:
+- One small Hearthvale stone well prop for a dark fantasy medieval village.
+- Grey stacked stone circular well, dark water opening, simple timber posts, small wooden roof beam and pulley.
+- No house, no ground tile, no grass, no cast shadow, no characters, no text, no labels.
+
+Composition:
+- One isolated compact prop only.
+- Front three-quarter view.
+- Bottom-center anchored.
+- Full object fits inside roughly 65% of the canvas with generous empty magenta margin on every side.
+- Do not crop and do not touch image edges.
+
+Style:
+- Clean high-resolution hand-painted 2D game art.
+- Readable at small size.
+- Muted earthy medieval village palette.
+
+Chroma-key rule:
+- Perfectly flat solid #FF00FF magenta background only.
+- No texture, vignette, shadow, glow, or color spill in the background.
+
+Accepted postprocess:
+- Source preserved as raw-source.webp.
+- Despill cleanup: remove_chroma_key.py --auto-key border --soft-matte --transparent-threshold 54 --opaque-threshold 132 --edge-contract 1 --edge-feather 0.2 --despill.
+- Sprite processor: generate2dsprite.py process --target asset --mode hearthvale_well --single-size 512 --threshold 120 --edge-threshold 190.
+- Final local cleanup removed two remaining magenta-like pixels from tiny hardware detail.
+- Runtime file: sprite-transparent.webp.
+
+QC result:
+- 512x512 transparent prop.
+- Zero hot-magenta, pinkish, purpleish, or green-key residue by pixel scan.
+- Zero visible pixels on frame edges.

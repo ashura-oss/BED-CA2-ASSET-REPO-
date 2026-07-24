@@ -1,0 +1,283 @@
+{
+  "target": "asset",
+  "mode": "pulse",
+  "prompt": "Shield Wall compact bronze-gold three-shield defensive aura FX, 8 frames, 2x4, clean HD, centered, solid #FF00FF background, no character, no text.",
+  "role": "",
+  "input": "public\\assets\\sprites\\fx\\abilities\\shield_wall_aura\\raw-sheet.webp",
+  "threshold": 130,
+  "edge_threshold": 230,
+  "duration": 90,
+  "rows": 2,
+  "cols": 4,
+  "cell_size": 512,
+  "fit_scale": 0.72,
+  "trim_border": 4,
+  "edge_clean_depth": 3,
+  "align": "center",
+  "shared_scale": true,
+  "component_mode": "all",
+  "component_padding": 0,
+  "min_component_area": 1,
+  "edge_touch_margin": 6,
+  "frame_labels": [
+    "shield-wall-1",
+    "shield-wall-2",
+    "shield-wall-3",
+    "shield-wall-4",
+    "shield-wall-5",
+    "shield-wall-6",
+    "shield-wall-7",
+    "shield-wall-8"
+  ],
+  "frames": [
+    {
+      "grid": [
+        0,
+        0
+      ],
+      "source_box": [
+        0,
+        0,
+        443,
+        443
+      ],
+      "component_mode": "all",
+      "component_count": 7,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        73,
+        165,
+        307,
+        203
+      ],
+      "edge_touch": false,
+      "output_size": [
+        236,
+        38
+      ],
+      "paste_position": [
+        138,
+        237
+      ]
+    },
+    {
+      "grid": [
+        0,
+        1
+      ],
+      "source_box": [
+        443,
+        0,
+        886,
+        443
+      ],
+      "component_mode": "all",
+      "component_count": 101,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        62,
+        161,
+        392,
+        329
+      ],
+      "edge_touch": false,
+      "output_size": [
+        334,
+        170
+      ],
+      "paste_position": [
+        89,
+        171
+      ]
+    },
+    {
+      "grid": [
+        0,
+        2
+      ],
+      "source_box": [
+        886,
+        0,
+        1329,
+        443
+      ],
+      "component_mode": "all",
+      "component_count": 131,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        56,
+        155,
+        384,
+        341
+      ],
+      "edge_touch": false,
+      "output_size": [
+        332,
+        188
+      ],
+      "paste_position": [
+        90,
+        162
+      ]
+    },
+    {
+      "grid": [
+        0,
+        3
+      ],
+      "source_box": [
+        1329,
+        0,
+        1772,
+        443
+      ],
+      "component_mode": "all",
+      "component_count": 39,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        43,
+        149,
+        389,
+        344
+      ],
+      "edge_touch": false,
+      "output_size": [
+        350,
+        197
+      ],
+      "paste_position": [
+        81,
+        157
+      ]
+    },
+    {
+      "grid": [
+        1,
+        0
+      ],
+      "source_box": [
+        0,
+        443,
+        443,
+        886
+      ],
+      "component_mode": "all",
+      "component_count": 47,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        40,
+        61,
+        404,
+        274
+      ],
+      "edge_touch": false,
+      "output_size": [
+        368,
+        215
+      ],
+      "paste_position": [
+        72,
+        148
+      ]
+    },
+    {
+      "grid": [
+        1,
+        1
+      ],
+      "source_box": [
+        443,
+        443,
+        886,
+        886
+      ],
+      "component_mode": "all",
+      "component_count": 49,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        47,
+        68,
+        392,
+        270
+      ],
+      "edge_touch": false,
+      "output_size": [
+        349,
+        204
+      ],
+      "paste_position": [
+        81,
+        154
+      ]
+    },
+    {
+      "grid": [
+        1,
+        2
+      ],
+      "source_box": [
+        886,
+        443,
+        1329,
+        886
+      ],
+      "component_mode": "all",
+      "component_count": 168,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        60,
+        73,
+        380,
+        263
+      ],
+      "edge_touch": false,
+      "output_size": [
+        324,
+        192
+      ],
+      "paste_position": [
+        94,
+        160
+      ]
+    },
+    {
+      "grid": [
+        1,
+        3
+      ],
+      "source_box": [
+        1329,
+        443,
+        1772,
+        886
+      ],
+      "component_mode": "all",
+      "component_count": 17,
+      "selected_component_area": null,
+      "selected_component_bbox": null,
+      "crop_bbox": [
+        73,
+        86,
+        358,
+        143
+      ],
+      "edge_touch": false,
+      "output_size": [
+        288,
+        57
+      ],
+      "paste_position": [
+        112,
+        227
+      ]
+    }
+  ],
+  "edge_touch_frames": []
+}

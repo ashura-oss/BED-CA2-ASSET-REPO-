@@ -1,0 +1,15 @@
+Use case: stylized-concept
+Asset type: UI map marker sprite sheet for a Phaser fantasy RPG map
+Input images: The image just shown is a layout-only guide for a 2x3 grid. Use it only to understand rows, columns, equal invisible frame slots, centering, spacing, and safe padding. Do not reproduce the guide: no visible boxes, no safe-area rectangles, no center marks, no labels, no borders, no guide background.
+Primary request: Create one raw 2x3 sprite sheet with exactly six equal cells for Dawn of Man map node pins.
+Style/medium: clean hand-painted fantasy parchment-map UI marker sprites, antique metal and wax-seal look, crisp silhouette, readable at small size, not pixel art, not vector-flat.
+Sheet layout: exactly 2 rows and 3 columns. Each cell contains one centered standalone map pin marker on a perfectly flat solid #FF00FF magenta chroma-key background. No visible dividers.
+Cell 1, row 1 column 1: current-location pin, warm gold round pin with subtle outer ring and small downward point, brightest of the set.
+Cell 2, row 1 column 2: available-location pin, dark bronze round pin with muted gold rim and small downward point.
+Cell 3, row 1 column 3: locked-location pin, dim charcoal-brown round pin with dull grey rim and small downward point, low saturation.
+Cell 4, row 2 column 1: quest pin, gold wax-seal style marker with a compact ember diamond/star inset, small downward point.
+Cell 5, row 2 column 2: boss pin, dark iron and red-brown war-crown marker, compact and ominous, small downward point, no skull.
+Cell 6, row 2 column 3: gathering pin, green-brown leaf-and-satchel marker, compact, small downward point.
+Composition/framing: each marker centered in its invisible cell, marker fills only the central 45% to 55% of each cell, same approximate scale across all six cells, generous magenta margin on every side, no marker touches cell edges.
+Background: perfectly flat solid #FF00FF magenta across the whole sheet, no shadows, gradients, texture, floor plane, or transparency.
+Constraints: no text, no numbers, no letters, no labels, no UI panels, no watermark, no visible grid lines, no borders, no arrows outside the marker shape, no detached sparkles, no large glow fields, no characters, no creatures. Do not use magenta, hot pink, neon pink, or purple in any marker because #FF00FF is reserved for background removal.

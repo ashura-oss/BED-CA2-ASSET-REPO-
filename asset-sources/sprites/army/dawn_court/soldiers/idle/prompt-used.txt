@@ -1,0 +1,7 @@
+Built-in image_gen prompt (project-bound sprite source)
+
+Clean hand-painted HD dark-fantasy 2D game animation sheet for one Dawn Court Golden Shieldline soldier in Galadriel's visual language: pale silver plate, white cloth, restrained luminous gold trim, closed crested helmet, ivory-and-gold kite shield, leaf-shaped spear. Three-quarter side-facing full-body view.
+
+Exactly four equal invisible cells in a 2x2 grid. Rooted guard idle: guard, measured breath/shield settle, slight planted weight shift, return. Same identity, anatomy, camera distance, standing-equivalent scale, equipment, and shared foot-contact baseline. Central 62% safe area; spear, shield, crest, mantle, hands, and boots entirely contained.
+
+Perfectly uniform solid flat #FF00FF background. No gradient, texture, floor, shadow, scenery, grid, border, separators, text, labels, UI, watermark, detached effects, second figure, or edge crossing.

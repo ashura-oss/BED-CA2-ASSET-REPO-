@@ -1,0 +1,11 @@
+Use case: stylized-concept
+Asset type: clean HD 2D game FX sprite sheet
+Primary request: Generate exactly one looping smoke puff animation sheet for the Dawn of Man Phaser scene-focus renderer.
+Input image: use the layout guide image just shown as a layout-only reference. Use it only to understand the 2 rows, 3 columns, equal invisible frame slots, centering, spacing, and safe padding. Do not reproduce the guide: no visible boxes, no safe-area rectangles, no center marks, no labels, no borders, no guide background.
+Sheet shape: exactly 2 rows by 3 columns, six equal cells, read left-to-right across the first row and then the second row.
+Subject: one compact cluster of opaque painted grey smoke puffs rising from a burned house or campfire, clean HD game FX style. Use neutral greys only: charcoal grey, warm ash grey, pale grey highlights. The smoke must be fully painted and opaque enough for clean cutout; do not make translucent pink-edged vapor.
+Animation phases: frame 1 small dense smoke at base, frame 2 puffs expand upward, frame 3 puffs drift slightly right, frame 4 puffs stretch and thin, frame 5 upper puffs break into smaller grey puffs, frame 6 returns to compact base puff for a seamless loop.
+Style/medium: clean hand-painted HD 2D sprite FX, crisp readable silhouette, low texture noise, no chunky pixels, not photorealistic.
+Composition/framing: smoke centered in each cell, same scale and bounding box across all six frames, entire smoke cluster inside the central 58% safe area with generous padding on all four sides.
+Background: 100% solid flat #FF00FF magenta in every cell for chroma-key removal, no gradients, no texture, no shadow on the background.
+Constraints: no text, no labels, no UI, no people, no animals, no fire in this sheet, no sparks, no purple, no magenta or pink inside the smoke, no violet edge glow, no blue smoke, no transparent wisps, no detached wisps crossing cell edges, no borders or frames between cells, no cell edge contact, no watermark.

@@ -1,0 +1,19 @@
+Use case: stylized-concept
+Asset type: raw UI treasure-chest opening sprite sheet for a Phaser dark-fantasy RPG
+Primary request: Create one coherent treasure chest opening animation as exactly eight frames arranged in a precise 4-column by 2-row grid, read left-to-right across row 1 and then row 2.
+Subject: the same heavy human rebel supply chest in every frame, dark aged oak, worn black iron bands, small warm brass latch, sturdy rectangular proportions.
+Frame sequence:
+1 closed and still;
+2 subtle anticipation with latch tension;
+3 latch shifted open;
+4 lid beginning to rise;
+5 lid half open;
+6 lid nearly open with restrained warm amber light escaping;
+7 fully open with three or four tiny amber particles;
+8 fully open resting frame with faint warm interior glow.
+Style/medium: hand-painted fantasy game sprite, crisp readable silhouette, slightly pixel-textured but not blocky pixel art, matching a grounded painterly medieval RPG UI.
+Composition/framing: identical camera, chest position, perspective, scale, lighting, and ground contact across all eight cells; centered in each invisible cell; subject occupies about 60% of cell width and 55% of cell height; generous padding; no part crosses a cell boundary.
+Sheet layout: exactly 4 equal columns and 2 equal rows. No visible grid lines, dividers, labels, or borders.
+Background: perfectly flat uniform solid #FF00FF magenta chroma-key background across the entire sheet, no shadows, gradients, texture, floor, reflections, or lighting variation in the background.
+Lighting/mood: chest itself has moody low-key warm firelight and subtle cool rim light; opening glow remains modest and never obscures the chest.
+Constraints: same chest identity in all frames; no camera drift; no text, numbers, letters, runes, logos, coins, gems, items, characters, creatures, weapons, detached large effects, watermark, visible grid, or cast shadows. Do not use magenta, pink, purple, or fuchsia anywhere in the chest, iron, latch, glow, or particles because #FF00FF is reserved for background removal.

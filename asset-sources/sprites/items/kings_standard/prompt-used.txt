@@ -1,0 +1,28 @@
+Create a production-ready 2D game item icon for the King's Standard.
+
+STRICT ICON FORMAT:
+- Single centered army/banner item icon, square composition.
+- Solid flat #FF00FF magenta background for chroma-key cleanup.
+- No transparent raw background; magenta must be perfectly flat and untextured.
+- No text, no readable letters, no labels, no UI frame, no border, no watermark, no corner decorations.
+- Leave at least 96 px empty magenta padding around the full silhouette.
+- No part of the pole, banner cloth, finial, cords, highlight, or shadow may touch the image edge.
+
+ITEM IDENTITY:
+- King's Standard: the field standard carried after the first human crown is raised.
+- Human rebel banner, campaign-worn, not elven and not ornate royal luxury.
+- Dark pole, ember-gold human mark or simple crown-like emblem, but no readable text.
+- Red-brown and ash-gold cloth, torn lower edge, repaired stitches, soot and travel wear.
+- Should feel like a morale banner for mankind's army, practical but symbolic.
+
+ART DIRECTION:
+- Clean HD 2D game icon, painterly but crisp and readable at 64 px.
+- Three-quarter angled banner pose with pole diagonal from lower-left to upper-right and cloth hanging compactly.
+- Strong silhouette against magenta, readable cloth folds and simple emblem.
+- No character hands, no army scene, no floor, no drop shadow outside the silhouette.
+- Palette: ember gold, dark red-brown cloth, charcoal pole, dull iron finial.
+
+QUALITY REQUIREMENTS:
+- The icon must still read as a banner/standard when downscaled to 64 px.
+- Keep the banner centered and compact within the safe area.
+- Avoid oversized glow, giant flag edge-to-edge, readable writing, elven filigree, magical aura, smoke, sparks, or decorative frame.

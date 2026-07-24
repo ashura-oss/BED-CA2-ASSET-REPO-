@@ -1,0 +1,34 @@
+STRICT SINGLE 2D GAME PROP SPRITE.
+
+Subject:
+- One burned Hearthvale cottage prop for a dark fantasy strategy game.
+- Charcoal wood, dark red-brown roof remnants, ash-stained plaster, broken beams, small ember cracks.
+- No active fire, no smoke plume, no character, no ground tile, no cast shadow, no text, no labels.
+
+Composition:
+- One isolated prop only.
+- Front three-quarter view.
+- Bottom-center anchored.
+- Full object fits inside roughly 70% of the canvas with generous empty magenta margin on every side.
+- Do not crop and do not touch image edges.
+
+Style:
+- Clean high-resolution hand-painted 2D game art.
+- Readable at small size.
+- Muted earthy medieval colors.
+- Not photorealistic and not a UI icon.
+
+Chroma-key rule:
+- Perfectly flat solid #FF00FF magenta background only.
+- No texture, vignette, shadow, glow, or color spill in the background.
+
+Accepted postprocess:
+- Source preserved as raw-source.webp.
+- Despill cleanup: remove_chroma_key.py --key-color #ff00ff --soft-matte --transparent-threshold 14 --opaque-threshold 86 --edge-contract 1 --edge-feather 0.2 --despill.
+- Sprite processor: generate2dsprite.py process --target asset --mode hearthvale_burned_house --single-size 512 --threshold 120 --edge-threshold 190.
+- Runtime file: sprite-transparent.webp.
+
+QC result:
+- 512x512 transparent prop.
+- Zero hot-magenta, pinkish, purpleish, or green-key residue by pixel scan.
+- Zero visible pixels on frame edges.

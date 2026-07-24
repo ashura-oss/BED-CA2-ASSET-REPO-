@@ -1,0 +1,26 @@
+Create a production-ready 2D game item icon for Silverleaf.
+
+STRICT ICON FORMAT:
+- Single centered material item icon, square composition.
+- Solid flat #FF00FF magenta background for chroma-key cleanup.
+- No transparent raw background; magenta must be perfectly flat and untextured.
+- No text, no labels, no UI frame, no border, no watermark, no corner decorations.
+- Leave at least 96 px empty magenta padding around the full silhouette.
+- No leaf, stem, wrap, highlight, or shadow may touch the image edge.
+
+ITEM IDENTITY:
+- Silverleaf: a pale herb used by village healers to close shallow wounds.
+- Small bundle of silver-green leaves with thin stems, tied with simple cloth thread.
+- Human village healer material, natural and practical, not magical crystal.
+- Leaves should be pale, soft, slightly luminous from natural sheen only, not glowing aura.
+
+ART DIRECTION:
+- Clean HD 2D game icon, painterly but crisp and readable at 64 px.
+- Compact three-quarter herb bundle with 5-7 distinct leaves.
+- Strong silhouette against magenta, readable leaf shapes and pale veins.
+- Palette: silver green, pale sage, soft white highlights, muted cloth tie.
+
+QUALITY REQUIREMENTS:
+- The icon must still read as healing leaves/herb when downscaled to 64 px.
+- Keep the bundle centered and compact within the safe area.
+- Avoid flowers, potion bottle, magical aura, sparkles, runes, text, decorative frame, smoke, or background scene.

@@ -1,0 +1,11 @@
+{
+  "target": "asset",
+  "mode": "supply_cart",
+  "prompt": "",
+  "role": "",
+  "input": "public\\assets\\sprites\\scene_props\\supply_cart\\raw-source-chroma.webp",
+  "threshold": 120,
+  "edge_threshold": 190,
+  "duration": 200,
+  "single_size": 512
+}

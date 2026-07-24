@@ -1,0 +1,11 @@
+Use case: stylized-concept
+Asset type: clean HD 2D game FX sprite sheet
+Primary request: Generate exactly one looping magical sparkle/glint animation sheet for the Dawn of Man Phaser scene-focus renderer.
+Input image: use the layout guide image just shown as a layout-only reference. Use it only to understand the 2 rows, 2 columns, equal invisible frame slots, centering, spacing, and safe padding. Do not reproduce the guide: no visible boxes, no safe-area rectangles, no center marks, no labels, no borders, no guide background.
+Sheet shape: exactly 2 rows by 2 columns, four equal cells, read left-to-right across the first row and then the second row.
+Subject: one compact four-point star sparkle with a small soft glow, clean HD game FX style, neutral warm white core so the sprite can be tinted gold or silver at runtime.
+Animation phases: frame 1 tiny dim glint, frame 2 expanding bright star, frame 3 peak sparkle with short rays, frame 4 fading small glint for a seamless pulse loop.
+Style/medium: clean hand-painted HD 2D sprite FX, crisp readable silhouette, low texture noise, no chunky pixels, not photorealistic.
+Composition/framing: sparkle centered in each cell, same scale family across all four frames, entire sparkle inside the central 45% safe area with generous padding on all four sides.
+Background: 100% solid flat #FF00FF magenta in every cell for chroma-key removal, no gradients, no texture, no shadow on the background.
+Constraints: no text, no labels, no UI, no people, no animals, no coins, no items, no purple, no magenta or pink inside the sparkle, no blue glow, no detached rays crossing cell edges, no borders or frames between cells, no cell edge contact, no watermark.

@@ -1,0 +1,12 @@
+Use case: stylized-concept
+Asset type: 2D game sprite FX animation sheet for a Phaser combat overlay
+Primary request: Iron Cut compact sword slash FX, exactly 2 rows x 3 columns, 6 frames total.
+Subject: ember-gold and pale steel sword slash arc for a human rebel fighter, sharp readable crescent, compact enough to layer over Aren's basic sword attack.
+Style/medium: clean HD 2D game FX sprite, painterly glow, crisp silhouette, gameplay-readable, not pixel art.
+View: side-view combat FX, no character body.
+Sheet: exactly 2 rows x 3 columns of equal cells, read left-to-right across row 1 then row 2.
+Frame motion: frame 1 tiny ignition spark near blade path; frame 2 slash arc appears; frame 3 bright compact crescent; frame 4 peak arc with a few attached sparks; frame 5 fading broken arc; frame 6 clean fade nearly gone for animation completion.
+Frame rules: same effect identity in every frame, centered in every cell, effect fully inside central 65-70% safe area, clear flat magenta gutter on all four sides of every cell.
+Background: perfectly flat solid #FF00FF magenta across the entire sheet, no gradients, no shadows, no texture, no floor plane.
+Constraints: no character, no weapon handle, no hands, no text, no labels, no UI, no frame numbers, no watermark, no visible grid lines or panel borders, no part of the slash or sparks crossing or touching any cell edge.
+Avoid: huge screen-filling arc, smoke clouds, dust clouds, projectile trails, blurry low-contrast streaks, transparent raw background, black background, white background, costume or body fragments.

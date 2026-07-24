@@ -1,0 +1,40 @@
+Create one production-ready 2D game sprite sheet for boss Galadriel, action: COUNTER_LIGHT, body-only guard/counter animation.
+
+Canvas and grid:
+- Single image, exact 3 rows x 4 columns = 12 animation frames.
+- Solid flat chroma background: #FF00FF only, perfectly uniform. No gradients, texture, shadows, transparency, or anti-aliased magenta edges.
+- Each frame reads left to right, top to bottom.
+- One full-body character centered in each cell with at least 12% empty safe padding on every side.
+- Stable foot/bottom anchor across all frames; feet remain near the same baseline.
+- Character occupies about 55-62% of cell height, never cropped, no hair, robe, hands, glow, or sparks touching cell borders.
+
+Character identity and style:
+- Same identity as the accepted Galadriel boss sheets: regal elven queen, pale gold flowing hair, delicate gold crown, gold-and-white armor, long white-gold embroidered robes/cloak, elegant fantasy RPG boss sprite, clean painted high-detail game art.
+- Three-quarter facing left, consistent body proportions and face across frames.
+- No weapon, no staff, no banner, no sword, no shield, no ring prop, no floating object.
+- Do not use magenta, pink, purple, violet, or rose colors anywhere on the character or effects.
+
+Animation sequence, 12 frames:
+1 calm ready stance, hands close, stern expression.
+2 shoulders brace, left foot/robe barely shifts, hands begin rising.
+3 both forearms cross near chest, torso turns slightly.
+4 compact golden light gathers tightly along crossed forearms, attached to armor only.
+5 guard peak: forearms raised in a close defensive counter pose, small gold flare hugging wrists and chest.
+6 counter release: one hand opens forward slightly, body leans with controlled authority, light still attached to palm/forearm.
+7 robe and hair follow through, gold light fading around hand and bracers.
+8 hand retracts toward chest, shoulders settle.
+9 cloak recovers, feet unchanged.
+10 returns toward ready pose.
+11 quiet gold glint on bracer only.
+12 ready pose matching frame 1 for a smooth loop/reset.
+
+Strict body-only constraints:
+- No detached shield bubble, no projectile, no impact burst, no wide aura, no beam, no circular spell ring, no ground effect.
+- Golden light must stay compact and attached to the hands, forearms, chest armor, or bracers. It must not extend outside the character silhouette by more than a small glow.
+- Keep the silhouette compact for phones; avoid excessive cloak or hair spread.
+- No text, labels, numbers, watermark, borders, guides, UI, or extra characters.
+
+Make the result clean enough for chroma-key extraction into transparent WebP sprite variants.
+
+Result:
+- Candidate 1 accepted as source art. Source file preserved as raw-sheet-generated.webp.

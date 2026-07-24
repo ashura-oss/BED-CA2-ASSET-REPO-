@@ -1,0 +1,26 @@
+Create a production-ready 2D game item icon for Ashwood Planks.
+
+STRICT ICON FORMAT:
+- Single centered material item icon, square composition.
+- Solid flat #FF00FF magenta background for chroma-key cleanup.
+- No transparent raw background; magenta must be perfectly flat and untextured.
+- No text, no labels, no UI frame, no border, no watermark, no corner decorations.
+- Leave at least 96 px empty magenta padding around the full silhouette.
+- No plank, splinter, rope, highlight, or shadow may touch the image edge.
+
+ITEM IDENTITY:
+- Ashwood Planks: dry ashwood taken from ruined carts and mill beams.
+- Small bundle of rough cut planks, weathered and useful for repairs.
+- Human village material, not polished lumber and not fantasy glowing wood.
+- Slight soot stains, chipped ends, simple cord binding, visible wood grain.
+
+ART DIRECTION:
+- Clean HD 2D game icon, painterly but crisp and readable at 64 px.
+- Three-quarter angled bundle, compact stack of 3-5 short planks.
+- Strong silhouette against magenta, readable wood grain and broken edges.
+- Palette: pale ash brown, grey tan, soot dark marks, muted rope brown.
+
+QUALITY REQUIREMENTS:
+- The icon must still read as a wood plank bundle when downscaled to 64 px.
+- Keep the bundle centered and compact within the safe area.
+- Avoid logs, tree branches, leaves, glowing runes, text, decorative frame, smoke, sparks, or background scene.

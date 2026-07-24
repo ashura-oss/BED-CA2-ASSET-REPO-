@@ -1,0 +1,40 @@
+Create a single raster sprite sheet for a 2D game boss FX animation.
+
+Use the Crown command pulse and Final Ring Burst sheets just shown as style references only. This new FX should feel related to them, but it must be its own controlled High King royal ring pulse, not a large final explosion.
+
+Use the layout guide image just shown as a layout-only reference. Use it only to understand the rows, columns, equal invisible frame slots, centering, spacing, and safe padding. Do not reproduce the guide: no visible boxes, no safe-area rectangles, no center marks, no labels, no borders, no guide background.
+
+SHEET GEOMETRY:
+- Exact 2x4 grid, 8 equal animation cells, read left to right across the top row then left to right across the bottom row.
+- Overall sheet should be 2048 x 1024 pixels if possible, with 512 x 512 cells.
+- Background must be 100% solid flat #FF00FF magenta across the entire sheet.
+- No gradients in the background, no transparency, no text, no labels, no UI.
+- No visible cell borders or guide marks.
+
+FX IDENTITY:
+- Clean HD 2D game FX sprite, crisp luminous gold-white royal magic.
+- A controlled circular authority pulse from Arvand's ring of power: thin golden ring lines, small crown-point accents, tiny white-gold sparks, subtle radial shimmer.
+- No character body, no hands, no face, no weapon, no environment.
+- No explosion ball, no giant blast, no thick smoke, no dust cloud, no fire, no blue, no green, no red.
+- Avoid magenta, hot pink, purple, and violet anywhere in the subject because #FF00FF is reserved for chroma-key cleanup.
+
+ANIMATION FRAMES:
+Frame 1: a small bright gold-white central glint with a faint tiny ring.
+Frame 2: ring begins expanding, clean thin circular line, two small crown-like points.
+Frame 3: stronger double ring expands, four restrained crown-point accents.
+Frame 4: peak royal pulse, medium-large ring, bright white-gold center spark, crisp edge.
+Frame 5: ring continues outward but stays inside safe area, small gold sparks around it.
+Frame 6: ring thins and fragments slightly into elegant gold arcs, no explosion.
+Frame 7: fading outer arcs and a few tiny sparks, still centered.
+Frame 8: final faint gold-white particles and thin ring remnants, clean fade.
+
+STRICT CONTAINMENT:
+- Entire FX must fit fully inside each cell.
+- Nothing may cross or touch a cell edge.
+- Leave thick #FF00FF margin on all four sides of every cell.
+- Keep the pulse centered in every frame.
+- Keep the ring scale controlled: peak frame should fill about 60% to 70% of the cell width, not more.
+- Same visual identity and same center point across all frames.
+- No text, letters, symbols that look like readable language, numbers, watermark, or UI.
+
+Produce only the final sprite sheet image.

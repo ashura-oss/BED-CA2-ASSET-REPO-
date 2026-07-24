@@ -1,0 +1,249 @@
+{
+  "target": "asset",
+  "mode": "idle",
+  "prompt": "Gilded Road Lancer enemy idle body sheet, 6 frames, 2x3, clean HD, dismounted elven road lancer, vertical spear, full body, facing left, stable feet, solid #FF00FF background, no text.",
+  "role": "",
+  "input": "public\\assets\\sprites\\characters\\enemies\\enemy_road_patrol\\idle\\raw-sheet.webp",
+  "threshold": 160,
+  "edge_threshold": 230,
+  "duration": 130,
+  "rows": 2,
+  "cols": 3,
+  "cell_size": 512,
+  "fit_scale": 0.82,
+  "trim_border": 4,
+  "edge_clean_depth": 3,
+  "align": "feet",
+  "shared_scale": true,
+  "component_mode": "largest",
+  "component_padding": 0,
+  "min_component_area": 1,
+  "edge_touch_margin": 8,
+  "frame_labels": [
+    "idle-1",
+    "idle-2",
+    "idle-3",
+    "idle-4",
+    "idle-5",
+    "idle-6"
+  ],
+  "frames": [
+    {
+      "grid": [
+        0,
+        0
+      ],
+      "source_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "component_mode": "largest",
+      "component_count": 20,
+      "selected_component_area": 62847,
+      "selected_component_bbox": [
+        148,
+        24,
+        407,
+        477
+      ],
+      "crop_bbox": [
+        148,
+        24,
+        407,
+        477
+      ],
+      "edge_touch": false,
+      "output_size": [
+        236,
+        413
+      ],
+      "paste_position": [
+        138,
+        53
+      ]
+    },
+    {
+      "grid": [
+        0,
+        1
+      ],
+      "source_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "component_mode": "largest",
+      "component_count": 19,
+      "selected_component_area": 64989,
+      "selected_component_bbox": [
+        113,
+        25,
+        396,
+        477
+      ],
+      "crop_bbox": [
+        113,
+        25,
+        396,
+        477
+      ],
+      "edge_touch": false,
+      "output_size": [
+        258,
+        412
+      ],
+      "paste_position": [
+        127,
+        54
+      ]
+    },
+    {
+      "grid": [
+        0,
+        2
+      ],
+      "source_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "component_mode": "largest",
+      "component_count": 22,
+      "selected_component_area": 66304,
+      "selected_component_bbox": [
+        81,
+        28,
+        358,
+        477
+      ],
+      "crop_bbox": [
+        81,
+        28,
+        358,
+        477
+      ],
+      "edge_touch": false,
+      "output_size": [
+        252,
+        409
+      ],
+      "paste_position": [
+        130,
+        57
+      ]
+    },
+    {
+      "grid": [
+        1,
+        0
+      ],
+      "source_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "component_mode": "largest",
+      "component_count": 18,
+      "selected_component_area": 65214,
+      "selected_component_bbox": [
+        155,
+        20,
+        420,
+        476
+      ],
+      "crop_bbox": [
+        155,
+        20,
+        420,
+        476
+      ],
+      "edge_touch": false,
+      "output_size": [
+        241,
+        416
+      ],
+      "paste_position": [
+        135,
+        50
+      ]
+    },
+    {
+      "grid": [
+        1,
+        1
+      ],
+      "source_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "component_mode": "largest",
+      "component_count": 24,
+      "selected_component_area": 63417,
+      "selected_component_bbox": [
+        112,
+        20,
+        376,
+        476
+      ],
+      "crop_bbox": [
+        112,
+        20,
+        376,
+        476
+      ],
+      "edge_touch": false,
+      "output_size": [
+        240,
+        416
+      ],
+      "paste_position": [
+        136,
+        50
+      ]
+    },
+    {
+      "grid": [
+        1,
+        2
+      ],
+      "source_box": [
+        1024,
+        512,
+        1536,
+        1024
+      ],
+      "component_mode": "largest",
+      "component_count": 26,
+      "selected_component_area": 61811,
+      "selected_component_bbox": [
+        86,
+        16,
+        328,
+        476
+      ],
+      "crop_bbox": [
+        86,
+        16,
+        328,
+        476
+      ],
+      "edge_touch": false,
+      "output_size": [
+        220,
+        419
+      ],
+      "paste_position": [
+        146,
+        47
+      ]
+    }
+  ],
+  "edge_touch_frames": []
+}

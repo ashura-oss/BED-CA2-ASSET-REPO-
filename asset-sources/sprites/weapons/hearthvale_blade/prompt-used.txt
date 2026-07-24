@@ -1,0 +1,29 @@
+Create a production-ready 2D game item icon for the Hearthvale Blade.
+
+STRICT ICON FORMAT:
+- Single centered weapon icon, square composition.
+- Solid flat #FF00FF magenta background for chroma-key cleanup.
+- No transparent raw background; magenta must be perfectly flat and untextured.
+- No text, no labels, no UI frame, no border, no watermark, no corner decorations.
+- Leave at least 96 px empty magenta padding around the full silhouette.
+- No part of the blade, handle, leather wrap, highlight, or shadow may touch the image edge.
+
+ITEM IDENTITY:
+- Hearthvale Blade: a plain human village sword reforged after Hearthvale burned.
+- Blackened iron blade, practical one-handed arming sword, not ornate and not elven.
+- Slight fire-darkened metal, hammered reforged marks, small nicks, ash stains.
+- Simple leather-wrapped grip, worn iron pommel, modest crossguard.
+- Subtle ember warmth along a few shallow forge seams, but no magical glow aura.
+- Should feel like a survivor's first rebel weapon, not a legendary fantasy sword.
+
+ART DIRECTION:
+- Clean HD 2D game icon, painterly but crisp and readable at 64 px.
+- Three-quarter angled weapon pose, blade running from lower-left to upper-right.
+- Strong silhouette, high contrast against magenta, readable metal edges.
+- No character hands, no scabbard, no background scene, no floor, no drop shadow outside the weapon silhouette.
+- Palette: blackened steel, muted iron grey, worn brown leather, faint ember orange in small cracks only.
+
+QUALITY REQUIREMENTS:
+- The icon must still read as a sword when downscaled to 64 px.
+- Keep the sword centered and compact within the safe area.
+- Avoid oversized glow, long horizontal edge-to-edge blade, fantasy jewel ornament, crown motifs, elven silver filigree, blood, smoke, sparks, text, or decorative frame.

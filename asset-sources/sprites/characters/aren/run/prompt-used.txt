@@ -1,0 +1,14 @@
+Use case: stylized-concept
+Asset type: 2D game sprite animation sheet
+Primary request: Aren, Hearthvale rebel soldier, grounded run/march animation, exactly 2 rows x 4 columns, 8 equal animation frames.
+Reference: use the image just shown as the visual reference for Aren's identity and art style. Preserve the same human face, dark messy hair, ash-stained practical dark leather and worn mail, grey torn march cloak, blackened Hearthvale sword, leather belts, boots, proportions, palette, and gritty clean-HD painterly sprite style.
+Subject: the same Aren from the reference, a human village soldier from Hearthvale, survivor and rebel, marching forward with urgency while keeping his sword close to his body.
+Style/medium: clean HD 2D game sprite, painterly but gameplay-readable, crisp silhouette, controlled lighting, not pixel art, not cartoon.
+View: 3/4 side battle view, full body visible, same camera angle as the reference.
+Sheet: exactly 2 rows x 4 columns, eight equal invisible cells, read left-to-right across the top row then left-to-right across the bottom row.
+Frame motion: smooth grounded forward march/run loop: frame 1 neutral push-off, frame 2 front leg extends, frame 3 passing step, frame 4 rear leg drives, frame 5 opposite push-off, frame 6 opposite front leg extends, frame 7 passing step, frame 8 returns toward frame 1. Cloak and belt sway with the stride. Sword stays close, no wide swing.
+Background: perfectly flat solid #FF00FF magenta across the entire image, no gradients, no shadows, no floor plane.
+Frame rules: same character identity in every frame, same costume, same sword, same scale, same bottom/feet anchor line, centered in every cell, full body inside the central 65% safe area with generous magenta margin on all sides.
+Body-only action rule: this is a body-only movement sheet. Do not include detached dust, slash arcs, projectiles, impact bursts, smoke trails, speed lines, UI, or scenery. Keep the weapon close enough that the body scale does not shrink.
+Constraints: no text, no labels, no UI, no visible borders, no frame numbers, no watermark, no cropped limbs, no body part or weapon crossing a cell edge.
+Avoid: redesigning costume between frames, changing weapon shape, changing face or hair, camera movement, perspective drift, inconsistent scale, transparent raw background, scenery, cast shadows, extra characters, diagonal rain lines or screen effects.

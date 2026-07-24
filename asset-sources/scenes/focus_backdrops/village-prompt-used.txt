@@ -1,0 +1,9 @@
+Use case: stylized-concept
+Asset type: 2D game scene focus backdrop for Phaser UI
+Primary request: Create a restrained 16:9 hand-painted HD background panel for a generic village and occupied-city approach scene in the game Dawn of Man.
+Scene/backdrop: a quiet settlement edge after elven rule, stone path, modest village buildings blending toward distant pale elven arches, low fences, a lone tree, smoke haze, signs of occupation but no active characters.
+Style/medium: clean hand-painted 2D game background, painterly but readable, not pixel art, not photorealistic.
+Composition/framing: wide landscape 16:9 panel, path and buildings through the mid-ground, center area readable, open darker lower 25% for UI text overlay, important shapes inside central 80%, works when center-cropped for tablet or phone.
+Lighting/mood: muted overcast daylight, watchful and uneasy, restrained contrast.
+Color palette: weathered stone, dark timber, muted moss green, ash grey, pale silver architecture in distance, small warm window highlights.
+Constraints: no text, no logos, no watermark, no UI, no people, no animals, no readable signs, no purple, no magenta, no bright neon, no diagonal rain lines, no high-detail clutter at edges, no important content in the extreme corners.

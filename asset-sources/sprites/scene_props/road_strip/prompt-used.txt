@@ -1,0 +1,21 @@
+STRICT SINGLE 2D GAME SCENE PROP SPRITE.
+
+Subject:
+- One wide Hearthvale dirt road strip for a dark fantasy village road scene.
+- Muted brown dirt path, rough edges, wagon ruts, subtle stones, dark ink-like edge.
+- No landscape, no buildings, no trees, no characters, no cast shadow, no text, no labels.
+
+Composition:
+- One isolated wide horizontal road ribbon only.
+- Slight S-curve left-to-right.
+- Full object fits inside roughly 85% of canvas width and 25% of canvas height.
+
+Accepted postprocess:
+- Source preserved as raw-source.webp.
+- Despill cleanup: remove_chroma_key.py --auto-key border --soft-matte --transparent-threshold 54 --opaque-threshold 132 --edge-contract 1 --edge-feather 0.2 --despill.
+- Sprite processor: generate2dsprite.py process --target asset --mode road_strip --single-size 512 --threshold 120 --edge-threshold 190.
+- Runtime file: sprite-transparent.webp.
+
+QC result:
+- Zero hot-magenta, pinkish, purpleish, or green-key residue.
+- Zero visible pixels on image edges.

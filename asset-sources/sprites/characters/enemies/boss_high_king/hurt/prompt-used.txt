@@ -1,0 +1,59 @@
+Use case: stylized-concept
+Asset type: clean HD 2D game boss character sprite sheet for Dawn of Man
+
+Use the Arvand idle sprite sheet image just shown as the visual identity reference. Preserve Arvand's same white and gold armor, high crown, long white-gold cloak, stern elven face, polished silver-white plate, gold trim, sword, material language, clean HD 2D game sprite style, and left-facing 3/4 battle view.
+
+Use the 2x4 layout guide image just shown as a layout-only reference. Use it only to understand the rows, columns, equal invisible frame slots, centering, spacing, and safe padding. Do not reproduce the guide: no visible boxes, no blue rectangles, no black grid, no dashed center marks, no labels, no borders, no guide background.
+
+PRIMARY REQUEST:
+Create one raw sprite sheet for Arvand, High King of Lindon, hurt body animation.
+
+STRICT OUTPUT FORMAT:
+- One sprite sheet image only, exactly 2 rows x 4 columns, 8 frames total.
+- Equal square cells, intended as 512x512 pixels each, overall sheet intended as 2048x1024.
+- Solid flat #FF00FF magenta background in every cell for chroma key cleanup.
+- No transparency, no checkerboard, no background gradients.
+- No text, labels, frame numbers, UI, borders, gutters, watermarks, captions, or visible layout-guide marks.
+
+CHARACTER IDENTITY LOCK:
+- Arvand, final elven High King of Lindon.
+- Tall controlled elven king in white and gold royal armor with elegant crown authority.
+- White-gold cloak, polished silver-white plate, gold trim, high crown, stern calm face, sword in hand.
+- Regal final-boss silhouette, not bulky, not monstrous, not a human peasant, not Galadriel.
+- Every frame stays in left-facing 3/4 side battle view. Do not turn him front-facing, right-facing, or back-facing.
+- Match the accepted idle reference's head size, body height, armor design, crown shape, cloak shape, sword length, and general scale.
+
+ANIMATION PLAN, READ LEFT TO RIGHT ACROSS ROWS:
+1: composed idle-like stance just before impact.
+2: impact reaction begins, shoulders tense, head turns slightly, cloak starts to pull inward.
+3: controlled recoil, upper body leans back a little, sword remains close and downward.
+4: peak stagger, one knee flexes, crown and cloak dip but Arvand does not fall.
+5: recovery begins, torso straightens, sword hand regains control.
+6: recovering guard, cloak settles back toward the body.
+7: nearly recovered royal stance, face stern again.
+8: return close to idle boss pose, ready for loop back.
+
+BODY-ONLY HURT RULES:
+- No blood, no gore, no wound decals, no floating hit spark, no impact burst, no slash arc, no projectile, no aura, no dust cloud, no shield shimmer, no ring pulse.
+- This sheet is only Arvand's body recoil and recovery. Hit sparks remain separate shared FX.
+- Keep sword close to the body and angled down or vertical; do not extend toward cell edges.
+- Keep cloak movement compact, with no long detached strips or torn black fragments.
+- Arvand should look wounded or staggered but still regal and controlled, not collapsed.
+
+SAFE-PADDING RULES:
+- Keep Arvand entirely inside the inner safe area of each invisible cell.
+- Leave large flat #FF00FF margin around crown, cloak, sword tip, boots, hair, and cape in every frame.
+- NO weapon, hand, cloak, hair, crown, or boot within 80px of any cell edge.
+- NO horizontal sword pose.
+- NO wide weapon trail or long diagonal reaching toward corners.
+- Preserve identical body scale and stable centerline across all 8 frames.
+- Feet must stay near the same bottom baseline in all frames, allowing only a small stagger bend.
+
+COMPOSITION AND CLEANUP RULES:
+- One full-body Arvand per cell, centered consistently.
+- Subject should fill only the central 50% to 62% safe area of each cell.
+- Keep generous #FF00FF margin on all four sides of every cell.
+- No cropped limbs, no extra characters, no duplicated ghost bodies, no scenery.
+- Avoid magenta, pink, purple, violet, rose, and red anywhere in the character or effects.
+- Avoid black scribble artifacts, torn shadow debris, random dark fragments, excessive grime, and noisy cloak breakup; keep cloak and armor surfaces clean, continuous, and readable.
+- Crisp game-ready sprite edges, strong readability over a dark combat scene, smooth animation poses, consistent anatomy.

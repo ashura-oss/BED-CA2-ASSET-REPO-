@@ -1,0 +1,249 @@
+{
+  "target": "asset",
+  "mode": "counter_guard",
+  "prompt": "Calenor the Tribute Knight enemy counter guard body sheet, 6 frames, 2x3, clean HD, compact spear, shield brace, full body, facing left, stable feet, solid #FF00FF background, no text.",
+  "role": "",
+  "input": "public\\assets\\sprites\\characters\\enemies\\enemy_tax_knight\\counter_guard\\raw-sheet.webp",
+  "threshold": 160,
+  "edge_threshold": 230,
+  "duration": 115,
+  "rows": 2,
+  "cols": 3,
+  "cell_size": 512,
+  "fit_scale": 0.82,
+  "trim_border": 4,
+  "edge_clean_depth": 3,
+  "align": "feet",
+  "shared_scale": true,
+  "component_mode": "largest",
+  "component_padding": 0,
+  "min_component_area": 1,
+  "edge_touch_margin": 8,
+  "frame_labels": [
+    "guard-1",
+    "guard-2",
+    "guard-3",
+    "guard-4",
+    "guard-5",
+    "guard-6"
+  ],
+  "frames": [
+    {
+      "grid": [
+        0,
+        0
+      ],
+      "source_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "component_mode": "largest",
+      "component_count": 33,
+      "selected_component_area": 65309,
+      "selected_component_bbox": [
+        127,
+        26,
+        436,
+        454
+      ],
+      "crop_bbox": [
+        127,
+        26,
+        436,
+        454
+      ],
+      "edge_touch": false,
+      "output_size": [
+        303,
+        419
+      ],
+      "paste_position": [
+        104,
+        47
+      ]
+    },
+    {
+      "grid": [
+        0,
+        1
+      ],
+      "source_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "component_mode": "largest",
+      "component_count": 30,
+      "selected_component_area": 65629,
+      "selected_component_bbox": [
+        104,
+        30,
+        417,
+        454
+      ],
+      "crop_bbox": [
+        104,
+        30,
+        417,
+        454
+      ],
+      "edge_touch": false,
+      "output_size": [
+        307,
+        415
+      ],
+      "paste_position": [
+        102,
+        51
+      ]
+    },
+    {
+      "grid": [
+        0,
+        2
+      ],
+      "source_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "component_mode": "largest",
+      "component_count": 26,
+      "selected_component_area": 62978,
+      "selected_component_bbox": [
+        99,
+        34,
+        395,
+        454
+      ],
+      "crop_bbox": [
+        99,
+        34,
+        395,
+        454
+      ],
+      "edge_touch": false,
+      "output_size": [
+        290,
+        411
+      ],
+      "paste_position": [
+        111,
+        55
+      ]
+    },
+    {
+      "grid": [
+        1,
+        0
+      ],
+      "source_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "component_mode": "largest",
+      "component_count": 38,
+      "selected_component_area": 65513,
+      "selected_component_bbox": [
+        91,
+        18,
+        418,
+        446
+      ],
+      "crop_bbox": [
+        91,
+        18,
+        418,
+        446
+      ],
+      "edge_touch": false,
+      "output_size": [
+        320,
+        419
+      ],
+      "paste_position": [
+        96,
+        47
+      ]
+    },
+    {
+      "grid": [
+        1,
+        1
+      ],
+      "source_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "component_mode": "largest",
+      "component_count": 29,
+      "selected_component_area": 65042,
+      "selected_component_bbox": [
+        104,
+        18,
+        407,
+        446
+      ],
+      "crop_bbox": [
+        104,
+        18,
+        407,
+        446
+      ],
+      "edge_touch": false,
+      "output_size": [
+        297,
+        419
+      ],
+      "paste_position": [
+        107,
+        47
+      ]
+    },
+    {
+      "grid": [
+        1,
+        2
+      ],
+      "source_box": [
+        1024,
+        512,
+        1536,
+        1024
+      ],
+      "component_mode": "largest",
+      "component_count": 26,
+      "selected_component_area": 65334,
+      "selected_component_bbox": [
+        80,
+        20,
+        391,
+        446
+      ],
+      "crop_bbox": [
+        80,
+        20,
+        391,
+        446
+      ],
+      "edge_touch": false,
+      "output_size": [
+        305,
+        417
+      ],
+      "paste_position": [
+        103,
+        49
+      ]
+    }
+  ],
+  "edge_touch_frames": []
+}

@@ -1,0 +1,36 @@
+Create a clean HD 2D game FX spritesheet for an Ashstep Flank smoke trail.
+
+OUTPUT FORMAT
+- Exactly 8 animation frames in a 2 rows x 4 columns grid.
+- Each cell is exactly 512 x 512 px, total sheet exactly 2048 x 1024 px.
+- Use a solid flat #FF00FF background in every cell.
+- Keep all visible effect pixels at least 90 px inside each cell edge.
+- No labels, no text, no frame numbers, no borders, no UI, no grid lines.
+
+FX SUBJECT
+- Body-free smoke trail effect only.
+- No character, no weapon, no hands, no face, no shield, no projectile.
+- A clearly visible grey ash-smoke smear that trails behind a fast sidestep.
+- Shape: low diagonal oval plume, wider on the left/back and thinner on the right/front.
+- Peak size: about 300 px wide and 175 px tall, never filling the whole cell.
+- Materials: medium grey smoke, charcoal ash edges, sparse dull orange embers, soft ragged breakup.
+- Style: clean painterly HD fantasy game VFX, readable behind a character sprite.
+
+ANIMATION SEQUENCE
+- Frame 1: small but visible grey smoke puff, about 120 px wide.
+- Frame 2: smoke grows into a low diagonal smear, about 180 px wide.
+- Frame 3: trail stretches to about 250 px wide with ragged edges.
+- Frame 4: strongest plume, about 300 px wide, semi-transparent-looking but clearly visible.
+- Frame 5: plume breaks into two visible smoky chunks.
+- Frame 6: smoke thins but remains readable, with ash motes.
+- Frame 7: smaller fading smoke mark, about 150 px wide.
+- Frame 8: final faint smoke remnant, still visible, loop-safe fade.
+
+STRICT RULES
+- Every frame must contain a visible grey smoke shape; do not create blank frames.
+- Do not make the smoke only tiny ember specks.
+- Do not include a character silhouette, cloak, sword, slash arc, speed lines, explosion, fireball, shield, UI icon, or text.
+- Use visible grey smoke with soft edges; avoid pure black smoke.
+- Keep the same center anchor in every frame.
+- Do not touch cell edges.
+- Do not use a black background; the only background color must be solid #FF00FF.

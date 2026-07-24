@@ -1,0 +1,56 @@
+Use case: stylized-concept
+Asset type: clean HD 2D game boss character sprite sheet for Dawn of Man
+
+Use the Arvand idle sprite sheet image shown earlier as the visual identity reference. Preserve Arvand's same white and gold armor, high crown, long white-gold cloak, stern elven face, polished silver-white plate, gold trim, sword, material language, clean HD 2D game sprite style, and left-facing 3/4 battle view.
+
+Use the 3x4 layout guide image shown earlier as a layout-only reference. Use it only to understand the rows, columns, equal invisible frame slots, centering, spacing, and safe padding. Do not reproduce the guide: no visible boxes, no blue rectangles, no black grid, no dashed center marks, no labels, no borders, no guide background.
+
+PRIMARY REQUEST:
+Create one raw sprite sheet for Arvand, High King of Lindon, guard_command body animation.
+
+STRICT OUTPUT FORMAT:
+- One sprite sheet image only, exactly 3 rows x 4 columns, 12 frames total.
+- Equal square cells, intended as 512x512 pixels each, overall sheet intended as 2048x1536.
+- Solid flat #FF00FF magenta background in every cell for chroma key cleanup.
+- No transparency, no checkerboard, no background gradients.
+- No text, labels, frame numbers, UI, borders, gutters, watermarks, captions, or visible layout-guide marks.
+
+CHARACTER IDENTITY LOCK:
+- Arvand, final elven High King of Lindon.
+- Tall controlled elven king in white and gold royal armor with elegant crown authority.
+- White-gold cloak, polished silver-white plate, gold trim, high crown, stern calm face, sword in hand.
+- Regal final-boss silhouette, not bulky, not monstrous, not a human peasant, not Galadriel.
+- Every frame stays in left-facing 3/4 side battle view. Do not turn him front-facing, right-facing, or back-facing.
+- Match the accepted idle reference's head size, body height, armor design, crown shape, cloak shape, sword length, and general scale.
+
+ANIMATION PLAN, READ LEFT TO RIGHT ACROSS ROWS:
+1-2: poised idle-to-guard transition, sword held close and vertical near the body.
+3-4: royal guard command begins, free hand rises near chest and shoulder; cloak shifts slightly.
+5-7: command peak, Arvand plants his stance and raises one open palm or commanding hand close to the torso, sword vertical or downward close to his side.
+8-9: guard order hold, shoulders squared, cloak settles; no shield effect yet.
+10-12: controlled return toward idle boss stance, feet remain on the same baseline.
+
+BODY-ONLY COMMAND RULES:
+- No detached shield wall, no shimmer, no aura, no ring pulse, no projectile, no impact burst, no dust cloud, no sparks, no magic circle, no floating symbols.
+- This sheet is only the body gesture. Separate shield shimmer FX will be generated later.
+- Keep sword vertical/downward and close to the body; do not extend sword toward cell edges.
+- Keep the raised command hand close to the torso, not stretched far outside the cloak silhouette.
+- The pose should communicate royal command and defensive authority without external VFX.
+
+SAFE-PADDING RULES:
+- Keep Arvand entirely inside the inner safe area of each invisible cell.
+- Leave large flat #FF00FF margin around crown, cloak, sword tip, boots, hair, and cape in every frame.
+- NO weapon, hand, cloak, hair, crown, or boot within 80px of any cell edge.
+- NO horizontal sword pose.
+- NO wide weapon trail or long diagonal reaching toward corners.
+- Preserve identical body scale and stable centerline across all 12 frames.
+- Feet must remain planted on the same bottom baseline in all frames.
+
+COMPOSITION AND CLEANUP RULES:
+- One full-body Arvand per cell, centered consistently.
+- Subject should fill only the central 50% to 60% safe area of each cell.
+- Keep generous #FF00FF margin on all four sides of every cell.
+- No cropped limbs, no extra characters, no duplicated ghost bodies, no scenery.
+- Avoid magenta, pink, purple, violet, rose, and red anywhere in the character or effects.
+- Avoid black scribble artifacts, torn shadow debris, random dark fragments, excessive grime, and noisy cloak breakup; keep cloak and armor surfaces clean, continuous, and readable.
+- Crisp game-ready sprite edges, strong readability over a dark combat scene, smooth animation poses, consistent anatomy.

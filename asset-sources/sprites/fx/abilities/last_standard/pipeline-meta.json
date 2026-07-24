@@ -1,0 +1,14 @@
+{
+  "source": "public\\assets\\sprites\\fx\\abilities\\last_standard\\raw-sheet.webp",
+  "rows": 2,
+  "cols": 4,
+  "prefix": "last_standard",
+  "master_cell": 512,
+  "fit_scale": 0.82,
+  "anchor": "center",
+  "background_sample": [
+    251,
+    4,
+    249
+  ]
+}

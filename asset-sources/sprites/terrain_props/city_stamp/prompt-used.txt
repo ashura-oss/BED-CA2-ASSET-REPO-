@@ -1,0 +1,21 @@
+STRICT SINGLE 2D GAME MAP STAMP SPRITE.
+
+Subject:
+- One stylized elven city stamp.
+- Pale stone towers, arched gate, slender spires, subtle warm window marks, dark ink-like outline.
+- No full landscape, no sky, no ground tile, no cast shadow, no characters, no text, no labels.
+
+Composition:
+- One isolated compact city silhouette only.
+- Bottom-center anchored.
+- Full object fits inside roughly 65% of canvas width and 60% of canvas height.
+
+Accepted postprocess:
+- Source preserved as raw-source.webp.
+- Despill cleanup: remove_chroma_key.py --auto-key border --soft-matte --transparent-threshold 54 --opaque-threshold 132 --edge-contract 1 --edge-feather 0.2 --despill.
+- Sprite processor: generate2dsprite.py process --target asset --mode city_stamp --single-size 512 --threshold 120 --edge-threshold 190.
+- Runtime file: sprite-transparent.webp.
+
+QC result:
+- Zero hot-magenta, pinkish, purpleish, or green-key residue.
+- Zero visible pixels on image edges.
