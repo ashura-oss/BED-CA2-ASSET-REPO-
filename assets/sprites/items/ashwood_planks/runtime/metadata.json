@@ -1,0 +1,152 @@
+{
+  "source": "artifacts\\asset-sources\\sprites\\items\\ashwood_planks\\raw-icon.webp",
+  "master": "public\\assets\\sprites\\items\\ashwood_planks\\icon-transparent.webp",
+  "source_size": [
+    1254,
+    1254
+  ],
+  "master_size": [
+    1024,
+    1024
+  ],
+  "fit_scale": 0.8,
+  "background_sample": [
+    239,
+    9,
+    230
+  ],
+  "variants": {
+    "512": {
+      "path": "public\\assets\\sprites\\items\\ashwood_planks\\runtime\\512.webp",
+      "size": [
+        512,
+        512
+      ]
+    },
+    "256": {
+      "path": "public\\assets\\sprites\\items\\ashwood_planks\\runtime\\256.webp",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "128": {
+      "path": "public\\assets\\sprites\\items\\ashwood_planks\\runtime\\128.webp",
+      "size": [
+        128,
+        128
+      ]
+    },
+    "64": {
+      "path": "public\\assets\\sprites\\items\\ashwood_planks\\runtime\\64.webp",
+      "size": [
+        64,
+        64
+      ]
+    }
+  },
+  "qc": {
+    "master": {
+      "size": [
+        1024,
+        1024
+      ],
+      "visible_pixels": 263979,
+      "opaque_hot_magenta": 0,
+      "bbox": [
+        102,
+        191,
+        921,
+        832
+      ],
+      "padding": [
+        102,
+        191,
+        103,
+        192
+      ]
+    },
+    "variants": {
+      "512": {
+        "size": [
+          512,
+          512
+        ],
+        "visible_pixels": 67004,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          48,
+          93,
+          463,
+          419
+        ],
+        "padding": [
+          48,
+          93,
+          49,
+          93
+        ]
+      },
+      "256": {
+        "size": [
+          256,
+          256
+        ],
+        "visible_pixels": 17205,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          23,
+          45,
+          233,
+          210
+        ],
+        "padding": [
+          23,
+          45,
+          23,
+          46
+        ]
+      },
+      "128": {
+        "size": [
+          128,
+          128
+        ],
+        "visible_pixels": 4521,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          10,
+          21,
+          118,
+          107
+        ],
+        "padding": [
+          10,
+          21,
+          10,
+          21
+        ]
+      },
+      "64": {
+        "size": [
+          64,
+          64
+        ],
+        "visible_pixels": 1236,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          4,
+          9,
+          60,
+          54
+        ],
+        "padding": [
+          4,
+          9,
+          4,
+          10
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "source": "artifacts\\asset-sources\\sprites\\weapons\\yewbow\\raw-icon.webp",
+  "master": "public\\assets\\sprites\\weapons\\yewbow\\icon-transparent.webp",
+  "source_size": [
+    1254,
+    1254
+  ],
+  "master_size": [
+    1024,
+    1024
+  ],
+  "fit_scale": 0.82,
+  "background_sample": [
+    239,
+    12,
+    238
+  ],
+  "variants": {
+    "512": {
+      "path": "public\\assets\\sprites\\weapons\\yewbow\\runtime\\512.webp",
+      "size": [
+        512,
+        512
+      ]
+    },
+    "256": {
+      "path": "public\\assets\\sprites\\weapons\\yewbow\\runtime\\256.webp",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "128": {
+      "path": "public\\assets\\sprites\\weapons\\yewbow\\runtime\\128.webp",
+      "size": [
+        128,
+        128
+      ]
+    },
+    "64": {
+      "path": "public\\assets\\sprites\\weapons\\yewbow\\runtime\\64.webp",
+      "size": [
+        64,
+        64
+      ]
+    }
+  },
+  "qc": {
+    "master": {
+      "size": [
+        1024,
+        1024
+      ],
+      "visible_pixels": 50061,
+      "opaque_hot_magenta": 0,
+      "bbox": [
+        159,
+        92,
+        864,
+        931
+      ],
+      "padding": [
+        159,
+        92,
+        160,
+        93
+      ]
+    },
+    "variants": {
+      "512": {
+        "size": [
+          512,
+          512
+        ],
+        "visible_pixels": 14283,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          77,
+          43,
+          435,
+          468
+        ],
+        "padding": [
+          77,
+          43,
+          77,
+          44
+        ]
+      },
+      "256": {
+        "size": [
+          256,
+          256
+        ],
+        "visible_pixels": 4369,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          37,
+          20,
+          219,
+          235
+        ],
+        "padding": [
+          37,
+          20,
+          37,
+          21
+        ]
+      },
+      "128": {
+        "size": [
+          128,
+          128
+        ],
+        "visible_pixels": 1458,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          17,
+          9,
+          111,
+          119
+        ],
+        "padding": [
+          17,
+          9,
+          17,
+          9
+        ]
+      },
+      "64": {
+        "size": [
+          64,
+          64
+        ],
+        "visible_pixels": 539,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          7,
+          3,
+          56,
+          61
+        ],
+        "padding": [
+          7,
+          3,
+          8,
+          3
+        ]
+      }
+    }
+  }
+}

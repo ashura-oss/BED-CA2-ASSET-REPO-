@@ -1,0 +1,152 @@
+{
+  "source": "artifacts\\asset-sources\\sprites\\items\\grey_march_cloak\\raw-icon.webp",
+  "master": "public\\assets\\sprites\\items\\grey_march_cloak\\icon-transparent.webp",
+  "source_size": [
+    1254,
+    1254
+  ],
+  "master_size": [
+    1024,
+    1024
+  ],
+  "fit_scale": 0.82,
+  "background_sample": [
+    238,
+    9,
+    225
+  ],
+  "variants": {
+    "512": {
+      "path": "public\\assets\\sprites\\items\\grey_march_cloak\\runtime\\512.webp",
+      "size": [
+        512,
+        512
+      ]
+    },
+    "256": {
+      "path": "public\\assets\\sprites\\items\\grey_march_cloak\\runtime\\256.webp",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "128": {
+      "path": "public\\assets\\sprites\\items\\grey_march_cloak\\runtime\\128.webp",
+      "size": [
+        128,
+        128
+      ]
+    },
+    "64": {
+      "path": "public\\assets\\sprites\\items\\grey_march_cloak\\runtime\\64.webp",
+      "size": [
+        64,
+        64
+      ]
+    }
+  },
+  "qc": {
+    "master": {
+      "size": [
+        1024,
+        1024
+      ],
+      "visible_pixels": 412985,
+      "opaque_hot_magenta": 0,
+      "bbox": [
+        169,
+        92,
+        855,
+        931
+      ],
+      "padding": [
+        169,
+        92,
+        169,
+        93
+      ]
+    },
+    "variants": {
+      "512": {
+        "size": [
+          512,
+          512
+        ],
+        "visible_pixels": 104992,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          82,
+          43,
+          430,
+          468
+        ],
+        "padding": [
+          82,
+          43,
+          82,
+          44
+        ]
+      },
+      "256": {
+        "size": [
+          256,
+          256
+        ],
+        "visible_pixels": 26867,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          40,
+          20,
+          216,
+          235
+        ],
+        "padding": [
+          40,
+          20,
+          40,
+          21
+        ]
+      },
+      "128": {
+        "size": [
+          128,
+          128
+        ],
+        "visible_pixels": 6990,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          18,
+          9,
+          110,
+          119
+        ],
+        "padding": [
+          18,
+          9,
+          18,
+          9
+        ]
+      },
+      "64": {
+        "size": [
+          64,
+          64
+        ],
+        "visible_pixels": 1890,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          8,
+          3,
+          56,
+          61
+        ],
+        "padding": [
+          8,
+          3,
+          8,
+          3
+        ]
+      }
+    }
+  }
+}

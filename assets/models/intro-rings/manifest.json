@@ -1,0 +1,51 @@
+{
+  "assets": [
+    {
+      "id": "valinor",
+      "reference": "silver marquise sapphire cathedral ring",
+      "master_vertices": 9181,
+      "master_triangles": 18038,
+      "runtime_vertices": 5257,
+      "runtime_triangles": 10238,
+      "runtime_mesh_objects": 39,
+      "inner_radius": 0.7675,
+      "outer_radius": 1.01,
+      "fallback": "/assets/images/intro-rings/valinor.webp"
+    },
+    {
+      "id": "adar",
+      "reference": "oxidized claw-set battle ring",
+      "master_vertices": 9387,
+      "master_triangles": 18446,
+      "runtime_vertices": 5691,
+      "runtime_triangles": 11086,
+      "runtime_mesh_objects": 42,
+      "inner_radius": 0.7175,
+      "outer_radius": 1.05,
+      "fallback": "/assets/images/intro-rings/adar.webp"
+    },
+    {
+      "id": "isildur",
+      "reference": "heavy gold octagonal royal signet",
+      "master_vertices": 7379,
+      "master_triangles": 14546,
+      "runtime_vertices": 4387,
+      "runtime_triangles": 8602,
+      "runtime_mesh_objects": 32,
+      "inner_radius": 0.7225,
+      "outer_radius": 1.07,
+      "fallback": "/assets/images/intro-rings/isildur.webp"
+    }
+  ],
+  "files": {
+    "valinor": "/assets/models/intro-rings/valinor.glb",
+    "adar": "/assets/models/intro-rings/adar.glb",
+    "isildur": "/assets/models/intro-rings/isildur.glb"
+  },
+  "loops": {
+    "valinor": "/assets/images/intro-rings/loops/valinor.webp",
+    "adar": "/assets/images/intro-rings/loops/adar.webp",
+    "isildur": "/assets/images/intro-rings/loops/isildur.webp"
+  },
+  "source": "artifacts/asset-sources/models/intro-rings/intro-rings-source.blend"
+}

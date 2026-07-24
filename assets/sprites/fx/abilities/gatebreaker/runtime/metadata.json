@@ -1,0 +1,33 @@
+{
+  "source_sheet": "public\\assets\\sprites\\fx\\abilities\\gatebreaker\\sheet-transparent.webp",
+  "rows": 2,
+  "cols": 3,
+  "master_cell_size": 512,
+  "duration_ms": 90,
+  "variants": {
+    "desktop": {
+      "path": "public\\assets\\sprites\\fx\\abilities\\gatebreaker\\runtime\\desktop.webp",
+      "cell_size": 512,
+      "sheet_size": [
+        1536,
+        1024
+      ]
+    },
+    "tablet": {
+      "path": "public\\assets\\sprites\\fx\\abilities\\gatebreaker\\runtime\\tablet.webp",
+      "cell_size": 384,
+      "sheet_size": [
+        1152,
+        768
+      ]
+    },
+    "mobile": {
+      "path": "public\\assets\\sprites\\fx\\abilities\\gatebreaker\\runtime\\mobile.webp",
+      "cell_size": 256,
+      "sheet_size": [
+        768,
+        512
+      ]
+    }
+  }
+}

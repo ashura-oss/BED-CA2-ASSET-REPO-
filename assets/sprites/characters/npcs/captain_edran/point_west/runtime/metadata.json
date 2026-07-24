@@ -1,0 +1,40 @@
+{
+  "source_sheet": "public\\assets\\sprites\\characters\\npcs\\captain_edran\\point_west\\sheet-transparent.webp",
+  "rows": 2,
+  "cols": 2,
+  "master_cell_size": 512,
+  "duration_ms": 105,
+  "variants": {
+    "desktop": {
+      "path": "public\\assets\\sprites\\characters\\npcs\\captain_edran\\point_west\\runtime\\desktop.webp",
+      "cell_size": 512,
+      "sheet_size": [
+        1024,
+        1024
+      ],
+      "format": "webp",
+      "transparent_rgb_zeroed": true
+    },
+    "tablet": {
+      "path": "public\\assets\\sprites\\characters\\npcs\\captain_edran\\point_west\\runtime\\tablet.webp",
+      "cell_size": 384,
+      "sheet_size": [
+        768,
+        768
+      ],
+      "format": "webp",
+      "transparent_rgb_zeroed": true
+    },
+    "mobile": {
+      "path": "public\\assets\\sprites\\characters\\npcs\\captain_edran\\point_west\\runtime\\mobile.webp",
+      "cell_size": 256,
+      "sheet_size": [
+        512,
+        512
+      ],
+      "format": "webp",
+      "transparent_rgb_zeroed": true
+    }
+  },
+  "runtime_profile": "dialogue-alpha-clean-v2"
+}

@@ -1,0 +1,966 @@
+{
+  "schemaVersion": 1,
+  "clipCount": 120,
+  "clips": [
+    {
+      "clipId": "dialogue_family_oath_line_01_mira_ashwell",
+      "dialogueId": "dialogue_family_oath",
+      "lineNumber": 1,
+      "speakerId": "mira_ashwell",
+      "speaker": "Mira Ashwell",
+      "url": "/assets/audio/dialogue/mira_ashwell/dialogue_family_oath_line_01_mira_ashwell.webm"
+    },
+    {
+      "clipId": "dialogue_family_oath_line_02_mira_ashwell",
+      "dialogueId": "dialogue_family_oath",
+      "lineNumber": 2,
+      "speakerId": "mira_ashwell",
+      "speaker": "Mira Ashwell",
+      "url": "/assets/audio/dialogue/mira_ashwell/dialogue_family_oath_line_02_mira_ashwell.webm"
+    },
+    {
+      "clipId": "dialogue_family_oath_line_03_aren",
+      "dialogueId": "dialogue_family_oath",
+      "lineNumber": 3,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_family_oath_line_03_aren.webm"
+    },
+    {
+      "clipId": "dialogue_family_oath_line_04_mira_ashwell",
+      "dialogueId": "dialogue_family_oath",
+      "lineNumber": 4,
+      "speakerId": "mira_ashwell",
+      "speaker": "Mira Ashwell",
+      "url": "/assets/audio/dialogue/mira_ashwell/dialogue_family_oath_line_04_mira_ashwell.webm"
+    },
+    {
+      "clipId": "dialogue_family_oath_line_05_aren",
+      "dialogueId": "dialogue_family_oath",
+      "lineNumber": 5,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_family_oath_line_05_aren.webm"
+    },
+    {
+      "clipId": "dialogue_family_oath_line_06_mira_ashwell",
+      "dialogueId": "dialogue_family_oath",
+      "lineNumber": 6,
+      "speakerId": "mira_ashwell",
+      "speaker": "Mira Ashwell",
+      "url": "/assets/audio/dialogue/mira_ashwell/dialogue_family_oath_line_06_mira_ashwell.webm"
+    },
+    {
+      "clipId": "dialogue_family_oath_line_07_aren",
+      "dialogueId": "dialogue_family_oath",
+      "lineNumber": 7,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_family_oath_line_07_aren.webm"
+    },
+    {
+      "clipId": "dialogue_family_oath_line_08_mira_ashwell",
+      "dialogueId": "dialogue_family_oath",
+      "lineNumber": 8,
+      "speakerId": "mira_ashwell",
+      "speaker": "Mira Ashwell",
+      "url": "/assets/audio/dialogue/mira_ashwell/dialogue_family_oath_line_08_mira_ashwell.webm"
+    },
+    {
+      "clipId": "dialogue_family_oath_line_09_aren",
+      "dialogueId": "dialogue_family_oath",
+      "lineNumber": 9,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_family_oath_line_09_aren.webm"
+    },
+    {
+      "clipId": "dialogue_family_oath_line_10_mira_ashwell",
+      "dialogueId": "dialogue_family_oath",
+      "lineNumber": 10,
+      "speakerId": "mira_ashwell",
+      "speaker": "Mira Ashwell",
+      "url": "/assets/audio/dialogue/mira_ashwell/dialogue_family_oath_line_10_mira_ashwell.webm"
+    },
+    {
+      "clipId": "dialogue_family_oath_line_11_aren",
+      "dialogueId": "dialogue_family_oath",
+      "lineNumber": 11,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_family_oath_line_11_aren.webm"
+    },
+    {
+      "clipId": "dialogue_family_oath_line_12_mira_ashwell",
+      "dialogueId": "dialogue_family_oath",
+      "lineNumber": 12,
+      "speakerId": "mira_ashwell",
+      "speaker": "Mira Ashwell",
+      "url": "/assets/audio/dialogue/mira_ashwell/dialogue_family_oath_line_12_mira_ashwell.webm"
+    },
+    {
+      "clipId": "dialogue_old_mill_stores_line_01_mira_ashwell",
+      "dialogueId": "dialogue_old_mill_stores",
+      "lineNumber": 1,
+      "speakerId": "mira_ashwell",
+      "speaker": "Mira Ashwell",
+      "url": "/assets/audio/dialogue/mira_ashwell/dialogue_old_mill_stores_line_01_mira_ashwell.webm"
+    },
+    {
+      "clipId": "dialogue_old_mill_stores_line_02_aren",
+      "dialogueId": "dialogue_old_mill_stores",
+      "lineNumber": 2,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_old_mill_stores_line_02_aren.webm"
+    },
+    {
+      "clipId": "dialogue_old_mill_stores_line_03_mira_ashwell",
+      "dialogueId": "dialogue_old_mill_stores",
+      "lineNumber": 3,
+      "speakerId": "mira_ashwell",
+      "speaker": "Mira Ashwell",
+      "url": "/assets/audio/dialogue/mira_ashwell/dialogue_old_mill_stores_line_03_mira_ashwell.webm"
+    },
+    {
+      "clipId": "dialogue_old_mill_stores_line_04_aren",
+      "dialogueId": "dialogue_old_mill_stores",
+      "lineNumber": 4,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_old_mill_stores_line_04_aren.webm"
+    },
+    {
+      "clipId": "dialogue_old_mill_stores_line_05_mira_ashwell",
+      "dialogueId": "dialogue_old_mill_stores",
+      "lineNumber": 5,
+      "speakerId": "mira_ashwell",
+      "speaker": "Mira Ashwell",
+      "url": "/assets/audio/dialogue/mira_ashwell/dialogue_old_mill_stores_line_05_mira_ashwell.webm"
+    },
+    {
+      "clipId": "dialogue_old_mill_stores_line_06_aren",
+      "dialogueId": "dialogue_old_mill_stores",
+      "lineNumber": 6,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_old_mill_stores_line_06_aren.webm"
+    },
+    {
+      "clipId": "dialogue_old_mill_stores_line_07_mira_ashwell",
+      "dialogueId": "dialogue_old_mill_stores",
+      "lineNumber": 7,
+      "speakerId": "mira_ashwell",
+      "speaker": "Mira Ashwell",
+      "url": "/assets/audio/dialogue/mira_ashwell/dialogue_old_mill_stores_line_07_mira_ashwell.webm"
+    },
+    {
+      "clipId": "dialogue_old_mill_stores_line_08_aren",
+      "dialogueId": "dialogue_old_mill_stores",
+      "lineNumber": 8,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_old_mill_stores_line_08_aren.webm"
+    },
+    {
+      "clipId": "dialogue_old_mill_stores_line_09_mira_ashwell",
+      "dialogueId": "dialogue_old_mill_stores",
+      "lineNumber": 9,
+      "speakerId": "mira_ashwell",
+      "speaker": "Mira Ashwell",
+      "url": "/assets/audio/dialogue/mira_ashwell/dialogue_old_mill_stores_line_09_mira_ashwell.webm"
+    },
+    {
+      "clipId": "dialogue_old_mill_stores_line_10_aren",
+      "dialogueId": "dialogue_old_mill_stores",
+      "lineNumber": 10,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_old_mill_stores_line_10_aren.webm"
+    },
+    {
+      "clipId": "dialogue_old_mill_stores_line_11_mira_ashwell",
+      "dialogueId": "dialogue_old_mill_stores",
+      "lineNumber": 11,
+      "speakerId": "mira_ashwell",
+      "speaker": "Mira Ashwell",
+      "url": "/assets/audio/dialogue/mira_ashwell/dialogue_old_mill_stores_line_11_mira_ashwell.webm"
+    },
+    {
+      "clipId": "dialogue_old_mill_stores_line_12_aren",
+      "dialogueId": "dialogue_old_mill_stores",
+      "lineNumber": 12,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_old_mill_stores_line_12_aren.webm"
+    },
+    {
+      "clipId": "dialogue_tribute_road_line_01_captain_edran",
+      "dialogueId": "dialogue_tribute_road",
+      "lineNumber": 1,
+      "speakerId": "captain_edran",
+      "speaker": "Captain Edran",
+      "url": "/assets/audio/dialogue/captain_edran/dialogue_tribute_road_line_01_captain_edran.webm"
+    },
+    {
+      "clipId": "dialogue_tribute_road_line_02_aren",
+      "dialogueId": "dialogue_tribute_road",
+      "lineNumber": 2,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_tribute_road_line_02_aren.webm"
+    },
+    {
+      "clipId": "dialogue_tribute_road_line_03_captain_edran",
+      "dialogueId": "dialogue_tribute_road",
+      "lineNumber": 3,
+      "speakerId": "captain_edran",
+      "speaker": "Captain Edran",
+      "url": "/assets/audio/dialogue/captain_edran/dialogue_tribute_road_line_03_captain_edran.webm"
+    },
+    {
+      "clipId": "dialogue_tribute_road_line_04_aren",
+      "dialogueId": "dialogue_tribute_road",
+      "lineNumber": 4,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_tribute_road_line_04_aren.webm"
+    },
+    {
+      "clipId": "dialogue_tribute_road_line_05_captain_edran",
+      "dialogueId": "dialogue_tribute_road",
+      "lineNumber": 5,
+      "speakerId": "captain_edran",
+      "speaker": "Captain Edran",
+      "url": "/assets/audio/dialogue/captain_edran/dialogue_tribute_road_line_05_captain_edran.webm"
+    },
+    {
+      "clipId": "dialogue_tribute_road_line_06_captain_edran",
+      "dialogueId": "dialogue_tribute_road",
+      "lineNumber": 6,
+      "speakerId": "captain_edran",
+      "speaker": "Captain Edran",
+      "url": "/assets/audio/dialogue/captain_edran/dialogue_tribute_road_line_06_captain_edran.webm"
+    },
+    {
+      "clipId": "dialogue_tribute_road_line_07_aren",
+      "dialogueId": "dialogue_tribute_road",
+      "lineNumber": 7,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_tribute_road_line_07_aren.webm"
+    },
+    {
+      "clipId": "dialogue_tribute_road_line_08_captain_edran",
+      "dialogueId": "dialogue_tribute_road",
+      "lineNumber": 8,
+      "speakerId": "captain_edran",
+      "speaker": "Captain Edran",
+      "url": "/assets/audio/dialogue/captain_edran/dialogue_tribute_road_line_08_captain_edran.webm"
+    },
+    {
+      "clipId": "dialogue_tribute_road_line_09_aren",
+      "dialogueId": "dialogue_tribute_road",
+      "lineNumber": 9,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_tribute_road_line_09_aren.webm"
+    },
+    {
+      "clipId": "dialogue_tribute_road_line_10_captain_edran",
+      "dialogueId": "dialogue_tribute_road",
+      "lineNumber": 10,
+      "speakerId": "captain_edran",
+      "speaker": "Captain Edran",
+      "url": "/assets/audio/dialogue/captain_edran/dialogue_tribute_road_line_10_captain_edran.webm"
+    },
+    {
+      "clipId": "dialogue_tribute_road_line_11_aren",
+      "dialogueId": "dialogue_tribute_road",
+      "lineNumber": 11,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_tribute_road_line_11_aren.webm"
+    },
+    {
+      "clipId": "dialogue_tribute_road_line_12_captain_edran",
+      "dialogueId": "dialogue_tribute_road",
+      "lineNumber": 12,
+      "speakerId": "captain_edran",
+      "speaker": "Captain Edran",
+      "url": "/assets/audio/dialogue/captain_edran/dialogue_tribute_road_line_12_captain_edran.webm"
+    },
+    {
+      "clipId": "dialogue_orc_gate_warning_line_01_captain_edran",
+      "dialogueId": "dialogue_orc_gate_warning",
+      "lineNumber": 1,
+      "speakerId": "captain_edran",
+      "speaker": "Captain Edran",
+      "url": "/assets/audio/dialogue/captain_edran/dialogue_orc_gate_warning_line_01_captain_edran.webm"
+    },
+    {
+      "clipId": "dialogue_orc_gate_warning_line_02_aren",
+      "dialogueId": "dialogue_orc_gate_warning",
+      "lineNumber": 2,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_orc_gate_warning_line_02_aren.webm"
+    },
+    {
+      "clipId": "dialogue_orc_gate_warning_line_03_captain_edran",
+      "dialogueId": "dialogue_orc_gate_warning",
+      "lineNumber": 3,
+      "speakerId": "captain_edran",
+      "speaker": "Captain Edran",
+      "url": "/assets/audio/dialogue/captain_edran/dialogue_orc_gate_warning_line_03_captain_edran.webm"
+    },
+    {
+      "clipId": "dialogue_orc_gate_warning_line_04_aren",
+      "dialogueId": "dialogue_orc_gate_warning",
+      "lineNumber": 4,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_orc_gate_warning_line_04_aren.webm"
+    },
+    {
+      "clipId": "dialogue_orc_gate_warning_line_05_captain_edran",
+      "dialogueId": "dialogue_orc_gate_warning",
+      "lineNumber": 5,
+      "speakerId": "captain_edran",
+      "speaker": "Captain Edran",
+      "url": "/assets/audio/dialogue/captain_edran/dialogue_orc_gate_warning_line_05_captain_edran.webm"
+    },
+    {
+      "clipId": "dialogue_orc_gate_warning_line_06_aren",
+      "dialogueId": "dialogue_orc_gate_warning",
+      "lineNumber": 6,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_orc_gate_warning_line_06_aren.webm"
+    },
+    {
+      "clipId": "dialogue_orc_gate_warning_line_07_captain_edran",
+      "dialogueId": "dialogue_orc_gate_warning",
+      "lineNumber": 7,
+      "speakerId": "captain_edran",
+      "speaker": "Captain Edran",
+      "url": "/assets/audio/dialogue/captain_edran/dialogue_orc_gate_warning_line_07_captain_edran.webm"
+    },
+    {
+      "clipId": "dialogue_orc_gate_warning_line_08_aren",
+      "dialogueId": "dialogue_orc_gate_warning",
+      "lineNumber": 8,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_orc_gate_warning_line_08_aren.webm"
+    },
+    {
+      "clipId": "dialogue_orc_gate_warning_line_09_captain_edran",
+      "dialogueId": "dialogue_orc_gate_warning",
+      "lineNumber": 9,
+      "speakerId": "captain_edran",
+      "speaker": "Captain Edran",
+      "url": "/assets/audio/dialogue/captain_edran/dialogue_orc_gate_warning_line_09_captain_edran.webm"
+    },
+    {
+      "clipId": "dialogue_orc_gate_warning_line_10_aren",
+      "dialogueId": "dialogue_orc_gate_warning",
+      "lineNumber": 10,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_orc_gate_warning_line_10_aren.webm"
+    },
+    {
+      "clipId": "dialogue_orc_gate_warning_line_11_captain_edran",
+      "dialogueId": "dialogue_orc_gate_warning",
+      "lineNumber": 11,
+      "speakerId": "captain_edran",
+      "speaker": "Captain Edran",
+      "url": "/assets/audio/dialogue/captain_edran/dialogue_orc_gate_warning_line_11_captain_edran.webm"
+    },
+    {
+      "clipId": "dialogue_orc_gate_warning_line_12_aren",
+      "dialogueId": "dialogue_orc_gate_warning",
+      "lineNumber": 12,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_orc_gate_warning_line_12_aren.webm"
+    },
+    {
+      "clipId": "dialogue_eregion_bridge_line_01_silver_court_warden",
+      "dialogueId": "dialogue_eregion_bridge",
+      "lineNumber": 1,
+      "speakerId": "silver_court_warden",
+      "speaker": "Silver Court Warden",
+      "url": "/assets/audio/dialogue/silver_court_warden/dialogue_eregion_bridge_line_01_silver_court_warden.webm"
+    },
+    {
+      "clipId": "dialogue_eregion_bridge_line_02_aren",
+      "dialogueId": "dialogue_eregion_bridge",
+      "lineNumber": 2,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_eregion_bridge_line_02_aren.webm"
+    },
+    {
+      "clipId": "dialogue_eregion_bridge_line_03_silver_court_warden",
+      "dialogueId": "dialogue_eregion_bridge",
+      "lineNumber": 3,
+      "speakerId": "silver_court_warden",
+      "speaker": "Silver Court Warden",
+      "url": "/assets/audio/dialogue/silver_court_warden/dialogue_eregion_bridge_line_03_silver_court_warden.webm"
+    },
+    {
+      "clipId": "dialogue_eregion_bridge_line_04_aren",
+      "dialogueId": "dialogue_eregion_bridge",
+      "lineNumber": 4,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_eregion_bridge_line_04_aren.webm"
+    },
+    {
+      "clipId": "dialogue_eregion_bridge_line_05_silver_court_warden",
+      "dialogueId": "dialogue_eregion_bridge",
+      "lineNumber": 5,
+      "speakerId": "silver_court_warden",
+      "speaker": "Silver Court Warden",
+      "url": "/assets/audio/dialogue/silver_court_warden/dialogue_eregion_bridge_line_05_silver_court_warden.webm"
+    },
+    {
+      "clipId": "dialogue_eregion_bridge_line_06_aren",
+      "dialogueId": "dialogue_eregion_bridge",
+      "lineNumber": 6,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_eregion_bridge_line_06_aren.webm"
+    },
+    {
+      "clipId": "dialogue_eregion_bridge_line_07_silver_court_warden",
+      "dialogueId": "dialogue_eregion_bridge",
+      "lineNumber": 7,
+      "speakerId": "silver_court_warden",
+      "speaker": "Silver Court Warden",
+      "url": "/assets/audio/dialogue/silver_court_warden/dialogue_eregion_bridge_line_07_silver_court_warden.webm"
+    },
+    {
+      "clipId": "dialogue_eregion_bridge_line_08_aren",
+      "dialogueId": "dialogue_eregion_bridge",
+      "lineNumber": 8,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_eregion_bridge_line_08_aren.webm"
+    },
+    {
+      "clipId": "dialogue_eregion_bridge_line_09_silver_court_warden",
+      "dialogueId": "dialogue_eregion_bridge",
+      "lineNumber": 9,
+      "speakerId": "silver_court_warden",
+      "speaker": "Silver Court Warden",
+      "url": "/assets/audio/dialogue/silver_court_warden/dialogue_eregion_bridge_line_09_silver_court_warden.webm"
+    },
+    {
+      "clipId": "dialogue_eregion_bridge_line_10_aren",
+      "dialogueId": "dialogue_eregion_bridge",
+      "lineNumber": 10,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_eregion_bridge_line_10_aren.webm"
+    },
+    {
+      "clipId": "dialogue_eregion_bridge_line_11_silver_court_warden",
+      "dialogueId": "dialogue_eregion_bridge",
+      "lineNumber": 11,
+      "speakerId": "silver_court_warden",
+      "speaker": "Silver Court Warden",
+      "url": "/assets/audio/dialogue/silver_court_warden/dialogue_eregion_bridge_line_11_silver_court_warden.webm"
+    },
+    {
+      "clipId": "dialogue_eregion_bridge_line_12_aren",
+      "dialogueId": "dialogue_eregion_bridge",
+      "lineNumber": 12,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_eregion_bridge_line_12_aren.webm"
+    },
+    {
+      "clipId": "dialogue_celebrimbor_hall_line_01_celebrimbor",
+      "dialogueId": "dialogue_celebrimbor_hall",
+      "lineNumber": 1,
+      "speakerId": "celebrimbor",
+      "speaker": "Celebrimbor",
+      "url": "/assets/audio/dialogue/celebrimbor/dialogue_celebrimbor_hall_line_01_celebrimbor.webm"
+    },
+    {
+      "clipId": "dialogue_celebrimbor_hall_line_02_aren",
+      "dialogueId": "dialogue_celebrimbor_hall",
+      "lineNumber": 2,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_celebrimbor_hall_line_02_aren.webm"
+    },
+    {
+      "clipId": "dialogue_celebrimbor_hall_line_03_celebrimbor",
+      "dialogueId": "dialogue_celebrimbor_hall",
+      "lineNumber": 3,
+      "speakerId": "celebrimbor",
+      "speaker": "Celebrimbor",
+      "url": "/assets/audio/dialogue/celebrimbor/dialogue_celebrimbor_hall_line_03_celebrimbor.webm"
+    },
+    {
+      "clipId": "dialogue_celebrimbor_hall_line_04_aren",
+      "dialogueId": "dialogue_celebrimbor_hall",
+      "lineNumber": 4,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_celebrimbor_hall_line_04_aren.webm"
+    },
+    {
+      "clipId": "dialogue_celebrimbor_hall_line_05_celebrimbor",
+      "dialogueId": "dialogue_celebrimbor_hall",
+      "lineNumber": 5,
+      "speakerId": "celebrimbor",
+      "speaker": "Celebrimbor",
+      "url": "/assets/audio/dialogue/celebrimbor/dialogue_celebrimbor_hall_line_05_celebrimbor.webm"
+    },
+    {
+      "clipId": "dialogue_celebrimbor_hall_line_06_aren",
+      "dialogueId": "dialogue_celebrimbor_hall",
+      "lineNumber": 6,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_celebrimbor_hall_line_06_aren.webm"
+    },
+    {
+      "clipId": "dialogue_celebrimbor_hall_line_07_celebrimbor",
+      "dialogueId": "dialogue_celebrimbor_hall",
+      "lineNumber": 7,
+      "speakerId": "celebrimbor",
+      "speaker": "Celebrimbor",
+      "url": "/assets/audio/dialogue/celebrimbor/dialogue_celebrimbor_hall_line_07_celebrimbor.webm"
+    },
+    {
+      "clipId": "dialogue_celebrimbor_hall_line_08_aren",
+      "dialogueId": "dialogue_celebrimbor_hall",
+      "lineNumber": 8,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_celebrimbor_hall_line_08_aren.webm"
+    },
+    {
+      "clipId": "dialogue_celebrimbor_hall_line_09_celebrimbor",
+      "dialogueId": "dialogue_celebrimbor_hall",
+      "lineNumber": 9,
+      "speakerId": "celebrimbor",
+      "speaker": "Celebrimbor",
+      "url": "/assets/audio/dialogue/celebrimbor/dialogue_celebrimbor_hall_line_09_celebrimbor.webm"
+    },
+    {
+      "clipId": "dialogue_celebrimbor_hall_line_10_aren",
+      "dialogueId": "dialogue_celebrimbor_hall",
+      "lineNumber": 10,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_celebrimbor_hall_line_10_aren.webm"
+    },
+    {
+      "clipId": "dialogue_celebrimbor_hall_line_11_celebrimbor",
+      "dialogueId": "dialogue_celebrimbor_hall",
+      "lineNumber": 11,
+      "speakerId": "celebrimbor",
+      "speaker": "Celebrimbor",
+      "url": "/assets/audio/dialogue/celebrimbor/dialogue_celebrimbor_hall_line_11_celebrimbor.webm"
+    },
+    {
+      "clipId": "dialogue_celebrimbor_hall_line_12_aren",
+      "dialogueId": "dialogue_celebrimbor_hall",
+      "lineNumber": 12,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_celebrimbor_hall_line_12_aren.webm"
+    },
+    {
+      "clipId": "dialogue_eregion_crown_line_01_marshal_edrin",
+      "dialogueId": "dialogue_eregion_crown",
+      "lineNumber": 1,
+      "speakerId": "marshal_edrin",
+      "speaker": "Marshal Edrin",
+      "url": "/assets/audio/dialogue/marshal_edrin/dialogue_eregion_crown_line_01_marshal_edrin.webm"
+    },
+    {
+      "clipId": "dialogue_eregion_crown_line_02_aren",
+      "dialogueId": "dialogue_eregion_crown",
+      "lineNumber": 2,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_eregion_crown_line_02_aren.webm"
+    },
+    {
+      "clipId": "dialogue_eregion_crown_line_03_marshal_edrin",
+      "dialogueId": "dialogue_eregion_crown",
+      "lineNumber": 3,
+      "speakerId": "marshal_edrin",
+      "speaker": "Marshal Edrin",
+      "url": "/assets/audio/dialogue/marshal_edrin/dialogue_eregion_crown_line_03_marshal_edrin.webm"
+    },
+    {
+      "clipId": "dialogue_eregion_crown_line_04_aren",
+      "dialogueId": "dialogue_eregion_crown",
+      "lineNumber": 4,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_eregion_crown_line_04_aren.webm"
+    },
+    {
+      "clipId": "dialogue_eregion_crown_line_05_marshal_edrin",
+      "dialogueId": "dialogue_eregion_crown",
+      "lineNumber": 5,
+      "speakerId": "marshal_edrin",
+      "speaker": "Marshal Edrin",
+      "url": "/assets/audio/dialogue/marshal_edrin/dialogue_eregion_crown_line_05_marshal_edrin.webm"
+    },
+    {
+      "clipId": "dialogue_eregion_crown_line_06_aren",
+      "dialogueId": "dialogue_eregion_crown",
+      "lineNumber": 6,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_eregion_crown_line_06_aren.webm"
+    },
+    {
+      "clipId": "dialogue_eregion_crown_line_07_marshal_edrin",
+      "dialogueId": "dialogue_eregion_crown",
+      "lineNumber": 7,
+      "speakerId": "marshal_edrin",
+      "speaker": "Marshal Edrin",
+      "url": "/assets/audio/dialogue/marshal_edrin/dialogue_eregion_crown_line_07_marshal_edrin.webm"
+    },
+    {
+      "clipId": "dialogue_eregion_crown_line_08_aren",
+      "dialogueId": "dialogue_eregion_crown",
+      "lineNumber": 8,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_eregion_crown_line_08_aren.webm"
+    },
+    {
+      "clipId": "dialogue_eregion_crown_line_09_marshal_edrin",
+      "dialogueId": "dialogue_eregion_crown",
+      "lineNumber": 9,
+      "speakerId": "marshal_edrin",
+      "speaker": "Marshal Edrin",
+      "url": "/assets/audio/dialogue/marshal_edrin/dialogue_eregion_crown_line_09_marshal_edrin.webm"
+    },
+    {
+      "clipId": "dialogue_eregion_crown_line_10_aren",
+      "dialogueId": "dialogue_eregion_crown",
+      "lineNumber": 10,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_eregion_crown_line_10_aren.webm"
+    },
+    {
+      "clipId": "dialogue_eregion_crown_line_11_marshal_edrin",
+      "dialogueId": "dialogue_eregion_crown",
+      "lineNumber": 11,
+      "speakerId": "marshal_edrin",
+      "speaker": "Marshal Edrin",
+      "url": "/assets/audio/dialogue/marshal_edrin/dialogue_eregion_crown_line_11_marshal_edrin.webm"
+    },
+    {
+      "clipId": "dialogue_eregion_crown_line_12_aren",
+      "dialogueId": "dialogue_eregion_crown",
+      "lineNumber": 12,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_eregion_crown_line_12_aren.webm"
+    },
+    {
+      "clipId": "dialogue_galadriel_front_line_01_galadriel",
+      "dialogueId": "dialogue_galadriel_front",
+      "lineNumber": 1,
+      "speakerId": "galadriel",
+      "speaker": "Galadriel",
+      "url": "/assets/audio/dialogue/galadriel/dialogue_galadriel_front_line_01_galadriel.webm"
+    },
+    {
+      "clipId": "dialogue_galadriel_front_line_02_aren",
+      "dialogueId": "dialogue_galadriel_front",
+      "lineNumber": 2,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_galadriel_front_line_02_aren.webm"
+    },
+    {
+      "clipId": "dialogue_galadriel_front_line_03_galadriel",
+      "dialogueId": "dialogue_galadriel_front",
+      "lineNumber": 3,
+      "speakerId": "galadriel",
+      "speaker": "Galadriel",
+      "url": "/assets/audio/dialogue/galadriel/dialogue_galadriel_front_line_03_galadriel.webm"
+    },
+    {
+      "clipId": "dialogue_galadriel_front_line_04_aren",
+      "dialogueId": "dialogue_galadriel_front",
+      "lineNumber": 4,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_galadriel_front_line_04_aren.webm"
+    },
+    {
+      "clipId": "dialogue_galadriel_front_line_05_galadriel",
+      "dialogueId": "dialogue_galadriel_front",
+      "lineNumber": 5,
+      "speakerId": "galadriel",
+      "speaker": "Galadriel",
+      "url": "/assets/audio/dialogue/galadriel/dialogue_galadriel_front_line_05_galadriel.webm"
+    },
+    {
+      "clipId": "dialogue_galadriel_front_line_06_aren",
+      "dialogueId": "dialogue_galadriel_front",
+      "lineNumber": 6,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_galadriel_front_line_06_aren.webm"
+    },
+    {
+      "clipId": "dialogue_galadriel_front_line_07_galadriel",
+      "dialogueId": "dialogue_galadriel_front",
+      "lineNumber": 7,
+      "speakerId": "galadriel",
+      "speaker": "Galadriel",
+      "url": "/assets/audio/dialogue/galadriel/dialogue_galadriel_front_line_07_galadriel.webm"
+    },
+    {
+      "clipId": "dialogue_galadriel_front_line_08_aren",
+      "dialogueId": "dialogue_galadriel_front",
+      "lineNumber": 8,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_galadriel_front_line_08_aren.webm"
+    },
+    {
+      "clipId": "dialogue_galadriel_front_line_09_galadriel",
+      "dialogueId": "dialogue_galadriel_front",
+      "lineNumber": 9,
+      "speakerId": "galadriel",
+      "speaker": "Galadriel",
+      "url": "/assets/audio/dialogue/galadriel/dialogue_galadriel_front_line_09_galadriel.webm"
+    },
+    {
+      "clipId": "dialogue_galadriel_front_line_10_aren",
+      "dialogueId": "dialogue_galadriel_front",
+      "lineNumber": 10,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_galadriel_front_line_10_aren.webm"
+    },
+    {
+      "clipId": "dialogue_galadriel_front_line_11_galadriel",
+      "dialogueId": "dialogue_galadriel_front",
+      "lineNumber": 11,
+      "speakerId": "galadriel",
+      "speaker": "Galadriel",
+      "url": "/assets/audio/dialogue/galadriel/dialogue_galadriel_front_line_11_galadriel.webm"
+    },
+    {
+      "clipId": "dialogue_galadriel_front_line_12_aren",
+      "dialogueId": "dialogue_galadriel_front",
+      "lineNumber": 12,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_galadriel_front_line_12_aren.webm"
+    },
+    {
+      "clipId": "dialogue_lindon_final_line_01_taren_reed",
+      "dialogueId": "dialogue_lindon_final",
+      "lineNumber": 1,
+      "speakerId": "taren_reed",
+      "speaker": "Taren Reed",
+      "url": "/assets/audio/dialogue/taren_reed/dialogue_lindon_final_line_01_taren_reed.webm"
+    },
+    {
+      "clipId": "dialogue_lindon_final_line_02_aren",
+      "dialogueId": "dialogue_lindon_final",
+      "lineNumber": 2,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_lindon_final_line_02_aren.webm"
+    },
+    {
+      "clipId": "dialogue_lindon_final_line_03_taren_reed",
+      "dialogueId": "dialogue_lindon_final",
+      "lineNumber": 3,
+      "speakerId": "taren_reed",
+      "speaker": "Taren Reed",
+      "url": "/assets/audio/dialogue/taren_reed/dialogue_lindon_final_line_03_taren_reed.webm"
+    },
+    {
+      "clipId": "dialogue_lindon_final_line_04_aren",
+      "dialogueId": "dialogue_lindon_final",
+      "lineNumber": 4,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_lindon_final_line_04_aren.webm"
+    },
+    {
+      "clipId": "dialogue_lindon_final_line_05_taren_reed",
+      "dialogueId": "dialogue_lindon_final",
+      "lineNumber": 5,
+      "speakerId": "taren_reed",
+      "speaker": "Taren Reed",
+      "url": "/assets/audio/dialogue/taren_reed/dialogue_lindon_final_line_05_taren_reed.webm"
+    },
+    {
+      "clipId": "dialogue_lindon_final_line_06_aren",
+      "dialogueId": "dialogue_lindon_final",
+      "lineNumber": 6,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_lindon_final_line_06_aren.webm"
+    },
+    {
+      "clipId": "dialogue_lindon_final_line_07_taren_reed",
+      "dialogueId": "dialogue_lindon_final",
+      "lineNumber": 7,
+      "speakerId": "taren_reed",
+      "speaker": "Taren Reed",
+      "url": "/assets/audio/dialogue/taren_reed/dialogue_lindon_final_line_07_taren_reed.webm"
+    },
+    {
+      "clipId": "dialogue_lindon_final_line_08_aren",
+      "dialogueId": "dialogue_lindon_final",
+      "lineNumber": 8,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_lindon_final_line_08_aren.webm"
+    },
+    {
+      "clipId": "dialogue_lindon_final_line_09_taren_reed",
+      "dialogueId": "dialogue_lindon_final",
+      "lineNumber": 9,
+      "speakerId": "taren_reed",
+      "speaker": "Taren Reed",
+      "url": "/assets/audio/dialogue/taren_reed/dialogue_lindon_final_line_09_taren_reed.webm"
+    },
+    {
+      "clipId": "dialogue_lindon_final_line_10_aren",
+      "dialogueId": "dialogue_lindon_final",
+      "lineNumber": 10,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_lindon_final_line_10_aren.webm"
+    },
+    {
+      "clipId": "dialogue_lindon_final_line_11_taren_reed",
+      "dialogueId": "dialogue_lindon_final",
+      "lineNumber": 11,
+      "speakerId": "taren_reed",
+      "speaker": "Taren Reed",
+      "url": "/assets/audio/dialogue/taren_reed/dialogue_lindon_final_line_11_taren_reed.webm"
+    },
+    {
+      "clipId": "dialogue_lindon_final_line_12_aren",
+      "dialogueId": "dialogue_lindon_final",
+      "lineNumber": 12,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_lindon_final_line_12_aren.webm"
+    },
+    {
+      "clipId": "dialogue_arvand_throne_line_01_high_king_arvand",
+      "dialogueId": "dialogue_arvand_throne",
+      "lineNumber": 1,
+      "speakerId": "high_king_arvand",
+      "speaker": "High King Arvand",
+      "url": "/assets/audio/dialogue/high_king_arvand/dialogue_arvand_throne_line_01_high_king_arvand.webm"
+    },
+    {
+      "clipId": "dialogue_arvand_throne_line_02_aren",
+      "dialogueId": "dialogue_arvand_throne",
+      "lineNumber": 2,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_arvand_throne_line_02_aren.webm"
+    },
+    {
+      "clipId": "dialogue_arvand_throne_line_03_high_king_arvand",
+      "dialogueId": "dialogue_arvand_throne",
+      "lineNumber": 3,
+      "speakerId": "high_king_arvand",
+      "speaker": "High King Arvand",
+      "url": "/assets/audio/dialogue/high_king_arvand/dialogue_arvand_throne_line_03_high_king_arvand.webm"
+    },
+    {
+      "clipId": "dialogue_arvand_throne_line_04_aren",
+      "dialogueId": "dialogue_arvand_throne",
+      "lineNumber": 4,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_arvand_throne_line_04_aren.webm"
+    },
+    {
+      "clipId": "dialogue_arvand_throne_line_05_high_king_arvand",
+      "dialogueId": "dialogue_arvand_throne",
+      "lineNumber": 5,
+      "speakerId": "high_king_arvand",
+      "speaker": "High King Arvand",
+      "url": "/assets/audio/dialogue/high_king_arvand/dialogue_arvand_throne_line_05_high_king_arvand.webm"
+    },
+    {
+      "clipId": "dialogue_arvand_throne_line_06_aren",
+      "dialogueId": "dialogue_arvand_throne",
+      "lineNumber": 6,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_arvand_throne_line_06_aren.webm"
+    },
+    {
+      "clipId": "dialogue_arvand_throne_line_07_high_king_arvand",
+      "dialogueId": "dialogue_arvand_throne",
+      "lineNumber": 7,
+      "speakerId": "high_king_arvand",
+      "speaker": "High King Arvand",
+      "url": "/assets/audio/dialogue/high_king_arvand/dialogue_arvand_throne_line_07_high_king_arvand.webm"
+    },
+    {
+      "clipId": "dialogue_arvand_throne_line_08_aren",
+      "dialogueId": "dialogue_arvand_throne",
+      "lineNumber": 8,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_arvand_throne_line_08_aren.webm"
+    },
+    {
+      "clipId": "dialogue_arvand_throne_line_09_high_king_arvand",
+      "dialogueId": "dialogue_arvand_throne",
+      "lineNumber": 9,
+      "speakerId": "high_king_arvand",
+      "speaker": "High King Arvand",
+      "url": "/assets/audio/dialogue/high_king_arvand/dialogue_arvand_throne_line_09_high_king_arvand.webm"
+    },
+    {
+      "clipId": "dialogue_arvand_throne_line_10_aren",
+      "dialogueId": "dialogue_arvand_throne",
+      "lineNumber": 10,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_arvand_throne_line_10_aren.webm"
+    },
+    {
+      "clipId": "dialogue_arvand_throne_line_11_high_king_arvand",
+      "dialogueId": "dialogue_arvand_throne",
+      "lineNumber": 11,
+      "speakerId": "high_king_arvand",
+      "speaker": "High King Arvand",
+      "url": "/assets/audio/dialogue/high_king_arvand/dialogue_arvand_throne_line_11_high_king_arvand.webm"
+    },
+    {
+      "clipId": "dialogue_arvand_throne_line_12_aren",
+      "dialogueId": "dialogue_arvand_throne",
+      "lineNumber": 12,
+      "speakerId": "aren",
+      "speaker": "Aren",
+      "url": "/assets/audio/dialogue/aren/dialogue_arvand_throne_line_12_aren.webm"
+    }
+  ]
+}

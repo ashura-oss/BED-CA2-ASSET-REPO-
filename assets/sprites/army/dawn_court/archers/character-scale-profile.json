@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "name": "dawn-court-dawn-longbow",
+  "processing": {
+    "cell_size": 512,
+    "fit_scale": 0.86,
+    "trim_border": 4,
+    "edge_clean_depth": 3,
+    "align": "feet",
+    "shared_scale": false,
+    "scale_strategy": "preserve",
+    "component_mode": "largest",
+    "component_padding": 0,
+    "min_component_area": 1,
+    "edge_touch_margin": 0
+  },
+  "output_origin": [
+    256.0,
+    477
+  ],
+  "reference": {
+    "target": "npc",
+    "mode": "idle",
+    "rows": 2,
+    "cols": 2,
+    "body_scale_mean": 0.4330221129301218,
+    "body_scale_cv": 0.004069161068800397,
+    "anchor_y_mean": 0.8675282714054927
+  },
+  "qc": {
+    "max_body_scale_drift": 0.1
+  }
+}

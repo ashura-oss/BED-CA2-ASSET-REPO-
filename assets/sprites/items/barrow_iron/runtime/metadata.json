@@ -1,0 +1,152 @@
+{
+  "source": "artifacts\\asset-sources\\sprites\\items\\barrow_iron\\raw-icon.webp",
+  "master": "public\\assets\\sprites\\items\\barrow_iron\\icon-transparent.webp",
+  "source_size": [
+    1254,
+    1254
+  ],
+  "master_size": [
+    1024,
+    1024
+  ],
+  "fit_scale": 0.8,
+  "background_sample": [
+    233,
+    9,
+    231
+  ],
+  "variants": {
+    "512": {
+      "path": "public\\assets\\sprites\\items\\barrow_iron\\runtime\\512.webp",
+      "size": [
+        512,
+        512
+      ]
+    },
+    "256": {
+      "path": "public\\assets\\sprites\\items\\barrow_iron\\runtime\\256.webp",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "128": {
+      "path": "public\\assets\\sprites\\items\\barrow_iron\\runtime\\128.webp",
+      "size": [
+        128,
+        128
+      ]
+    },
+    "64": {
+      "path": "public\\assets\\sprites\\items\\barrow_iron\\runtime\\64.webp",
+      "size": [
+        64,
+        64
+      ]
+    }
+  },
+  "qc": {
+    "master": {
+      "size": [
+        1024,
+        1024
+      ],
+      "visible_pixels": 338066,
+      "opaque_hot_magenta": 0,
+      "bbox": [
+        102,
+        167,
+        921,
+        856
+      ],
+      "padding": [
+        102,
+        167,
+        103,
+        168
+      ]
+    },
+    "variants": {
+      "512": {
+        "size": [
+          512,
+          512
+        ],
+        "visible_pixels": 86280,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          48,
+          81,
+          463,
+          431
+        ],
+        "padding": [
+          48,
+          81,
+          49,
+          81
+        ]
+      },
+      "256": {
+        "size": [
+          256,
+          256
+        ],
+        "visible_pixels": 22300,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          23,
+          39,
+          233,
+          217
+        ],
+        "padding": [
+          23,
+          39,
+          23,
+          39
+        ]
+      },
+      "128": {
+        "size": [
+          128,
+          128
+        ],
+        "visible_pixels": 5884,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          10,
+          18,
+          118,
+          110
+        ],
+        "padding": [
+          10,
+          18,
+          10,
+          18
+        ]
+      },
+      "64": {
+        "size": [
+          64,
+          64
+        ],
+        "visible_pixels": 1631,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          4,
+          8,
+          60,
+          56
+        ],
+        "padding": [
+          4,
+          8,
+          4,
+          8
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "source": "artifacts\\asset-sources\\sprites\\items\\moon_silver_shard\\raw-icon.webp",
+  "master": "public\\assets\\sprites\\items\\moon_silver_shard\\icon-transparent.webp",
+  "source_size": [
+    1254,
+    1254
+  ],
+  "master_size": [
+    1024,
+    1024
+  ],
+  "fit_scale": 0.8,
+  "background_sample": [
+    238,
+    11,
+    227
+  ],
+  "variants": {
+    "512": {
+      "path": "public\\assets\\sprites\\items\\moon_silver_shard\\runtime\\512.webp",
+      "size": [
+        512,
+        512
+      ]
+    },
+    "256": {
+      "path": "public\\assets\\sprites\\items\\moon_silver_shard\\runtime\\256.webp",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "128": {
+      "path": "public\\assets\\sprites\\items\\moon_silver_shard\\runtime\\128.webp",
+      "size": [
+        128,
+        128
+      ]
+    },
+    "64": {
+      "path": "public\\assets\\sprites\\items\\moon_silver_shard\\runtime\\64.webp",
+      "size": [
+        64,
+        64
+      ]
+    }
+  },
+  "qc": {
+    "master": {
+      "size": [
+        1024,
+        1024
+      ],
+      "visible_pixels": 304337,
+      "opaque_hot_magenta": 0,
+      "bbox": [
+        155,
+        102,
+        868,
+        921
+      ],
+      "padding": [
+        155,
+        102,
+        156,
+        103
+      ]
+    },
+    "variants": {
+      "512": {
+        "size": [
+          512,
+          512
+        ],
+        "visible_pixels": 77949,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          75,
+          48,
+          437,
+          463
+        ],
+        "padding": [
+          75,
+          48,
+          75,
+          49
+        ]
+      },
+      "256": {
+        "size": [
+          256,
+          256
+        ],
+        "visible_pixels": 20202,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          36,
+          23,
+          220,
+          233
+        ],
+        "padding": [
+          36,
+          23,
+          36,
+          23
+        ]
+      },
+      "128": {
+        "size": [
+          128,
+          128
+        ],
+        "visible_pixels": 5376,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          17,
+          10,
+          111,
+          118
+        ],
+        "padding": [
+          17,
+          10,
+          17,
+          10
+        ]
+      },
+      "64": {
+        "size": [
+          64,
+          64
+        ],
+        "visible_pixels": 1482,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          7,
+          4,
+          57,
+          60
+        ],
+        "padding": [
+          7,
+          4,
+          7,
+          4
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "source": "artifacts\\asset-sources\\sprites\\items\\silverleaf\\raw-icon.webp",
+  "master": "public\\assets\\sprites\\items\\silverleaf\\icon-transparent.webp",
+  "source_size": [
+    1254,
+    1254
+  ],
+  "master_size": [
+    1024,
+    1024
+  ],
+  "fit_scale": 0.8,
+  "background_sample": [
+    232,
+    15,
+    225
+  ],
+  "variants": {
+    "512": {
+      "path": "public\\assets\\sprites\\items\\silverleaf\\runtime\\512.webp",
+      "size": [
+        512,
+        512
+      ]
+    },
+    "256": {
+      "path": "public\\assets\\sprites\\items\\silverleaf\\runtime\\256.webp",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "128": {
+      "path": "public\\assets\\sprites\\items\\silverleaf\\runtime\\128.webp",
+      "size": [
+        128,
+        128
+      ]
+    },
+    "64": {
+      "path": "public\\assets\\sprites\\items\\silverleaf\\runtime\\64.webp",
+      "size": [
+        64,
+        64
+      ]
+    }
+  },
+  "qc": {
+    "master": {
+      "size": [
+        1024,
+        1024
+      ],
+      "visible_pixels": 243730,
+      "opaque_hot_magenta": 0,
+      "bbox": [
+        229,
+        102,
+        794,
+        921
+      ],
+      "padding": [
+        229,
+        102,
+        230,
+        103
+      ]
+    },
+    "variants": {
+      "512": {
+        "size": [
+          512,
+          512
+        ],
+        "visible_pixels": 62454,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          112,
+          48,
+          400,
+          463
+        ],
+        "padding": [
+          112,
+          48,
+          112,
+          49
+        ]
+      },
+      "256": {
+        "size": [
+          256,
+          256
+        ],
+        "visible_pixels": 16225,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          55,
+          23,
+          201,
+          233
+        ],
+        "padding": [
+          55,
+          23,
+          55,
+          23
+        ]
+      },
+      "128": {
+        "size": [
+          128,
+          128
+        ],
+        "visible_pixels": 4347,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          26,
+          10,
+          102,
+          118
+        ],
+        "padding": [
+          26,
+          10,
+          26,
+          10
+        ]
+      },
+      "64": {
+        "size": [
+          64,
+          64
+        ],
+        "visible_pixels": 1223,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          12,
+          4,
+          52,
+          60
+        ],
+        "padding": [
+          12,
+          4,
+          12,
+          4
+        ]
+      }
+    }
+  }
+}

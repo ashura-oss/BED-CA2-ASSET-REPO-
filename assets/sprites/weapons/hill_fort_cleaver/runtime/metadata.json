@@ -1,0 +1,152 @@
+{
+  "source": "artifacts\\asset-sources\\sprites\\weapons\\hill_fort_cleaver\\raw-icon.webp",
+  "master": "public\\assets\\sprites\\weapons\\hill_fort_cleaver\\icon-transparent.webp",
+  "source_size": [
+    1254,
+    1254
+  ],
+  "master_size": [
+    1024,
+    1024
+  ],
+  "fit_scale": 0.82,
+  "background_sample": [
+    239,
+    11,
+    237
+  ],
+  "variants": {
+    "512": {
+      "path": "public\\assets\\sprites\\weapons\\hill_fort_cleaver\\runtime\\512.webp",
+      "size": [
+        512,
+        512
+      ]
+    },
+    "256": {
+      "path": "public\\assets\\sprites\\weapons\\hill_fort_cleaver\\runtime\\256.webp",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "128": {
+      "path": "public\\assets\\sprites\\weapons\\hill_fort_cleaver\\runtime\\128.webp",
+      "size": [
+        128,
+        128
+      ]
+    },
+    "64": {
+      "path": "public\\assets\\sprites\\weapons\\hill_fort_cleaver\\runtime\\64.webp",
+      "size": [
+        64,
+        64
+      ]
+    }
+  },
+  "qc": {
+    "master": {
+      "size": [
+        1024,
+        1024
+      ],
+      "visible_pixels": 195614,
+      "opaque_hot_magenta": 0,
+      "bbox": [
+        102,
+        92,
+        921,
+        931
+      ],
+      "padding": [
+        102,
+        92,
+        103,
+        93
+      ]
+    },
+    "variants": {
+      "512": {
+        "size": [
+          512,
+          512
+        ],
+        "visible_pixels": 50104,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          48,
+          43,
+          463,
+          468
+        ],
+        "padding": [
+          48,
+          43,
+          49,
+          44
+        ]
+      },
+      "256": {
+        "size": [
+          256,
+          256
+        ],
+        "visible_pixels": 13035,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          23,
+          20,
+          233,
+          235
+        ],
+        "padding": [
+          23,
+          20,
+          23,
+          21
+        ]
+      },
+      "128": {
+        "size": [
+          128,
+          128
+        ],
+        "visible_pixels": 3530,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          10,
+          9,
+          118,
+          119
+        ],
+        "padding": [
+          10,
+          9,
+          10,
+          9
+        ]
+      },
+      "64": {
+        "size": [
+          64,
+          64
+        ],
+        "visible_pixels": 1017,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          4,
+          3,
+          60,
+          61
+        ],
+        "padding": [
+          4,
+          3,
+          4,
+          3
+        ]
+      }
+    }
+  }
+}

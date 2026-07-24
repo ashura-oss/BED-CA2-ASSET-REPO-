@@ -1,0 +1,152 @@
+{
+  "source": "artifacts\\asset-sources\\sprites\\weapons\\hearthvale_blade\\raw-icon.webp",
+  "master": "public\\assets\\sprites\\weapons\\hearthvale_blade\\icon-transparent.webp",
+  "source_size": [
+    1254,
+    1254
+  ],
+  "master_size": [
+    1024,
+    1024
+  ],
+  "fit_scale": 0.82,
+  "background_sample": [
+    239,
+    12,
+    238
+  ],
+  "variants": {
+    "512": {
+      "path": "public\\assets\\sprites\\weapons\\hearthvale_blade\\runtime\\512.webp",
+      "size": [
+        512,
+        512
+      ]
+    },
+    "256": {
+      "path": "public\\assets\\sprites\\weapons\\hearthvale_blade\\runtime\\256.webp",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "128": {
+      "path": "public\\assets\\sprites\\weapons\\hearthvale_blade\\runtime\\128.webp",
+      "size": [
+        128,
+        128
+      ]
+    },
+    "64": {
+      "path": "public\\assets\\sprites\\weapons\\hearthvale_blade\\runtime\\64.webp",
+      "size": [
+        64,
+        64
+      ]
+    }
+  },
+  "qc": {
+    "master": {
+      "size": [
+        1024,
+        1024
+      ],
+      "visible_pixels": 74051,
+      "opaque_hot_magenta": 0,
+      "bbox": [
+        162,
+        92,
+        862,
+        931
+      ],
+      "padding": [
+        162,
+        92,
+        162,
+        93
+      ]
+    },
+    "variants": {
+      "512": {
+        "size": [
+          512,
+          512
+        ],
+        "visible_pixels": 19628,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          78,
+          43,
+          434,
+          468
+        ],
+        "padding": [
+          78,
+          43,
+          78,
+          44
+        ]
+      },
+      "256": {
+        "size": [
+          256,
+          256
+        ],
+        "visible_pixels": 5406,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          38,
+          21,
+          218,
+          235
+        ],
+        "padding": [
+          38,
+          21,
+          38,
+          21
+        ]
+      },
+      "128": {
+        "size": [
+          128,
+          128
+        ],
+        "visible_pixels": 1600,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          18,
+          9,
+          110,
+          119
+        ],
+        "padding": [
+          18,
+          9,
+          18,
+          9
+        ]
+      },
+      "64": {
+        "size": [
+          64,
+          64
+        ],
+        "visible_pixels": 527,
+        "opaque_hot_magenta": 0,
+        "bbox": [
+          7,
+          3,
+          56,
+          61
+        ],
+        "padding": [
+          7,
+          3,
+          8,
+          3
+        ]
+      }
+    }
+  }
+}

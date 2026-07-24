@@ -1,0 +1,33 @@
+{
+  "source_sheet": "public\\assets\\sprites\\fx\\bosses\\galadriel_golden_counter_burst\\sheet-transparent.webp",
+  "rows": 2,
+  "cols": 4,
+  "master_cell_size": 512,
+  "duration_ms": 65,
+  "variants": {
+    "desktop": {
+      "path": "public\\assets\\sprites\\fx\\bosses\\galadriel_golden_counter_burst\\runtime\\desktop.webp",
+      "cell_size": 512,
+      "sheet_size": [
+        2048,
+        1024
+      ]
+    },
+    "tablet": {
+      "path": "public\\assets\\sprites\\fx\\bosses\\galadriel_golden_counter_burst\\runtime\\tablet.webp",
+      "cell_size": 384,
+      "sheet_size": [
+        1536,
+        768
+      ]
+    },
+    "mobile": {
+      "path": "public\\assets\\sprites\\fx\\bosses\\galadriel_golden_counter_burst\\runtime\\mobile.webp",
+      "cell_size": 256,
+      "sheet_size": [
+        1024,
+        512
+      ]
+    }
+  }
+}

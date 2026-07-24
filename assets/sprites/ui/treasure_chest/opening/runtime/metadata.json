@@ -1,0 +1,33 @@
+{
+  "source_sheet": "public\\assets\\sprites\\ui\\treasure_chest\\opening\\sheet-transparent.webp",
+  "rows": 1,
+  "cols": 8,
+  "master_cell_size": 512,
+  "duration_ms": 100,
+  "variants": {
+    "desktop": {
+      "path": "public\\assets\\sprites\\ui\\treasure_chest\\opening\\runtime\\desktop.webp",
+      "cell_size": 512,
+      "sheet_size": [
+        4096,
+        512
+      ]
+    },
+    "tablet": {
+      "path": "public\\assets\\sprites\\ui\\treasure_chest\\opening\\runtime\\tablet.webp",
+      "cell_size": 384,
+      "sheet_size": [
+        3072,
+        384
+      ]
+    },
+    "mobile": {
+      "path": "public\\assets\\sprites\\ui\\treasure_chest\\opening\\runtime\\mobile.webp",
+      "cell_size": 256,
+      "sheet_size": [
+        2048,
+        256
+      ]
+    }
+  }
+}
