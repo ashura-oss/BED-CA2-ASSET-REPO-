@@ -10,7 +10,7 @@
       "runtime_mesh_objects": 39,
       "inner_radius": 0.7675,
       "outer_radius": 1.01,
-      "fallback": "/assets/images/intro-rings/valinor.webp"
+      "fallback": "https://ashura-oss.github.io/BED-CA2-ASSET-REPO-/assets/images/intro-rings/valinor.webp"
     },
     {
       "id": "adar",
@@ -22,7 +22,7 @@
       "runtime_mesh_objects": 42,
       "inner_radius": 0.7175,
       "outer_radius": 1.05,
-      "fallback": "/assets/images/intro-rings/adar.webp"
+      "fallback": "https://ashura-oss.github.io/BED-CA2-ASSET-REPO-/assets/images/intro-rings/adar.webp"
     },
     {
       "id": "isildur",
@@ -34,18 +34,18 @@
       "runtime_mesh_objects": 32,
       "inner_radius": 0.7225,
       "outer_radius": 1.07,
-      "fallback": "/assets/images/intro-rings/isildur.webp"
+      "fallback": "https://ashura-oss.github.io/BED-CA2-ASSET-REPO-/assets/images/intro-rings/isildur.webp"
     }
   ],
   "files": {
-    "valinor": "/assets/models/intro-rings/valinor.glb",
-    "adar": "/assets/models/intro-rings/adar.glb",
-    "isildur": "/assets/models/intro-rings/isildur.glb"
+    "valinor": "https://ashura-oss.github.io/BED-CA2-ASSET-REPO-/assets/models/intro-rings/valinor.glb",
+    "adar": "https://ashura-oss.github.io/BED-CA2-ASSET-REPO-/assets/models/intro-rings/adar.glb",
+    "isildur": "https://ashura-oss.github.io/BED-CA2-ASSET-REPO-/assets/models/intro-rings/isildur.glb"
   },
   "loops": {
-    "valinor": "/assets/images/intro-rings/loops/valinor.webp",
-    "adar": "/assets/images/intro-rings/loops/adar.webp",
-    "isildur": "/assets/images/intro-rings/loops/isildur.webp"
+    "valinor": "https://ashura-oss.github.io/BED-CA2-ASSET-REPO-/assets/images/intro-rings/loops/valinor.webp",
+    "adar": "https://ashura-oss.github.io/BED-CA2-ASSET-REPO-/assets/images/intro-rings/loops/adar.webp",
+    "isildur": "https://ashura-oss.github.io/BED-CA2-ASSET-REPO-/assets/images/intro-rings/loops/isildur.webp"
   },
   "source": "artifacts/asset-sources/models/intro-rings/intro-rings-source.blend"
 }
